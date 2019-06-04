@@ -1,0 +1,541 @@
+# Project information
+site_name: '夜行博客'
+site_description: '夜行博客'
+site_author: 'gavin'
+site_url: 'https://github.com/gaviners/mkdocs_blog'
+
+# Repository
+repo_name: 'gaviners/mkdocs_blog'
+repo_url: 'https://github.com/gaviners/mkdocs_blog'
+
+# Copyright
+copyright: 'Copyright &copy; 2018 - 2019 Gavin zhishengqianjun@163.com'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'zh'
+  palette:
+    primary: 'light blue'
+    accent: 'light blue'
+  feature:
+    tabs: true
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/gaviners'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+          - name: flow
+            class: uml-flowchart
+            format: !!python/name:pymdownx.superfences.fence_code_format
+          - name: sequence
+            class: uml-sequence-diagram
+            format: !!python/name:pymdownx.superfences.fence_code_format
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+
+extra_css:
+  - https://unpkg.com/mermaid@7.1.2/dist/mermaid.css
+
+extra_javascript:
+  - js/math_config.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML
+  - https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.6.5/flowchart.min.js
+  - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
+  - js/baidu-tongji.js
+  - js/umlconvert.js
+
+
+nav:
+  - '首页': 
+      - index.md
+  - '编程语言': 
+      - 'python':
+          - language/python/python.md
+  - '计算机基础':
+      - 'Linux':
+          - computer/linux/Linux.md
+      - 'Web':
+          - computer/web/Web.md
+  - '数学基础':
+      - math/线性代数.md
+      - math/概率论与数理统计.md
+  - '机器学习':
+      - "Sigmoid函数与损失函数求导": machinelearning/Sigmoid.md
+  - '大数据':
+      - bigdata/大数据.md
+  - '云计算':
+      - cloud/云计算.md
+  - '自然语言处理':
+      - nlp/自然语言处理.md
+  - '项目集锦':
+      - project/项目集锦.md
+  - '算法题集':
+      - '基础算法':
+          - problem/algorithm/内部排序算法.md
+          - problem/algorithm/哈希表的大小为何是素数.md
+      - 'LeetCode题目':
+          - 'LeetCode-0001': problem/leetcode/LeetCode-1. 两数之和.md
+          - 'LeetCode-0002': problem/leetcode/LeetCode-2. 两数相加.md
+          - 'LeetCode-0003': problem/leetcode/LeetCode-3. 无重复字符的最长子串.md
+          - 'LeetCode-0004': problem/leetcode/LeetCode-4. 两个排序数组的中位数.md
+          - 'LeetCode-0005': problem/leetcode/LeetCode-5. 最长回文子串.md
+          - 'LeetCode-0006': problem/leetcode/LeetCode-6. Z字形变换.md
+          - 'LeetCode-0007': problem/leetcode/LeetCode-7. 反转整数.md
+          - 'LeetCode-0008': problem/leetcode/LeetCode-8. 字符串转整数 (atoi).md
+          - 'LeetCode-0009': problem/leetcode/LeetCode-9. 回文数.md
+          - 'LeetCode-0010': problem/leetcode/LeetCode-10. 正则表达式匹配.md
+          - 'LeetCode-0011': problem/leetcode/LeetCode-11. 盛最多水的容器.md
+          - 'LeetCode-0012': problem/leetcode/LeetCode-12. 整数转罗马数字.md
+          - 'LeetCode-0013': problem/leetcode/LeetCode-13. 罗马数字转整数.md
+          - 'LeetCode-0014': problem/leetcode/LeetCode-14. 最长公共前缀.md
+          - 'LeetCode-0015': problem/leetcode/LeetCode-15. 三数之和.md
+          - 'LeetCode-0016': problem/leetcode/LeetCode-16. 最接近的三数之和.md
+          - 'LeetCode-0017': problem/leetcode/LeetCode-17.电话号码的字母组合.md
+          - 'LeetCode-0018': problem/leetcode/LeetCode-18.四数之和.md
+          - 'LeetCode-0019': problem/leetcode/LeetCode-19. 删除链表的倒数第N个节点.md
+          - 'LeetCode-0020': problem/leetcode/LeetCode-20. 有效的括号.md
+          - 'LeetCode-0021': problem/leetcode/LeetCode-21. 合并两个有序链表.md
+          - 'LeetCode-0022': problem/leetcode/LeetCode-22. 括号生成.md
+          - 'LeetCode-0023': problem/leetcode/LeetCode-23. 合并K个排序链表.md
+          - 'LeetCode-0024': problem/leetcode/LeetCode-24. 两两交换链表中的节点.md
+          - 'LeetCode-0025': problem/leetcode/LeetCode-25. k个一组翻转链表.md
+          - 'LeetCode-0026': problem/leetcode/LeetCode-26. 删除排序数组中的重复项.md
+          - 'LeetCode-0027': problem/leetcode/LeetCode-27. 移除元素.md
+          - 'LeetCode-0028': problem/leetcode/LeetCode-28. 实现strStr().md
+          - 'LeetCode-0029': problem/leetcode/LeetCode-29.两数相除.md
+          - 'LeetCode-0031': problem/leetcode/LeetCode-31. 下一个排列.md
+          - 'LeetCode-0033': problem/leetcode/LeetCode-33. 搜索旋转排序数组.md
+          - 'LeetCode-0034': problem/leetcode/LeetCode-34. 搜索范围.md
+          - 'LeetCode-0035': problem/leetcode/LeetCode-35. 搜索插入位置.md
+          - 'LeetCode-0036': problem/leetcode/LeetCode-36. 有效的数独.md
+          - 'LeetCode-0038': problem/leetcode/LeetCode-38. 报数.md
+          - 'LeetCode-0039': problem/leetcode/LeetCode-39. 组合总和.md
+          - 'LeetCode-0040': problem/leetcode/LeetCode-40. 组合总和 II.md
+          - 'LeetCode-0043': problem/leetcode/LeetCode-43. 字符串相乘.md
+          - 'LeetCode-0046': problem/leetcode/LeetCode-46. 全排列.md
+          - 'LeetCode-0047': problem/leetcode/LeetCode-47. 全排列 II.md
+          - 'LeetCode-0048': problem/leetcode/LeetCode-48. 旋转图像.md
+          - 'LeetCode-0049': problem/leetcode/LeetCode-49. 字母异位词分组.md
+          - 'LeetCode-0050': problem/leetcode/LeetCode-50.Pow(x, n).md
+          - 'LeetCode-0053': problem/leetcode/LeetCode-53.最大子序和.md
+          - 'LeetCode-0054': problem/leetcode/LeetCode-54. 螺旋矩阵.md
+          - 'LeetCode-0055': problem/leetcode/LeetCode-55. 跳跃游戏.md
+          - 'LeetCode-0056': problem/leetcode/LeetCode-56. 合并区间.md
+          - 'LeetCode-0058': problem/leetcode/LeetCode-58. 最后一个单词的长度.md
+          - 'LeetCode-0059': problem/leetcode/LeetCode-59. 螺旋矩阵 II.md
+          - 'LeetCode-0060': problem/leetcode/LeetCode-60. 第k个排列.md
+          - 'LeetCode-0061': problem/leetcode/LeetCode-61. 旋转链表.md
+          - 'LeetCode-0062': problem/leetcode/LeetCode-62. 不同路径.md
+          - 'LeetCode-0063': problem/leetcode/LeetCode-63. 不同路径 II.md
+          - 'LeetCode-0064': problem/leetcode/LeetCode-64. 最小路径和.md
+          - 'LeetCode-0066': problem/leetcode/LeetCode-66.加一.md
+          - 'LeetCode-0067': problem/leetcode/LeetCode-67.二进制求和.md
+          - 'LeetCode-0069': problem/leetcode/LeetCode-69.x 的平方根.md
+          - 'LeetCode-0070': problem/leetcode/LeetCode-70. 爬楼梯.md
+          - 'LeetCode-0071': problem/leetcode/LeetCode-71. 简化路径.md
+          - 'LeetCode-0073': problem/leetcode/LeetCode-73. 矩阵置零.md
+          - 'LeetCode-0074': problem/leetcode/LeetCode-74. 搜索二维矩阵.md
+          - 'LeetCode-0075': problem/leetcode/LeetCode-75. 分类颜色.md
+          - 'LeetCode-0077': problem/leetcode/LeetCode-77. 组合.md
+          - 'LeetCode-0078': problem/leetcode/LeetCode-78. 子集.md
+          - 'LeetCode-0079': problem/leetcode/LeetCode-79. 单词搜索.md
+          - 'LeetCode-0080': problem/leetcode/LeetCode-80. 删除排序数组中的重复项 II.md
+          - 'LeetCode-0081': problem/leetcode/LeetCode-81. 搜索旋转排序数组 II.md
+          - 'LeetCode-0082': problem/leetcode/LeetCode-82. 删除排序链表中的重复元素 II.md
+          - 'LeetCode-0083': problem/leetcode/LeetCode-83.删除排序链表中的重复元素.md
+          - 'LeetCode-0086': problem/leetcode/LeetCode-86. 分隔链表.md
+          - 'LeetCode-0088': problem/leetcode/LeetCode-88. 合并两个有序数组.md
+          - 'LeetCode-0089': problem/leetcode/LeetCode-89. 格雷编码.md
+          - 'LeetCode-0090': problem/leetcode/LeetCode-90. 子集 II.md
+          - 'LeetCode-0091': problem/leetcode/LeetCode-91. 解码方法.md
+          - 'LeetCode-0092': problem/leetcode/LeetCode-92. 反转链表 II.md
+          - 'LeetCode-0093': problem/leetcode/LeetCode-93. 复原IP地址.md
+          - 'LeetCode-0094': problem/leetcode/LeetCode-94. 二叉树的中序遍历.md
+          - 'LeetCode-0095': problem/leetcode/LeetCode-95. 不同的二叉搜索树 II.md
+          - 'LeetCode-0096': problem/leetcode/LeetCode-96. 不同的二叉搜索树.md
+          - 'LeetCode-0098': problem/leetcode/LeetCode-98. 验证二叉搜索树.md
+          - 'LeetCode-0100': problem/leetcode/LeetCode-100. 相同的树.md
+          - 'LeetCode-0101': problem/leetcode/LeetCode-101. 对称二叉树.md
+          - 'LeetCode-0102': problem/leetcode/LeetCode-102. 二叉树的层次遍历.md
+          - 'LeetCode-0103': problem/leetcode/LeetCode-103. 二叉树的锯齿形层次遍历.md
+          - 'LeetCode-0104': problem/leetcode/LeetCode-104. 二叉树的最大深度.md
+          - 'LeetCode-0105': problem/leetcode/LeetCode-105. 从前序与中序遍历序列构造二叉树.md
+          - 'LeetCode-0106': problem/leetcode/LeetCode-106. 从中序与后序遍历序列构造二叉树.md
+          - 'LeetCode-0107': problem/leetcode/LeetCode-107. 二叉树的层次遍历 II.md
+          - 'LeetCode-0108': problem/leetcode/LeetCode-108. 将有序数组转换为二叉搜索树.md
+          - 'LeetCode-0109': problem/leetcode/LeetCode-109. 有序链表转换二叉搜索树.md
+          - 'LeetCode-0110': problem/leetcode/LeetCode-110. 平衡二叉树.md
+          - 'LeetCode-0111': problem/leetcode/LeetCode-111 . 二叉树的最小深度.md
+          - 'LeetCode-0112': problem/leetcode/LeetCode-112. 路径总和.md
+          - 'LeetCode-0113': problem/leetcode/LeetCode-113. 路径总和 II.md
+          - 'LeetCode-0114': problem/leetcode/LeetCode-114. 二叉树展开为链表.md
+          - 'LeetCode-0116': problem/leetcode/LeetCode-116. 填充同一层的兄弟节点.md
+          - 'LeetCode-0117': problem/leetcode/LeetCode-117. 填充同一层的兄弟节点 II.md
+          - 'LeetCode-0118': problem/leetcode/LeetCode-118. 杨辉三角.md
+          - 'LeetCode-0119': problem/leetcode/LeetCode-119. 杨辉三角 II.md
+          - 'LeetCode-0120': problem/leetcode/LeetCode-120. 三角形最小路径和.md
+          - 'LeetCode-0121': problem/leetcode/LeetCode-121. 买卖股票的最佳时机.md
+          - 'LeetCode-0122': problem/leetcode/LeetCode-122. 买卖股票的最佳时机 II.md
+          - 'LeetCode-0125': problem/leetcode/LeetCode-125. 验证回文串.md
+          - 'LeetCode-0126': problem/leetcode/LeetCode-126. 单词接龙 II.md
+          - 'LeetCode-0127': problem/leetcode/LeetCode-127. 单词接龙.md
+          - 'LeetCode-0129': problem/leetcode/LeetCode-129. 求根到叶子节点数字之和.md
+          - 'LeetCode-0130': problem/leetcode/LeetCode-130. 被围绕的区域.md
+          - 'LeetCode-0131': problem/leetcode/LeetCode-131. 分割回文串.md
+          - 'LeetCode-0133': problem/leetcode/LeetCode-133. 克隆图.md
+          - 'LeetCode-0134': problem/leetcode/LeetCode-134. 加油站.md
+          - 'LeetCode-0136': problem/leetcode/LeetCode-136. 只出现一次的数字.md
+          - 'LeetCode-0137': problem/leetcode/LeetCode-137. 只出现一次的数字 II.md
+          - 'LeetCode-0138': problem/leetcode/LeetCode-138. 复制带随机指针的链表.md
+          - 'LeetCode-0139': problem/leetcode/LeetCode-139. 单词拆分.md
+          - 'LeetCode-0141': problem/leetcode/LeetCode-141. 环形链表.md
+          - 'LeetCode-0142': problem/leetcode/LeetCode-142. 环形链表 II.md
+          - 'LeetCode-0143': problem/leetcode/LeetCode-143. 重排链表.md
+          - 'LeetCode-0144': problem/leetcode/LeetCode-144. 二叉树的前序遍历.md
+          - 'LeetCode-0147': problem/leetcode/LeetCode-147. 对链表进行插入排序.md
+          - 'LeetCode-0148': problem/leetcode/LeetCode-148. 排序链表.md
+          - 'LeetCode-0150': problem/leetcode/LeetCode-150. 逆波兰表达式求值.md
+          - 'LeetCode-0151': problem/leetcode/LeetCode-151. 翻转字符串里的单词.md
+          - 'LeetCode-0152': problem/leetcode/LeetCode-152. 乘积最大子序列.md
+          - 'LeetCode-0153': problem/leetcode/LeetCode-153. 寻找旋转排序数组中的最小值.md
+          - 'LeetCode-0155': problem/leetcode/LeetCode-155. 最小栈.md
+          - 'LeetCode-0160': problem/leetcode/LeetCode-160 . 相交链表.md
+          - 'LeetCode-0162': problem/leetcode/LeetCode-162. 寻找峰值.md
+          - 'LeetCode-0165': problem/leetcode/LeetCode-165. 比较版本号.md
+          - 'LeetCode-0166': problem/leetcode/LeetCode-166. 分数到小数.md
+          - 'LeetCode-0167': problem/leetcode/LeetCode-167. 两数之和 II - 输入有序数组.md
+          - 'LeetCode-0168': problem/leetcode/LeetCode-168. Excel表列名称.md
+          - 'LeetCode-0169': problem/leetcode/LeetCode-169. 求众数.md
+          - 'LeetCode-0171': problem/leetcode/LeetCode-171. Excel表列序号.md
+          - 'LeetCode-0172': problem/leetcode/LeetCode-172. 阶乘后的零.md
+          - 'LeetCode-0173': problem/leetcode/LeetCode-173. 二叉搜索树迭代器.md
+          - 'LeetCode-0175': problem/leetcode/LeetCode-175 . 组合两个表.md
+          - 'LeetCode-0176': problem/leetcode/LeetCode-176. 第二高的薪水.md
+          - 'LeetCode-0177': problem/leetcode/LeetCode-177. 第N高的薪水.md
+          - 'LeetCode-0178': problem/leetcode/LeetCode-178.分数排名.md
+          - 'LeetCode-0179': problem/leetcode/LeetCode-179. 最大数.md
+          - 'LeetCode-0180': problem/leetcode/LeetCode-180. 连续出现的数字.md
+          - 'LeetCode-0181': problem/leetcode/LeetCode-181. 超过经理收入的员工.md
+          - 'LeetCode-0182': problem/leetcode/LeetCode-182. 查找重复的电子邮箱.md
+          - 'LeetCode-0183': problem/leetcode/LeetCode-183. 从不订购的客户.md
+          - 'LeetCode-0184': problem/leetcode/LeetCode-184. 部门工资最高的员工.md
+          - 'LeetCode-0185': problem/leetcode/LeetCode-185. 部门工资前三高的员工.md
+          - 'LeetCode-0187': problem/leetcode/LeetCode-187. 重复的DNA序列.md
+          - 'LeetCode-0189': problem/leetcode/LeetCode-189.旋转数组.md
+          - 'LeetCode-0190': problem/leetcode/LeetCode-190. 颠倒二进制位.md
+          - 'LeetCode-0191': problem/leetcode/LeetCode-191. 位1的个数.md
+          - 'LeetCode-0196': problem/leetcode/LeetCode-196. 删除重复的电子邮箱.md
+          - 'LeetCode-0197': problem/leetcode/LeetCode-197. 上升的温度.md
+          - 'LeetCode-0198': problem/leetcode/LeetCode-198.打家劫舍.md
+          - 'LeetCode-0199': problem/leetcode/LeetCode-199. 二叉树的右视图.md
+          - 'LeetCode-0200': problem/leetcode/LeetCode-200. 岛屿的个数.md
+          - 'LeetCode-0201': problem/leetcode/LeetCode-201. 数字范围按位与.md
+          - 'LeetCode-0202': problem/leetcode/LeetCode-202.快乐数.md
+          - 'LeetCode-0203': problem/leetcode/LeetCode-203. 删除链表中的节点.md
+          - 'LeetCode-0204': problem/leetcode/LeetCode-204.计数质数.md
+          - 'LeetCode-0205': problem/leetcode/LeetCode-205. 同构字符串.md
+          - 'LeetCode-0206': problem/leetcode/LeetCode-206. 反转链表.md
+          - 'LeetCode-0207': problem/leetcode/LeetCode-207. 课程表.md
+          - 'LeetCode-0208': problem/leetcode/LeetCode-208. 实现 Trie (前缀树).md
+          - 'LeetCode-0209': problem/leetcode/LeetCode-209. 长度最小的子数组.md
+          - 'LeetCode-0210': problem/leetcode/LeetCode-210. 课程表 II.md
+          - 'LeetCode-0211': problem/leetcode/LeetCode-211. 添加与搜索单词 - 数据结构设计.md
+          - 'LeetCode-0213': problem/leetcode/LeetCode-213. 打家劫舍 II.md
+          - 'LeetCode-0215': problem/leetcode/LeetCode-215. 数组中的第K个最大元素.md
+          - 'LeetCode-0216': problem/leetcode/LeetCode-216. 组合总和 III.md
+          - 'LeetCode-0217': problem/leetcode/LeetCode-217. 存在重复元素.md
+          - 'LeetCode-0219': problem/leetcode/LeetCode-219.存在重复元素 II .md
+          - 'LeetCode-0220': problem/leetcode/LeetCode-220. 存在重复元素 III.md
+          - 'LeetCode-0221': problem/leetcode/LeetCode-221. 最大正方形.md
+          - 'LeetCode-0222': problem/leetcode/LeetCode-222. 完全二叉树的节点个数.md
+          - 'LeetCode-0223': problem/leetcode/LeetCode-223. 矩形面积.md
+          - 'LeetCode-0225': problem/leetcode/LeetCode-225. 用队列实现栈.md
+          - 'LeetCode-0226': problem/leetcode/LeetCode-226.翻转二叉树.md
+          - 'LeetCode-0227': problem/leetcode/LeetCode-227. 基本计算器 II.md
+          - 'LeetCode-0228': problem/leetcode/LeetCode-228. 汇总区间.md
+          - 'LeetCode-0229': problem/leetcode/LeetCode-229. 求众数 II.md
+          - 'LeetCode-0230': problem/leetcode/LeetCode-230. 二叉搜索树中第K小的元素.md
+          - 'LeetCode-0231': problem/leetcode/LeetCode-231. 2的幂.md
+          - 'LeetCode-0232': problem/leetcode/LeetCode-232. 用栈实现队列.md
+          - 'LeetCode-0234': problem/leetcode/LeetCode-234. 回文链表.md
+          - 'LeetCode-0235': problem/leetcode/LeetCode-235. 二叉搜索树的最近公共祖先.md
+          - 'LeetCode-0236': problem/leetcode/LeetCode-236. 二叉树的最近公共祖先.md
+          - 'LeetCode-0237': problem/leetcode/LeetCode-237. 删除链表中的节点.md
+          - 'LeetCode-0238': problem/leetcode/LeetCode-238. 除自身以外数组的乘积.md
+          - 'LeetCode-0240': problem/leetcode/LeetCode-240. 搜索二维矩阵 II.md
+          - 'LeetCode-0241': problem/leetcode/LeetCode-241. 为运算表达式设计优先级.md
+          - 'LeetCode-0242': problem/leetcode/LeetCode-242. 有效的字母异位词.md
+          - 'LeetCode-0257': problem/leetcode/LeetCode-257. 二叉树的所有路径.md
+          - 'LeetCode-0258': problem/leetcode/LeetCode-258.各位相加.md
+          - 'LeetCode-0260': problem/leetcode/LeetCode-260. 只出现一次的数字 III.md
+          - 'LeetCode-0262': problem/leetcode/LeetCode-262. 行程和用户.md
+          - 'LeetCode-0263': problem/leetcode/LeetCode-263. 丑数.md
+          - 'LeetCode-0264': problem/leetcode/LeetCode-264. 丑数 II.md
+          - 'LeetCode-0268': problem/leetcode/LeetCode-268.缺失数字 .md
+          - 'LeetCode-0274': problem/leetcode/LeetCode-274. H指数.md
+          - 'LeetCode-0275': problem/leetcode/LeetCode-275. H指数 II.md
+          - 'LeetCode-0278': problem/leetcode/LeetCode-278. 第一个错误的版本.md
+          - 'LeetCode-0279': problem/leetcode/LeetCode-279. 完全平方数.md
+          - 'LeetCode-0283': problem/leetcode/LeetCode-283. 移动零.md
+          - 'LeetCode-0284': problem/leetcode/LeetCode-284. 顶端迭代器.md
+          - 'LeetCode-0287': problem/leetcode/LeetCode-287. 寻找重复数.md
+          - 'LeetCode-0289': problem/leetcode/LeetCode-289. 生命游戏.md
+          - 'LeetCode-0290': problem/leetcode/LeetCode-290. 单词模式.md
+          - 'LeetCode-0292': problem/leetcode/LeetCode-292.Nim游戏.md
+          - 'LeetCode-0299': problem/leetcode/LeetCode-299. 猜数字游戏.md
+          - 'LeetCode-0300': problem/leetcode/LeetCode-300. 最长上升子序列.md
+          - 'LeetCode-0303': problem/leetcode/LeetCode-303. 区域和检索 - 数组不可变.md
+          - 'LeetCode-0304': problem/leetcode/LeetCode-304. 二维区域和检索 - 矩阵不可变.md
+          - 'LeetCode-0306': problem/leetcode/LeetCode-306. 累加数.md
+          - 'LeetCode-0307': problem/leetcode/LeetCode-307. 区域和检索 - 数组可修改.md
+          - 'LeetCode-0309': problem/leetcode/LeetCode-309. 最佳买卖股票时机含冷冻期.md
+          - 'LeetCode-0310': problem/leetcode/LeetCode-310. 最小高度树.md
+          - 'LeetCode-0313': problem/leetcode/LeetCode-313. 超级丑数.md
+          - 'LeetCode-0318': problem/leetcode/LeetCode-318. 最大单词长度乘积.md
+          - 'LeetCode-0319': problem/leetcode/LeetCode-319. 灯泡开关.md
+          - 'LeetCode-0322': problem/leetcode/LeetCode-322. 零钱兑换.md
+          - 'LeetCode-0324': problem/leetcode/LeetCode-324. 摆动排序 II.md
+          - 'LeetCode-0326': problem/leetcode/LeetCode-326. 3的幂.md
+          - 'LeetCode-0328': problem/leetcode/LeetCode-328. 奇偶链表.md
+          - 'LeetCode-0331': problem/leetcode/LeetCode-331. 验证二叉树的前序序列化.md
+          - 'LeetCode-0332': problem/leetcode/LeetCode-332. 重新安排行程.md
+          - 'LeetCode-0334': problem/leetcode/LeetCode-334. 递增的三元子序列.md
+          - 'LeetCode-0337': problem/leetcode/LeetCode-337. 打家劫舍 III.md
+          - 'LeetCode-0338': problem/leetcode/LeetCode-338. Bit位计数.md
+          - 'LeetCode-0341': problem/leetcode/LeetCode-341. 扁平化嵌套列表迭代器.md
+          - 'LeetCode-0342': problem/leetcode/LeetCode-342. 4的幂.md
+          - 'LeetCode-0343': problem/leetcode/LeetCode-343. 整数拆分.md
+          - 'LeetCode-0344': problem/leetcode/LeetCode-344. 反转字符串.md
+          - 'LeetCode-0345': problem/leetcode/LeetCode-345. 反转字符串中的元音字母.md
+          - 'LeetCode-0347': problem/leetcode/LeetCode-347. 前K个高频元素.md
+          - 'LeetCode-0349': problem/leetcode/LeetCode-349. 两个数组的交集.md
+          - 'LeetCode-0350': problem/leetcode/LeetCode-350. 两个数组的交集 II.md
+          - 'LeetCode-0355': problem/leetcode/LeetCode-355. 设计推特.md
+          - 'LeetCode-0357': problem/leetcode/LeetCode-357. 计算各个位数不同的数字个数.md
+          - 'LeetCode-0365': problem/leetcode/LeetCode-365. 水壶问题.md
+          - 'LeetCode-0367': problem/leetcode/LeetCode-367. 有效的完全平方数.md
+          - 'LeetCode-0368': problem/leetcode/LeetCode-368. 最大整除子集.md
+          - 'LeetCode-0371': problem/leetcode/LeetCode-371.两整数之和.md
+          - 'LeetCode-0372': problem/leetcode/LeetCode-372. 超级次方.md
+          - 'LeetCode-0373': problem/leetcode/LeetCode-373. 查找和最小的K对数字.md
+          - 'LeetCode-0374': problem/leetcode/LeetCode-374. 猜数字大小.md
+          - 'LeetCode-0375': problem/leetcode/LeetCode-375. 猜数字大小 II.md
+          - 'LeetCode-0376': problem/leetcode/LeetCode-376. 摆动序列.md
+          - 'LeetCode-0377': problem/leetcode/LeetCode-377. 组合总和 Ⅳ.md
+          - 'LeetCode-0378': problem/leetcode/LeetCode-378. 有序矩阵中第K小的元素.md
+          - 'LeetCode-0380': problem/leetcode/LeetCode-380. 常数时间插入、删除和获取随机元素.md
+          - 'LeetCode-0382': problem/leetcode/LeetCode-382. 链表随机节点.md
+          - 'LeetCode-0383': problem/leetcode/LeetCode-383. 赎金信.md
+          - 'LeetCode-0384': problem/leetcode/LeetCode-384. 打乱数组.md
+          - 'LeetCode-0385': problem/leetcode/LeetCode-385. Mini Parser.md
+          - 'LeetCode-0386': problem/leetcode/LeetCode-386. 字典序排数.md
+          - 'LeetCode-0387': problem/leetcode/LeetCode-387. 字符串中的第一个唯一字符.md
+          - 'LeetCode-0388': problem/leetcode/LeetCode-388. 文件的最长绝对路径.md
+          - 'LeetCode-0389': problem/leetcode/LeetCode-389. 找不同.md
+          - 'LeetCode-0390': problem/leetcode/LeetCode-390. 消除游戏.md
+          - 'LeetCode-0392': problem/leetcode/LeetCode-392. 判断子序列.md
+          - 'LeetCode-0393': problem/leetcode/LeetCode-393. UTF-8 编码验证.md
+          - 'LeetCode-0394': problem/leetcode/LeetCode-394. 字符串解码.md
+          - 'LeetCode-0395': problem/leetcode/LeetCode-395. 至少有K个重复字符的最长子串.md
+          - 'LeetCode-0396': problem/leetcode/LeetCode-396. 旋转函数.md
+          - 'LeetCode-0397': problem/leetcode/LeetCode-397. 整数替换.md
+          - 'LeetCode-0398': problem/leetcode/LeetCode-398. 随机数索引.md
+          - 'LeetCode-0399': problem/leetcode/LeetCode-399. 除法求值.md
+          - 'LeetCode-0400': problem/leetcode/LeetCode-400. 第N个数字.md
+          - 'LeetCode-0401': problem/leetcode/LeetCode-401. 二进制手表.md
+          - 'LeetCode-0402': problem/leetcode/LeetCode-402. 移掉K位数字.md
+          - 'LeetCode-0404': problem/leetcode/LeetCode-404. 左叶子之和.md
+          - 'LeetCode-0405': problem/leetcode/LeetCode-405. 数字转换为十六进制数.md
+          - 'LeetCode-0406': problem/leetcode/LeetCode-406. 根据身高重建队列.md
+          - 'LeetCode-0409': problem/leetcode/LeetCode-409. 最长回文串.md
+          - 'LeetCode-0412': problem/leetcode/LeetCode-412. Fizz Buzz.md
+          - 'LeetCode-0413': problem/leetcode/LeetCode-413. 等差数列划分.md
+          - 'LeetCode-0414': problem/leetcode/LeetCode-414. 第三大的数.md
+          - 'LeetCode-0415': problem/leetcode/LeetCode-415. 字符串相加.md
+          - 'LeetCode-0416': problem/leetcode/LeetCode-416. 分割等和子集.md
+          - 'LeetCode-0417': problem/leetcode/LeetCode-417. 太平洋大西洋水流问题.md
+          - 'LeetCode-0419': problem/leetcode/LeetCode-419. 甲板上的战舰.md
+          - 'LeetCode-0421': problem/leetcode/LeetCode-421. 数组中两个数的最大异或值.md
+          - 'LeetCode-0423': problem/leetcode/LeetCode-423. 从英文中重建数字.md
+          - 'LeetCode-0424': problem/leetcode/LeetCode-424. 替换后的最长重复字符.md
+          - 'LeetCode-0430': problem/leetcode/LeetCode-430. Flatten a Multilevel Doubly Linked List.md
+          - 'LeetCode-0433': problem/leetcode/LeetCode-433. 最小基因变化.md
+          - 'LeetCode-0434': problem/leetcode/LeetCode-434. 字符串中的单词数.md
+          - 'LeetCode-0435': problem/leetcode/LeetCode-435. 无重叠区间.md
+          - 'LeetCode-0436': problem/leetcode/LeetCode-436. 寻找右区间.md
+          - 'LeetCode-0437': problem/leetcode/LeetCode-437. 路径总和 III.md
+          - 'LeetCode-0438': problem/leetcode/LeetCode-438 . 找到字符串中所有字母异位词.md
+          - 'LeetCode-0441': problem/leetcode/LeetCode-441. 排列硬币.md
+          - 'LeetCode-0442': problem/leetcode/LeetCode-442. 数组中重复的数据.md
+          - 'LeetCode-0443': problem/leetcode/LeetCode-443. 压缩字符串.md
+          - 'LeetCode-0445': problem/leetcode/LeetCode-445. 两数相加 II.md
+          - 'LeetCode-0447': problem/leetcode/LeetCode-447. 回旋镖的数量.md
+          - 'LeetCode-0448': problem/leetcode/LeetCode-448. 找到所有数组中消失的数字.md
+          - 'LeetCode-0449': problem/leetcode/LeetCode-449. 序列化和反序列化二叉搜索树.md
+          - 'LeetCode-0450': problem/leetcode/LeetCode-450. 删除二叉搜索树中的节点.md
+          - 'LeetCode-0451': problem/leetcode/LeetCode-451. 根据字符出现频率排序.md
+          - 'LeetCode-0452': problem/leetcode/LeetCode-452. 用最少数量的箭引爆气球.md
+          - 'LeetCode-0453': problem/leetcode/LeetCode-453. 最小移动次数使数组元素相等.md
+          - 'LeetCode-0454': problem/leetcode/LeetCode-454. 四数相加 II.md
+          - 'LeetCode-0455': problem/leetcode/LeetCode-455. 分发饼干.md
+          - 'LeetCode-0456': problem/leetcode/LeetCode-456. 132模式.md
+          - 'LeetCode-0457': problem/leetcode/LeetCode-457. 环形数组循环.md
+          - 'LeetCode-0458': problem/leetcode/LeetCode-458. 可怜的小猪.md
+          - 'LeetCode-0459': problem/leetcode/LeetCode-459. 重复的子字符串.md
+          - 'LeetCode-0461': problem/leetcode/LeetCode-461. 汉明距离.md
+          - 'LeetCode-0462': problem/leetcode/LeetCode-462. 最少移动次数使数组元素相等 II.md
+          - 'LeetCode-0463': problem/leetcode/LeetCode-463. 岛屿的周长.md
+          - 'LeetCode-0475': problem/leetcode/LeetCode-475. 供暖器.md
+          - 'LeetCode-0476': problem/leetcode/LeetCode-476. 数字的补数.md
+          - 'LeetCode-0479': problem/leetcode/LeetCode-479. 最大回文数乘积.md
+          - 'LeetCode-0482': problem/leetcode/LeetCode-482. License Key Formatting.md
+          - 'LeetCode-0485': problem/leetcode/LeetCode-485. 最大连续1的个数.md
+          - 'LeetCode-0492': problem/leetcode/LeetCode-492. 构造矩形.md
+          - 'LeetCode-0496': problem/leetcode/LeetCode-496. 下一个更大元素 I.md
+          - 'LeetCode-0500': problem/leetcode/LeetCode-500.键盘行.md
+          - 'LeetCode-0501': problem/leetcode/LeetCode-501. 二叉搜索树中的众数.md
+          - 'LeetCode-0504': problem/leetcode/LeetCode-504. 七进制数.md
+          - 'LeetCode-0506': problem/leetcode/LeetCode-506. 相对名次.md
+          - 'LeetCode-0507': problem/leetcode/LeetCode-507. 完美数.md
+          - 'LeetCode-0520': problem/leetcode/LeetCode-520. 检测大写字母.md
+          - 'LeetCode-0521': problem/leetcode/LeetCode-521. 最长特殊序列 Ⅰ.md
+          - 'LeetCode-0530': problem/leetcode/LeetCode-530. 二叉搜索树的最小绝对差.md
+          - 'LeetCode-0532': problem/leetcode/LeetCode-532. 数组中的K-diff数对.md
+          - 'LeetCode-0538': problem/leetcode/LeetCode-538. 把二叉搜索树转换为累加树.md
+          - 'LeetCode-0541': problem/leetcode/LeetCode-541. 反转字符串 II.md
+          - 'LeetCode-0543': problem/leetcode/LeetCode-543. 二叉树的直径.md
+          - 'LeetCode-0551': problem/leetcode/LeetCode-551. 学生出勤纪录 I.md
+          - 'LeetCode-0557': problem/leetcode/LeetCode-557. 反转字符串中的单词 III.md
+          - 'LeetCode-0561': problem/leetcode/LeetCode-561. 数组拆分 I.md
+          - 'LeetCode-0563': problem/leetcode/LeetCode-563. 二叉树的坡度.md
+          - 'LeetCode-0566': problem/leetcode/LeetCode-566. 重塑矩阵.md
+          - 'LeetCode-0572': problem/leetcode/LeetCode-572. 另一个树的子树.md
+          - 'LeetCode-0575': problem/leetcode/LeetCode-575. 分糖果.md
+          - 'LeetCode-0581': problem/leetcode/LeetCode-581. 最短无序连续子数组.md
+          - 'LeetCode-0594': problem/leetcode/LeetCode-594. 最长和谐子序列.md
+          - 'LeetCode-0595': problem/leetcode/LeetCode-595. 大的国家.md
+          - 'LeetCode-0596': problem/leetcode/LeetCode-596. 超过5名学生的课.md
+          - 'LeetCode-0598': problem/leetcode/LeetCode-598. 范围求和 II.md
+          - 'LeetCode-0599': problem/leetcode/LeetCode-599. 两个列表的最小索引总和.md
+          - 'LeetCode-0601': problem/leetcode/LeetCode-601. 体育馆的人流量.md
+          - 'LeetCode-0605': problem/leetcode/LeetCode-605. 种花问题.md
+          - 'LeetCode-0606': problem/leetcode/LeetCode-606. 根据二叉树创建字符串.md
+          - 'LeetCode-0617': problem/leetcode/LeetCode-617. 合并二叉树.md
+          - 'LeetCode-0620': problem/leetcode/LeetCode-620. 有趣的电影.md
+          - 'LeetCode-0626': problem/leetcode/LeetCode-626. 换座位.md
+          - 'LeetCode-0627': problem/leetcode/LeetCode-627. 交换工资.md
+          - 'LeetCode-0628': problem/leetcode/LeetCode-628. 三个数的最大乘积.md
+          - 'LeetCode-0629': problem/leetcode/LeetCode-629. K个逆序对数组.md
+          - 'LeetCode-0633': problem/leetcode/LeetCode-633. 平方数之和.md
+          - 'LeetCode-0637': problem/leetcode/LeetCode-637. 二叉树的层平均值.md
+          - 'LeetCode-0643': problem/leetcode/LeetCode-643. 子数组最大平均数 I.md
+          - 'LeetCode-0645': problem/leetcode/LeetCode-645. 错误的集合.md
+          - 'LeetCode-0653': problem/leetcode/LeetCode-653. 两数之和 IV - 输入 BST.md
+          - 'LeetCode-0657': problem/leetcode/LeetCode-657. 判断路线成圈.md
+          - 'LeetCode-0661': problem/leetcode/LeetCode-661. 图片平滑器.md
+          - 'LeetCode-0665': problem/leetcode/LeetCode-665. 非递减数列.md
+          - 'LeetCode-0669': problem/leetcode/LeetCode-669. 修剪二叉搜索树.md
+          - 'LeetCode-0671': problem/leetcode/LeetCode-671. 二叉树中第二小的节点.md
+          - 'LeetCode-0674': problem/leetcode/LeetCode-674. 最长连续递增序列.md
+          - 'LeetCode-0680': problem/leetcode/LeetCode-680. 验证回文字符串 Ⅱ.md
+          - 'LeetCode-0682': problem/leetcode/LeetCode-682. 棒球比赛.md
+          - 'LeetCode-0686': problem/leetcode/LeetCode-686. 重复叠加字符串匹配.md
+          - 'LeetCode-0687': problem/leetcode/LeetCode-687. 最长同值路径.md
+          - 'LeetCode-0690': problem/leetcode/LeetCode-690. 员工的重要性.md
+          - 'LeetCode-0693': problem/leetcode/LeetCode-693. 交替位二进制数.md
+          - 'LeetCode-0695': problem/leetcode/LeetCode-695. 岛屿的最大面积.md
+          - 'LeetCode-0696': problem/leetcode/LeetCode-696. 计数二进制子串.md
+          - 'LeetCode-0697': problem/leetcode/LeetCode-697. 数组的度.md
+          - 'LeetCode-0698': problem/leetcode/LeetCode-698. 划分为k个相等的子集.md
+          - 'LeetCode-0717': problem/leetcode/LeetCode-717. 1比特与2比特字符.md
+          - 'LeetCode-0720': problem/leetcode/LeetCode-720. 词典中最长的单词.md
+          - 'LeetCode-0724': problem/leetcode/LeetCode-724. 寻找数组的中心索引.md
+          - 'LeetCode-0728': problem/leetcode/LeetCode-728. 自除数.md
+          - 'LeetCode-0733': problem/leetcode/LeetCode-733. 图像渲染.md
+          - 'LeetCode-0744': problem/leetcode/LeetCode-744. 寻找比目标字母大的最小字母.md
+          - 'LeetCode-0746': problem/leetcode/LeetCode-746. 使用最小花费爬楼梯.md
+          - 'LeetCode-0747': problem/leetcode/LeetCode-747. 至少是其他数字两倍的最大数.md
+          - 'LeetCode-0762': problem/leetcode/LeetCode-762. 二进制表示中质数个计算置位.md
+          - 'LeetCode-0766': problem/leetcode/LeetCode-766. 托普利茨矩阵.md
+          - 'LeetCode-0771': problem/leetcode/LeetCode-771. 宝石与石头.md
+          - 'LeetCode-0783': problem/leetcode/LeetCode-783. 二叉搜索树结点最小距离.md
+          - 'LeetCode-0784': problem/leetcode/LeetCode-784. 字母大小写全排列.md
+          - 'LeetCode-0788': problem/leetcode/LeetCode-788. 旋转数字.md
+          - 'LeetCode-0796': problem/leetcode/LeetCode-796. 旋转字符串.md
+          - 'LeetCode-0804': problem/leetcode/LeetCode-804. 唯一摩尔斯密码词.md
+          - 'LeetCode-0806': problem/leetcode/LeetCode-806. 写字符串需要的行数.md
+          - 'LeetCode-0811': problem/leetcode/LeetCode-811. 子域名访问计数.md
+          - 'LeetCode-0812': problem/leetcode/LeetCode-812. 最大三角形面积.md
+          - 'LeetCode-0819': problem/leetcode/LeetCode-819. 最常见的单词.md
+          - 'LeetCode-0821': problem/leetcode/LeetCode-821. 字符的最短距离.md
+          - 'LeetCode-0824': problem/leetcode/LeetCode-824. 山羊拉丁文.md
+          - 'LeetCode-0830': problem/leetcode/LeetCode-830. 较大分组的位置.md
+          - 'LeetCode-0832': problem/leetcode/LeetCode-832. 翻转图像.md
+          - 'LeetCode-0836': problem/leetcode/LeetCode-836. 矩形重叠.md
+          - 'LeetCode-0840': problem/leetcode/LeetCode-840. 矩阵中的幻方.md
+          - 'LeetCode-0844': problem/leetcode/LeetCode-844. 比较含退格的字符串.md
+          - 'LeetCode-0848': problem/leetcode/LeetCode-848. 字母移位.md
+          - 'LeetCode-0849': problem/leetcode/LeetCode-849. 到最近的人的最大距离.md
+          - 'LeetCode-0852': problem/leetcode/LeetCode-852. 山脉数组的峰顶索引.md
+          - 'LeetCode-0855': problem/leetcode/LeetCode-855. 考场就座.md
+          - 'LeetCode-0859': problem/leetcode/LeetCode-859. 亲密字符串.md
+          - 'LeetCode-0860': problem/leetcode/LeetCode-860. 柠檬水找零.md
+          - 'LeetCode-0862': problem/leetcode/LeetCode-862. 和至少为 K 的最短子数组.md
+          - 'LeetCode-0866': problem/leetcode/LeetCode-866. 具有所有最深结点的最小子树.md
+          - 'LeetCode-0867': problem/leetcode/LeetCode-867. 回文素数.md
+          - 'LeetCode-0868': problem/leetcode/LeetCode-868. 转置矩阵.md
+          - 'LeetCode-0868': problem/leetcode/LeetCode-868. 二进制间距.md
+          - 'LeetCode-0872': problem/leetcode/LeetCode-872. 叶子相似的树.md
+          - 'LeetCode-0873': problem/leetcode/LeetCode-873. 最长的斐波那契子序列的长度.md
+          - 'LeetCode-0874': problem/leetcode/LeetCode-874. 行走机器人模拟.md
+          - 'LeetCode-0876': problem/leetcode/LeetCode-876. 链表的中间结点.md
+          - 'LeetCode-0884': problem/leetcode/LeetCode-884. 两句话中的不常见单词.md
+          - 'LeetCode-0887': problem/leetcode/LeetCode-887. 三维形体投影面积.md
+          - 'LeetCode-0888': problem/leetcode/LeetCode-888. 公平的糖果交换.md
+          - 'LeetCode-0892': problem/leetcode/LeetCode-892. 三维形体的表面积.md
+          - 'LeetCode-0893': problem/leetcode/LeetCode-893. 特殊等价字符串组.md
+          - 'LeetCode-0896': problem/leetcode/LeetCode-896. 单调数列.md
+          - 'LeetCode-0897': problem/leetcode/LeetCode-897. 递增顺序查找树.md
+
+
+  - '常用工具':
+      - 'Git使用手册': tools/Git使用手册.md
+      - 'Markdown进阶：序列图': tools/Markdown进阶：序列图.md
+      - 'Vmware Fusion配置Nat静态IP': tools/Vmware Fusion配置Nat静态IP.md
+
+  - '作者': 
+      - about.md
+
+    
