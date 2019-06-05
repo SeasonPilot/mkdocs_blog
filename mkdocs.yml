@@ -529,11 +529,17 @@ nav:
           - 'LeetCode-0896': problem/leetcode/LeetCode-896. 单调数列.md
           - 'LeetCode-0897': problem/leetcode/LeetCode-897. 递增顺序查找树.md
 
+  - '资源集合':
+      - resources/Github资源整理.md
+      - resources/Python资源整理.md
 
   - '常用工具':
       - 'Git使用手册': tools/Git使用手册.md
       - 'Markdown进阶：序列图': tools/Markdown进阶：序列图.md
       - 'Vmware Fusion配置Nat静态IP': tools/Vmware Fusion配置Nat静态IP.md
+  
+  - '随笔记事':
+      - essay/随笔记事.md
 
   - '作者': 
       - about.md
