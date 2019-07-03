@@ -87,8 +87,11 @@ nav:
       - 'Linux':
           - computer/linux/Linux.md
           - computer/linux/linux_boot.md
-      - 'Web':
+      - 'Web开发':
           - computer/web/Web.md
+      - '网络':
+          - computer/network/http.md
+          - computer/network/tcp_status.md
   - '数学基础':
       - math/线性代数.md
       - math/概率论与数理统计.md
