@@ -532,6 +532,7 @@ nav:
           - 'LeetCode-0893': problem/leetcode/LeetCode-893. 特殊等价字符串组.md
           - 'LeetCode-0896': problem/leetcode/LeetCode-896. 单调数列.md
           - 'LeetCode-0897': problem/leetcode/LeetCode-897. 递增顺序查找树.md
+          - 'LeetCode-0938': problem/leetcode/LeetCode-938. 二叉搜索树的范围和.md
 
   - '资源集合':
       - resources/Github资源整理.md
