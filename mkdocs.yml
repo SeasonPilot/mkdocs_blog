@@ -235,6 +235,7 @@ nav:
           - 'LeetCode-0152': problem/leetcode/LeetCode-152. 乘积最大子序列.md
           - 'LeetCode-0153': problem/leetcode/LeetCode-153. 寻找旋转排序数组中的最小值.md
           - 'LeetCode-0155': problem/leetcode/LeetCode-155. 最小栈.md
+          - 'LeetCode-0157': problem/leetcode/LeetCode-157. 用 Read4 读取 N 个字符
           - 'LeetCode-0160': problem/leetcode/LeetCode-160 . 相交链表.md
           - 'LeetCode-0162': problem/leetcode/LeetCode-162. 寻找峰值.md
           - 'LeetCode-0165': problem/leetcode/LeetCode-165. 比较版本号.md
@@ -533,6 +534,7 @@ nav:
           - 'LeetCode-0896': problem/leetcode/LeetCode-896. 单调数列.md
           - 'LeetCode-0897': problem/leetcode/LeetCode-897. 递增顺序查找树.md
           - 'LeetCode-0938': problem/leetcode/LeetCode-938. 二叉搜索树的范围和.md
+          - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化
 
   - '资源集合':
       - resources/Github资源整理.md
