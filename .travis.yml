@@ -1,6 +1,7 @@
 language: python
-node_js:
-  - 3.6.8
+python:
+  - "3.6.8"
+
 branches:
   only:
   - mkdocs_blog
