@@ -305,6 +305,7 @@ nav:
           - 'LeetCode-0242': problem/leetcode/LeetCode-242. 有效的字母异位词.md
           - 'LeetCode-0243': problem/leetcode/LeetCode-243. 最短单词距离.md
           - 'LeetCode-0246': problem/leetcode/LeetCode-246. 中心对称数.md
+          - 'LeetCode-0252': problem/leetcode/LeetCode-252. 会议室.md
           - 'LeetCode-0257': problem/leetcode/LeetCode-257. 二叉树的所有路径.md
           - 'LeetCode-0258': problem/leetcode/LeetCode-258.各位相加.md
           - 'LeetCode-0260': problem/leetcode/LeetCode-260. 只出现一次的数字 III.md
