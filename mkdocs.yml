@@ -318,6 +318,7 @@ nav:
           - 'LeetCode-0270': problem/leetcode/LeetCode-270. 最接近的二叉搜索树值.md
           - 'LeetCode-0274': problem/leetcode/LeetCode-274. H指数.md
           - 'LeetCode-0275': problem/leetcode/LeetCode-275. H指数 II.md
+          - 'LeetCode-0276': problem/leetcode/LeetCode-276. 栅栏涂色.md
           - 'LeetCode-0278': problem/leetcode/LeetCode-278. 第一个错误的版本.md
           - 'LeetCode-0279': problem/leetcode/LeetCode-279. 完全平方数.md
           - 'LeetCode-0283': problem/leetcode/LeetCode-283. 移动零.md
