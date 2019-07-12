@@ -360,6 +360,7 @@ nav:
           - 'LeetCode-0350': problem/leetcode/LeetCode-350. 两个数组的交集 II.md
           - 'LeetCode-0355': problem/leetcode/LeetCode-355. 设计推特.md
           - 'LeetCode-0357': problem/leetcode/LeetCode-357. 计算各个位数不同的数字个数.md
+          - 'LeetCode-0359': problem/leetcode/LeetCode-359. 日志速率限制器.md
           - 'LeetCode-0365': problem/leetcode/LeetCode-365. 水壶问题.md
           - 'LeetCode-0367': problem/leetcode/LeetCode-367. 有效的完全平方数.md
           - 'LeetCode-0368': problem/leetcode/LeetCode-368. 最大整除子集.md
@@ -395,6 +396,7 @@ nav:
           - 'LeetCode-0404': problem/leetcode/LeetCode-404. 左叶子之和.md
           - 'LeetCode-0405': problem/leetcode/LeetCode-405. 数字转换为十六进制数.md
           - 'LeetCode-0406': problem/leetcode/LeetCode-406. 根据身高重建队列.md
+          - 'LeetCode-0408': problem/leetcode/LeetCode-408. 有效单词缩写.md
           - 'LeetCode-0409': problem/leetcode/LeetCode-409. 最长回文串.md
           - 'LeetCode-0412': problem/leetcode/LeetCode-412. Fizz Buzz.md
           - 'LeetCode-0413': problem/leetcode/LeetCode-413. 等差数列划分.md
