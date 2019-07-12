@@ -354,6 +354,7 @@ nav:
           - 'LeetCode-0343': problem/leetcode/LeetCode-343. 整数拆分.md
           - 'LeetCode-0344': problem/leetcode/LeetCode-344. 反转字符串.md
           - 'LeetCode-0345': problem/leetcode/LeetCode-345. 反转字符串中的元音字母.md
+          - 'LeetCode-0346': problem/leetcode/LeetCode-346. 数据流中的移动平均值.md
           - 'LeetCode-0347': problem/leetcode/LeetCode-347. 前K个高频元素.md
           - 'LeetCode-0349': problem/leetcode/LeetCode-349. 两个数组的交集.md
           - 'LeetCode-0350': problem/leetcode/LeetCode-350. 两个数组的交集 II.md
