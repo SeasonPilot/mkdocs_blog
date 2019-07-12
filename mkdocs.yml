@@ -462,6 +462,7 @@ nav:
           - 'LeetCode-0566': problem/leetcode/LeetCode-566. 重塑矩阵.md
           - 'LeetCode-0572': problem/leetcode/LeetCode-572. 另一个树的子树.md
           - 'LeetCode-0575': problem/leetcode/LeetCode-575. 分糖果.md
+          - 'LeetCode-0577': problem/leetcode/LeetCode-577. 员工奖金.md
           - 'LeetCode-0581': problem/leetcode/LeetCode-581. 最短无序连续子数组.md
           - 'LeetCode-0594': problem/leetcode/LeetCode-594. 最长和谐子序列.md
           - 'LeetCode-0595': problem/leetcode/LeetCode-595. 大的国家.md
