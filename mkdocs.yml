@@ -348,6 +348,7 @@ nav:
           - 'LeetCode-0334': problem/leetcode/LeetCode-334. 递增的三元子序列.md
           - 'LeetCode-0337': problem/leetcode/LeetCode-337. 打家劫舍 III.md
           - 'LeetCode-0338': problem/leetcode/LeetCode-338. Bit位计数.md
+          - 'LeetCode-0339': problem/leetcode/LeetCode-339. 嵌套列表权重和.md
           - 'LeetCode-0341': problem/leetcode/LeetCode-341. 扁平化嵌套列表迭代器.md
           - 'LeetCode-0342': problem/leetcode/LeetCode-342. 4的幂.md
           - 'LeetCode-0343': problem/leetcode/LeetCode-343. 整数拆分.md
