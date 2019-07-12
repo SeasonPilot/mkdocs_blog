@@ -406,6 +406,7 @@ nav:
           - 'LeetCode-0417': problem/leetcode/LeetCode-417. 太平洋大西洋水流问题.md
           - 'LeetCode-0419': problem/leetcode/LeetCode-419. 甲板上的战舰.md
           - 'LeetCode-0421': problem/leetcode/LeetCode-421. 数组中两个数的最大异或值.md
+          - 'LeetCode-0422': problem/leetcode/LeetCode-422. 有效的单词方块.md
           - 'LeetCode-0423': problem/leetcode/LeetCode-423. 从英文中重建数字.md
           - 'LeetCode-0424': problem/leetcode/LeetCode-424. 替换后的最长重复字符.md
           - 'LeetCode-0430': problem/leetcode/LeetCode-430. Flatten a Multilevel Doubly Linked List.md
