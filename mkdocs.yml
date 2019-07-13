@@ -470,6 +470,7 @@ nav:
           - 'LeetCode-0598': problem/leetcode/LeetCode-598. 范围求和 II.md
           - 'LeetCode-0599': problem/leetcode/LeetCode-599. 两个列表的最小索引总和.md
           - 'LeetCode-0601': problem/leetcode/LeetCode-601. 体育馆的人流量.md
+          - 'LeetCode-0604': problem/leetcode/LeetCode-604. 迭代压缩字符串.md
           - 'LeetCode-0605': problem/leetcode/LeetCode-605. 种花问题.md
           - 'LeetCode-0606': problem/leetcode/LeetCode-606. 根据二叉树创建字符串.md
           - 'LeetCode-0617': problem/leetcode/LeetCode-617. 合并二叉树.md
