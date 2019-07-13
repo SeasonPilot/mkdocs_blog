@@ -212,6 +212,7 @@ nav:
           - 'LeetCode-0120': problem/leetcode/LeetCode-120. 三角形最小路径和.md
           - 'LeetCode-0121': problem/leetcode/LeetCode-121. 买卖股票的最佳时机.md
           - 'LeetCode-0122': problem/leetcode/LeetCode-122. 买卖股票的最佳时机 II.md
+          - 'LeetCode-0124': problem/leetcode/LeetCode-124. 二叉树中的最大路径和
           - 'LeetCode-0125': problem/leetcode/LeetCode-125. 验证回文串.md
           - 'LeetCode-0126': problem/leetcode/LeetCode-126. 单词接龙 II.md
           - 'LeetCode-0127': problem/leetcode/LeetCode-127. 单词接龙.md
