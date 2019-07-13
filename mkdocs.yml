@@ -502,6 +502,7 @@ nav:
           - 'LeetCode-0696': problem/leetcode/LeetCode-696. 计数二进制子串.md
           - 'LeetCode-0697': problem/leetcode/LeetCode-697. 数组的度.md
           - 'LeetCode-0698': problem/leetcode/LeetCode-698. 划分为k个相等的子集.md
+          - 'LeetCode-0716': problem/leetcode/LeetCode-716. 最大栈.md
           - 'LeetCode-0717': problem/leetcode/LeetCode-717. 1比特与2比特字符.md
           - 'LeetCode-0720': problem/leetcode/LeetCode-720. 词典中最长的单词.md
           - 'LeetCode-0724': problem/leetcode/LeetCode-724. 寻找数组的中心索引.md
