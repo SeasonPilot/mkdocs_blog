@@ -514,6 +514,7 @@ nav:
           - 'LeetCode-0746': problem/leetcode/LeetCode-746. 使用最小花费爬楼梯.md
           - 'LeetCode-0747': problem/leetcode/LeetCode-747. 至少是其他数字两倍的最大数.md
           - 'LeetCode-0748': problem/leetcode/LeetCode-748. 最短完整词.md
+          - 'LeetCode-0751': problem/leetcode/LeetCode-751. IP 到 CIDR.md
           - 'LeetCode-0762': problem/leetcode/LeetCode-762. 二进制表示中质数个计算置位.md
           - 'LeetCode-0766': problem/leetcode/LeetCode-766. 托普利茨矩阵.md
           - 'LeetCode-0771': problem/leetcode/LeetCode-771. 宝石与石头.md
