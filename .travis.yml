@@ -26,6 +26,8 @@ script:
 
 after_script:
    - cd site/
+   - touch CNAME
+   - echo 'aisky.men' > CNAME
    - git init
    - git config user.name "zhishengqianjun"
    - git config user.email "zhishengqianjun@163.com"
