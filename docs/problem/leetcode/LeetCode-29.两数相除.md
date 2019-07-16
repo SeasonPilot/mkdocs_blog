@@ -68,3 +68,62 @@ class Solution:
         return res
 ```
 
+
+
+上面有一些步骤使用没考虑到实际的边界条件，
+
+```python
+class Solution(object):
+    def divide(self, dividend, divisor):
+        """
+        :type dividend: int
+        :type divisor: int
+        :rtype: int
+        """
+        if dividend == ~(1 << 31) + 1 and divisor == -1:
+            return (1 << 31) - 1
+
+        if divisor == ~(1 << 31) + 1:
+            if dividend == ~(1 << 31) + 1:
+                return 1
+            else:
+                return 0
+
+        sign = (dividend > 0) ^ (divisor > 0)
+
+        nums = 0
+        temp_num = 0
+
+        temp_dividend = dividend
+        pre_divisor = ~divisor + 1 if divisor < 0 else divisor
+        temp_divisor = pre_divisor
+        abs_divisor = pre_divisor
+        if temp_dividend == ~(1 << 31) + 1:
+            temp_dividend += pre_divisor
+            nums = 1
+
+        temp_dividend = ~temp_dividend + 1 if temp_dividend < 0 else temp_dividend
+
+        while temp_dividend >= abs_divisor:
+            temp_num = 0
+            temp_divisor = abs(divisor)
+            for i in range(32):
+                temp = temp_divisor << i
+                if temp_dividend >= temp:
+                    temp_num = 1 << i
+                    pre_divisor = temp
+                else:
+                    nums += temp_num
+                    temp_dividend -= pre_divisor
+                    break
+            if temp_dividend >= pre_divisor:
+                nums += temp_num
+                temp_dividend -= pre_divisor
+
+        if sign:
+            return nums
+        else:
+            return (~nums) + 1
+        
+```
+

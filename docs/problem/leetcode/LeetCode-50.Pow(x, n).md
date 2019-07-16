@@ -6,8 +6,6 @@
 
 ## 1、题目描述
 
-
-
 实现 [pow(*x*, *n*)](https://www.cplusplus.com/reference/valarray/pow/) ，即计算 x 的 n 次幂函数。
 
 **示例 1:**
@@ -52,5 +50,31 @@ class Solution:
         :rtype: float
         """
         return x ** n
+```
+
+
+
+
+
+```python
+class Solution(object):
+    def myPow(self, x, n):
+        """
+        :type x: float
+        :type n: int
+        :rtype: float
+        """
+        if n == 0:
+            return 1.0
+
+        if n < 0:
+            return 1 / self.myPow(x, -n)
+
+        temp = self.myPow(x, n // 2)
+
+        if n & 1:
+            return temp * temp * x
+
+        return temp * temp
 ```
 
