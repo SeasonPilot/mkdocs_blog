@@ -59,4 +59,29 @@ class Solution:
 
 ​	如果找到一个，就返回
 
+
+
+使用二分法来做，进行空间的缩小
+
+- 如果中间节点位于上升序列，我们认为右面还有一个下降序列，峰值在右面
+- 如果中间节点位于下降序列，那么在左面就还有一个上升序列，峰值在左面
+
+```python
+class Solution:
+    def findPeakElement(self, nums: List[int]) -> int:
+        left = 0
+        right = len(nums) - 1
+
+        while left < right:
+            mid = (left + right) // 2
+            if nums[mid] > nums[mid + 1]:
+                right = mid
+            else:
+                left = mid + 1
+
+        return left
+```
+
+
+
 ​	
