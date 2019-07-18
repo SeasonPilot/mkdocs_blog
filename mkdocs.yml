@@ -410,6 +410,7 @@ nav:
           - 'LeetCode-0422': problem/leetcode/LeetCode-422. 有效的单词方块.md
           - 'LeetCode-0423': problem/leetcode/LeetCode-423. 从英文中重建数字.md
           - 'LeetCode-0424': problem/leetcode/LeetCode-424. 替换后的最长重复字符.md
+          - 'LeetCode-0429': problem/leetcode/LeetCode-429. N叉树的层序遍历.md
           - 'LeetCode-0430': problem/leetcode/LeetCode-430. Flatten a Multilevel Doubly Linked List.md
           - 'LeetCode-0433': problem/leetcode/LeetCode-433. 最小基因变化.md
           - 'LeetCode-0434': problem/leetcode/LeetCode-434. 字符串中的单词数.md
