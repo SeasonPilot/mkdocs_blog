@@ -127,3 +127,39 @@ class Solution(object):
         
 ```
 
+```python
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
+        dvd = dividend
+        dvs = divisor
+        nums = 0
+        sign = not((dividend > 0) ^ (divisor > 0))
+
+        if dvs == ~(1 << 31) + 1:
+            if dvd == ~(1 << 31) + 1:
+                return 1
+            else:
+                return 0
+        dvs = ~dvs + 1 if dvs < 0 else dvs
+
+        if dvd == ~(1 << 31) + 1:
+            if divisor == -1:
+                return (1 << 31) - 1
+            else:
+                nums = 1
+                dvd = ~(dvd + dvs) + 1
+
+        dvd = ~dvd + 1 if dvd < 0 else dvd
+
+        while dvd >= dvs:
+            temp = dvs
+            count = 1
+            while (temp << 1) < dvd:
+                temp <<= 1
+                count <<= 1
+            nums += count
+            dvd -= temp
+
+        return nums if sign else (~nums) + 1
+```
+
