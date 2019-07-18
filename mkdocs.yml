@@ -509,6 +509,7 @@ nav:
           - 'LeetCode-0698': problem/leetcode/LeetCode-698. 划分为k个相等的子集.md
           - 'LeetCode-0700': problem/leetcode/LeetCode-700. 二叉搜索树中的搜索.md
           - 'LeetCode-0703': problem/leetcode/LeetCode-703. 数据流中的第K大元素.md
+          - 'LeetCode-0704': problem/leetcode/LeetCode-704. 二分查找.md
           - 'LeetCode-0709': problem/leetcode/LeetCode-709. 转换成小写字母.md
           - 'LeetCode-0716': problem/leetcode/LeetCode-716. 最大栈.md
           - 'LeetCode-0717': problem/leetcode/LeetCode-717. 1比特与2比特字符.md
