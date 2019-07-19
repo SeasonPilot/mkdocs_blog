@@ -109,6 +109,8 @@ nav:
       - '基础算法':
           - problem/algorithm/内部排序算法.md
           - problem/algorithm/哈希表的大小为何是素数.md
+      - 'KickStart':
+          - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
       - 'LeetCode题目':
           - 'LeetCode-0001': problem/leetcode/LeetCode-1. 两数之和.md
           - 'LeetCode-0002': problem/leetcode/LeetCode-2. 两数相加.md
