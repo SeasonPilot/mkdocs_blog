@@ -577,6 +577,8 @@ nav:
           - 'LeetCode-0905': problem/leetcode/LeetCode-905. 按奇偶排序数组.md
           - 'LeetCode-0908': problem/leetcode/LeetCode-908. 最小差值 I.md
           - 'LeetCode-0914': problem/leetcode/LeetCode-914. 卡牌分组.md
+          - 'LeetCode-0917': problem/leetcode/LeetCode-917. 仅仅反转字母.md
+          - 'LeetCode-0922': problem/leetcode/LeetCode-922. 按奇偶排序数组 II.md
           - 'LeetCode-0938': problem/leetcode/LeetCode-938. 二叉搜索树的范围和.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
 
