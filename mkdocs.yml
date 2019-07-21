@@ -582,6 +582,7 @@ nav:
           - 'LeetCode-0925': problem/leetcode/LeetCode-925. 长按键入.md
           - 'LeetCode-0929': problem/leetcode/LeetCode-929. 独特的电子邮件地址.md
           - 'LeetCode-0933': problem/leetcode/LeetCode-933. 最近的请求次数.md
+          - 'LeetCode-0937': problem/leetcode/LeetCode-937. 重新排列日志文件.md
           - 'LeetCode-0938': problem/leetcode/LeetCode-938. 二叉搜索树的范围和.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
 
