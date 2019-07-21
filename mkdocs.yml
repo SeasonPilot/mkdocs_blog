@@ -595,6 +595,7 @@ nav:
           - 'LeetCode-0970': problem/leetcode/LeetCode-970. 强整数.md
           - 'LeetCode-0976': problem/leetcode/LeetCode-976. 三角形的最大周长.md
           - 'LeetCode-0977': problem/leetcode/LeetCode-977. 有序数组的平方.md
+          - 'LeetCode-0985': problem/leetcode/LeetCode-985. 查询后的偶数和.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
 
   - '资源集合':
