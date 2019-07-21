@@ -591,6 +591,7 @@ nav:
           - 'LeetCode-0953': problem/leetcode/LeetCode-953. 验证外星语词典.md
           - 'LeetCode-0961': problem/leetcode/LeetCode-961. 重复 N 次的元素.md
           - 'LeetCode-0965': problem/leetcode/LeetCode-965. 单值二叉树.md
+          - 'LeetCode-0970': problem/leetcode/LeetCode-970. 强整数.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
 
   - '资源集合':
