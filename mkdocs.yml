@@ -453,6 +453,7 @@ nav:
           - 'LeetCode-0504': problem/leetcode/LeetCode-504. 七进制数.md
           - 'LeetCode-0506': problem/leetcode/LeetCode-506. 相对名次.md
           - 'LeetCode-0507': problem/leetcode/LeetCode-507. 完美数.md
+          - 'LeetCode-0509': problem/leetcode/LeetCode-509. 斐波那契数.md
           - 'LeetCode-0520': problem/leetcode/LeetCode-520. 检测大写字母.md
           - 'LeetCode-0521': problem/leetcode/LeetCode-521. 最长特殊序列 Ⅰ.md
           - 'LeetCode-0530': problem/leetcode/LeetCode-530. 二叉搜索树的最小绝对差.md
@@ -592,6 +593,7 @@ nav:
           - 'LeetCode-0961': problem/leetcode/LeetCode-961. 重复 N 次的元素.md
           - 'LeetCode-0965': problem/leetcode/LeetCode-965. 单值二叉树.md
           - 'LeetCode-0970': problem/leetcode/LeetCode-970. 强整数.md
+          - 'LeetCode-0976': problem/leetcode/LeetCode-976. 三角形的最大周长.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
 
   - '资源集合':
