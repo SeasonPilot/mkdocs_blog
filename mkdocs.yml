@@ -602,6 +602,7 @@ nav:
           - 'LeetCode-0997': problem/leetcode/LeetCode-997. 找到小镇的法官.md
           - 'LeetCode-0999': problem/leetcode/LeetCode-999. 车的可用捕获量.md
           - 'LeetCode-1002': problem/leetcode/LeetCode-1002. 查找常用字符.md
+          - 'LeetCode-1005': problem/leetcode/LeetCode-1005. K 次取反后最大化的数组和.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
 
   - '资源集合':
