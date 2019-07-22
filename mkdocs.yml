@@ -607,6 +607,7 @@ nav:
           - 'LeetCode-1010': problem/leetcode/LeetCode-1010. 总持续时间可被 60 整除的歌曲.md
           - 'LeetCode-1013': problem/leetcode/LeetCode-1013. 将数组分成和相等的三个部分.md
           - 'LeetCode-1064': problem/leetcode/LeetCode-1064. 不动点.md
+          - 'LeetCode-1065': problem/leetcode/LeetCode-1056. 易混淆数.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
 
   - '资源集合':
