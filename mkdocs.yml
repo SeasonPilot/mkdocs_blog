@@ -613,6 +613,7 @@ nav:
           - 'LeetCode-1029': problem/leetcode/LeetCode-1029. 两地调度.md
           - 'LeetCode-1030': problem/leetcode/LeetCode-1030. 距离顺序排列矩阵单元格.md
           - 'LeetCode-1033': problem/leetcode/LeetCode-1033. 移动石子直到连续.md
+          - 'LeetCode-1037': problem/leetcode/LeetCode-1037. 有效的回旋镖.md
           - 'LeetCode-1056': problem/leetcode/LeetCode-1056. 易混淆数.md
           - 'LeetCode-1064': problem/leetcode/LeetCode-1064. 不动点.md
           - 'LeetCode-1065': problem/leetcode/LeetCode-1065. 字符串的索引对.md
