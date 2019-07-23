@@ -618,6 +618,7 @@ nav:
           - 'LeetCode-1099': problem/leetcode/LeetCode-1099. 小于 K 的两数之和.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
           - 'LeetCode-1118': problem/leetcode/LeetCode-1118. 一月有多少天.md
+          - 'LeetCode-1119': problem/leetcode/LeetCode-1119. 删去字符串中的元音.md
 
   - '资源集合':
       - resources/Github资源整理.md
