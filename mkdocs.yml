@@ -610,6 +610,7 @@ nav:
           - 'LeetCode-1021': problem/leetcode/LeetCode-1021. 删除最外层的括号.md
           - 'LeetCode-1022': problem/leetcode/LeetCode-1022. 从根到叶的二进制数之和.md
           - 'LeetCode-1025': problem/leetcode/LeetCode-1025. 除数博弈.md
+          - 'LeetCode-1029': problem/leetcode/LeetCode-1029. 两地调度.md
           - 'LeetCode-1030': problem/leetcode/LeetCode-1030. 距离顺序排列矩阵单元格.md
           - 'LeetCode-1056': problem/leetcode/LeetCode-1056. 易混淆数.md
           - 'LeetCode-1064': problem/leetcode/LeetCode-1064. 不动点.md
