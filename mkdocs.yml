@@ -142,6 +142,7 @@ nav:
           - 'LeetCode-0028': problem/leetcode/LeetCode-28. 实现strStr().md
           - 'LeetCode-0029': problem/leetcode/LeetCode-29.两数相除.md
           - 'LeetCode-0031': problem/leetcode/LeetCode-31. 下一个排列.md
+          - 'LeetCode-0032': problem/leetcode/LeetCode-32. 最长有效括号.md
           - 'LeetCode-0033': problem/leetcode/LeetCode-33. 搜索旋转排序数组.md
           - 'LeetCode-0034': problem/leetcode/LeetCode-34. 搜索范围.md
           - 'LeetCode-0035': problem/leetcode/LeetCode-35. 搜索插入位置.md
