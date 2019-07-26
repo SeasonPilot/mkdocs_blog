@@ -175,6 +175,7 @@ nav:
           - 'LeetCode-0073': problem/leetcode/LeetCode-73. 矩阵置零.md
           - 'LeetCode-0074': problem/leetcode/LeetCode-74. 搜索二维矩阵.md
           - 'LeetCode-0075': problem/leetcode/LeetCode-75. 分类颜色.md
+          - 'LeetCode-0076': problem/leetcode/LeetCode-76. 最小覆盖子串.md
           - 'LeetCode-0077': problem/leetcode/LeetCode-77. 组合.md
           - 'LeetCode-0078': problem/leetcode/LeetCode-78. 子集.md
           - 'LeetCode-0079': problem/leetcode/LeetCode-79. 单词搜索.md
