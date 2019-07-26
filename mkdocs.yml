@@ -173,6 +173,7 @@ nav:
           - 'LeetCode-0069': problem/leetcode/LeetCode-69.x 的平方根.md
           - 'LeetCode-0070': problem/leetcode/LeetCode-70. 爬楼梯.md
           - 'LeetCode-0071': problem/leetcode/LeetCode-71. 简化路径.md
+          - 'LeetCode-0072': problem/leetcode/LeetCode-72. 编辑距离.md
           - 'LeetCode-0073': problem/leetcode/LeetCode-73. 矩阵置零.md
           - 'LeetCode-0074': problem/leetcode/LeetCode-74. 搜索二维矩阵.md
           - 'LeetCode-0075': problem/leetcode/LeetCode-75. 分类颜色.md
