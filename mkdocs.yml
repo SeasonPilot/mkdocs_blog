@@ -506,6 +506,7 @@ nav:
           - 'LeetCode-0669': problem/leetcode/LeetCode-669. 修剪二叉搜索树.md
           - 'LeetCode-0671': problem/leetcode/LeetCode-671. 二叉树中第二小的节点.md
           - 'LeetCode-0674': problem/leetcode/LeetCode-674. 最长连续递增序列.md
+          - 'LeetCode-0679': problem/leetcode/LeetCode-679. 24 点游戏.md
           - 'LeetCode-0680': problem/leetcode/LeetCode-680. 验证回文字符串 Ⅱ.md
           - 'LeetCode-0682': problem/leetcode/LeetCode-682. 棒球比赛.md
           - 'LeetCode-0686': problem/leetcode/LeetCode-686. 重复叠加字符串匹配.md
