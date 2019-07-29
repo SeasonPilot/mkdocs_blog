@@ -642,6 +642,7 @@ nav:
           - 'LeetCode-1122': problem/leetcode/LeetCode-1122. 数组的相对排序.md
           - 'LeetCode-1128': problem/leetcode/LeetCode-1128. 等价多米诺骨牌对的数量.md
           - 'LeetCode-5139': problem/leetcode/LeetCode-5139. 第 N 个泰波那契数.md
+          - 'LeetCode-5140': problem/leetcode/LeetCode-5140. 字母板上的路径.md
 
   - '资源集合':
       - resources/Github资源整理.md
