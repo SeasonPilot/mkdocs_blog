@@ -269,6 +269,7 @@ nav:
           - 'LeetCode-0183': problem/leetcode/LeetCode-183. 从不订购的客户.md
           - 'LeetCode-0184': problem/leetcode/LeetCode-184. 部门工资最高的员工.md
           - 'LeetCode-0185': problem/leetcode/LeetCode-185. 部门工资前三高的员工.md
+          - 'LeetCode-0186': problem/leetcode/LeetCode-186. 翻转字符串里的单词 II.md
           - 'LeetCode-0187': problem/leetcode/LeetCode-187. 重复的DNA序列.md
           - 'LeetCode-0189': problem/leetcode/LeetCode-189.旋转数组.md
           - 'LeetCode-0190': problem/leetcode/LeetCode-190. 颠倒二进制位.md
