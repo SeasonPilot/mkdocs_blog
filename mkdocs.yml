@@ -248,6 +248,7 @@ nav:
           - 'LeetCode-0160': problem/leetcode/LeetCode-160 . 相交链表.md
           - 'LeetCode-0161': problem/leetcode/LeetCode-161. 相隔为 1 的编辑距离.md
           - 'LeetCode-0162': problem/leetcode/LeetCode-162. 寻找峰值.md
+          - 'LeetCode-0163': problem/leetcode/LeetCode-163. 缺失的区间.md
           - 'LeetCode-0165': problem/leetcode/LeetCode-165. 比较版本号.md
           - 'LeetCode-0166': problem/leetcode/LeetCode-166. 分数到小数.md
           - 'LeetCode-0167': problem/leetcode/LeetCode-167. 两数之和 II - 输入有序数组.md
