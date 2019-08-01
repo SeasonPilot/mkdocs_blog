@@ -317,6 +317,7 @@ nav:
           - 'LeetCode-0242': problem/leetcode/LeetCode-242. 有效的字母异位词.md
           - 'LeetCode-0243': problem/leetcode/LeetCode-243. 最短单词距离.md
           - 'LeetCode-0244': problem/leetcode/LeetCode-244. 最短单词距离 II.md
+          - 'LeetCode-0245': problem/leetcode/LeetCode-245. 最短单词距离 III.md
           - 'LeetCode-0246': problem/leetcode/LeetCode-246. 中心对称数.md
           - 'LeetCode-0252': problem/leetcode/LeetCode-252. 会议室.md
           - 'LeetCode-0256': problem/leetcode/LeetCode-256. 粉刷房子.md
