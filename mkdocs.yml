@@ -319,6 +319,7 @@ nav:
           - 'LeetCode-0244': problem/leetcode/LeetCode-244. 最短单词距离 II.md
           - 'LeetCode-0245': problem/leetcode/LeetCode-245. 最短单词距离 III.md
           - 'LeetCode-0246': problem/leetcode/LeetCode-246. 中心对称数.md
+          - 'LeetCode-0247': problem/leetcode/LeetCode-247. 中心对称数 II.md
           - 'LeetCode-0252': problem/leetcode/LeetCode-252. 会议室.md
           - 'LeetCode-0256': problem/leetcode/LeetCode-256. 粉刷房子.md
           - 'LeetCode-0257': problem/leetcode/LeetCode-257. 二叉树的所有路径.md
