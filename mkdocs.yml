@@ -322,6 +322,7 @@ nav:
           - 'LeetCode-0247': problem/leetcode/LeetCode-247. 中心对称数 II.md
           - 'LeetCode-0249': problem/leetcode/LeetCode-249. 移位字符串分组.md
           - 'LeetCode-0250': problem/leetcode/LeetCode-250. 统计同值子树.md
+          - 'LeetCode-0251': problem/leetcode/LeetCode-251. 展开二维向量.md
           - 'LeetCode-0252': problem/leetcode/LeetCode-252. 会议室.md
           - 'LeetCode-0256': problem/leetcode/LeetCode-256. 粉刷房子.md
           - 'LeetCode-0257': problem/leetcode/LeetCode-257. 二叉树的所有路径.md
