@@ -325,6 +325,7 @@ nav:
           - 'LeetCode-0251': problem/leetcode/LeetCode-251. 展开二维向量.md
           - 'LeetCode-0252': problem/leetcode/LeetCode-252. 会议室.md
           - 'LeetCode-0253': problem/leetcode/LeetCode-253. 会议室 II.md
+          - 'LeetCode-0254': problem/leetcode/LeetCode-254. 因子的组合.md
           - 'LeetCode-0256': problem/leetcode/LeetCode-256. 粉刷房子.md
           - 'LeetCode-0257': problem/leetcode/LeetCode-257. 二叉树的所有路径.md
           - 'LeetCode-0258': problem/leetcode/LeetCode-258.各位相加.md
