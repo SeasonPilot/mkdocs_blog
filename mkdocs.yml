@@ -332,6 +332,7 @@ nav:
           - 'LeetCode-0258': problem/leetcode/LeetCode-258.各位相加.md
           - 'LeetCode-0259': problem/leetcode/LeetCode-259. 较小的三数之和.md
           - 'LeetCode-0260': problem/leetcode/LeetCode-260. 只出现一次的数字 III.md
+          - 'LeetCode-0261': problem/leetcode/LeetCode-261. 以图判树.md
           - 'LeetCode-0262': problem/leetcode/LeetCode-262. 行程和用户.md
           - 'LeetCode-0263': problem/leetcode/LeetCode-263. 丑数.md
           - 'LeetCode-0264': problem/leetcode/LeetCode-264. 丑数 II.md
