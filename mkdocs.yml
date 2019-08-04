@@ -330,6 +330,7 @@ nav:
           - 'LeetCode-0256': problem/leetcode/LeetCode-256. 粉刷房子.md
           - 'LeetCode-0257': problem/leetcode/LeetCode-257. 二叉树的所有路径.md
           - 'LeetCode-0258': problem/leetcode/LeetCode-258.各位相加.md
+          - 'LeetCode-0259': problem/leetcode/LeetCode-259. 较小的三数之和.md
           - 'LeetCode-0260': problem/leetcode/LeetCode-260. 只出现一次的数字 III.md
           - 'LeetCode-0262': problem/leetcode/LeetCode-262. 行程和用户.md
           - 'LeetCode-0263': problem/leetcode/LeetCode-263. 丑数.md
