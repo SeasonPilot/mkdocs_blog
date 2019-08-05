@@ -337,6 +337,7 @@ nav:
           - 'LeetCode-0263': problem/leetcode/LeetCode-263. 丑数.md
           - 'LeetCode-0264': problem/leetcode/LeetCode-264. 丑数 II.md
           - 'LeetCode-0266': problem/leetcode/LeetCode-266. 回文排列.md
+          - 'LeetCode-0267': problem/leetcode/LeetCode-267. 回文排列 II.md
           - 'LeetCode-0268': problem/leetcode/LeetCode-268.缺失数字 .md
           - 'LeetCode-0270': problem/leetcode/LeetCode-270. 最接近的二叉搜索树值.md
           - 'LeetCode-0274': problem/leetcode/LeetCode-274. H指数.md
