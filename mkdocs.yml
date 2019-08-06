@@ -346,6 +346,7 @@ nav:
           - 'LeetCode-0276': problem/leetcode/LeetCode-276. 栅栏涂色.md
           - 'LeetCode-0278': problem/leetcode/LeetCode-278. 第一个错误的版本.md
           - 'LeetCode-0279': problem/leetcode/LeetCode-279. 完全平方数.md
+          - 'LeetCode-0280': problem/leetcode/LeetCode-280. 摆动排序.md
           - 'LeetCode-0283': problem/leetcode/LeetCode-283. 移动零.md
           - 'LeetCode-0284': problem/leetcode/LeetCode-284. 顶端迭代器.md
           - 'LeetCode-0287': problem/leetcode/LeetCode-287. 寻找重复数.md
