@@ -668,6 +668,7 @@ nav:
           - 'LeetCode-1134': problem/leetcode/LeetCode-1134. 阿姆斯特朗数.md
           - 'LeetCode-1137': problem/leetcode/LeetCode-1137. 第 N 个泰波那契数.md
           - 'LeetCode-1138': problem/leetcode/LeetCode-1138. 字母板上的路径.md
+          - 'LeetCode-1154': problem/leetcode/LeetCode-1154. 一年中的第几天.md
 
   - '资源集合':
       - resources/Github资源整理.md
