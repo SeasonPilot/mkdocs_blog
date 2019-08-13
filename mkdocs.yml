@@ -467,6 +467,7 @@ nav:
           - 'LeetCode-0463': problem/leetcode/LeetCode-463. 岛屿的周长.md
           - 'LeetCode-0464': problem/leetcode/LeetCode-464. 我能赢吗.md
           - 'LeetCode-0467': problem/leetcode/LeetCode-467. 环绕字符串中唯一的子字符串.md
+          - 'LeetCode-0468': problem/leetcode/LeetCode-468. 验证IP地址.md
           - 'LeetCode-0475': problem/leetcode/LeetCode-475. 供暖器.md
           - 'LeetCode-0476': problem/leetcode/LeetCode-476. 数字的补数.md
           - 'LeetCode-0479': problem/leetcode/LeetCode-479. 最大回文数乘积.md
