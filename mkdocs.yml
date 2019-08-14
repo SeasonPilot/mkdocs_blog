@@ -476,6 +476,7 @@ nav:
           - 'LeetCode-0477': problem/leetcode/LeetCode-477. 汉明距离总和.md
           - 'LeetCode-0478': problem/leetcode/LeetCode-478. 在圆内随机生成点.md
           - 'LeetCode-0479': problem/leetcode/LeetCode-479. 最大回文数乘积.md
+          - 'LeetCode-0481': problem/leetcode/LeetCode-481. 神奇字符串.md
           - 'LeetCode-0482': problem/leetcode/LeetCode-482. License Key Formatting.md
           - 'LeetCode-0485': problem/leetcode/LeetCode-485. 最大连续1的个数.md
           - 'LeetCode-0492': problem/leetcode/LeetCode-492. 构造矩形.md
