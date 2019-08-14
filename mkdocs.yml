@@ -474,6 +474,7 @@ nav:
           - 'LeetCode-0475': problem/leetcode/LeetCode-475. 供暖器.md
           - 'LeetCode-0476': problem/leetcode/LeetCode-476. 数字的补数.md
           - 'LeetCode-0477': problem/leetcode/LeetCode-477. 汉明距离总和.md
+          - 'LeetCode-0478': problem/leetcode/LeetCode-478. 在圆内随机生成点.md
           - 'LeetCode-0479': problem/leetcode/LeetCode-479. 最大回文数乘积.md
           - 'LeetCode-0482': problem/leetcode/LeetCode-482. License Key Formatting.md
           - 'LeetCode-0485': problem/leetcode/LeetCode-485. 最大连续1的个数.md
