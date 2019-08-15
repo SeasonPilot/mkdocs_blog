@@ -66,15 +66,19 @@ class Solution:
 - 转化为01背包问题
 
 最终数组中通过添加符号，将所有的数字分成两部分，一部分都是正数，一部分都是负数，正数看成集合P，负数看成集合N
+
+
 $$
 \begin{align} 
 sum(P)+sum(N) &=target \\
 sum(nums) + sum(P)+sum(N) &= target + sum(nums)\\
 2*sum(P)  &=  target + sum(nums)\\
 sum(P) &= \frac{target + sum(nums)}{2}
-
 \end{align}
 $$
+
+
+
 如上所示，将上面的结果转变为从数组中找出多个数字和的组合，得到 $sum(P)$ 
 
 ```python
