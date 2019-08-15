@@ -479,6 +479,7 @@ nav:
           - 'LeetCode-0481': problem/leetcode/LeetCode-481. 神奇字符串.md
           - 'LeetCode-0482': problem/leetcode/LeetCode-482. License Key Formatting.md
           - 'LeetCode-0485': problem/leetcode/LeetCode-485. 最大连续1的个数.md
+          - 'LeetCode-0486': problem/leetcode/LeetCode-486. 预测赢家.md
           - 'LeetCode-0492': problem/leetcode/LeetCode-492. 构造矩形.md
           - 'LeetCode-0496': problem/leetcode/LeetCode-496. 下一个更大元素 I.md
           - 'LeetCode-0500': problem/leetcode/LeetCode-500.键盘行.md
