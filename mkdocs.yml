@@ -25,6 +25,8 @@ extra:
   social:
     - type: 'github'
       link: 'https://github.com/gaviners'
+  disqus: 'gaviner'
+
 
 # Extensions
 markdown_extensions:
