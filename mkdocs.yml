@@ -491,6 +491,7 @@ nav:
           - 'LeetCode-0491': problem/leetcode/LeetCode-491. 递增子序列.md
           - 'LeetCode-0492': problem/leetcode/LeetCode-492. 构造矩形.md
           - 'LeetCode-0494': problem/leetcode/LeetCode-494. 目标和.md
+          - 'LeetCode-0495': problem/leetcode/LeetCode-495. 提莫攻击.md
           - 'LeetCode-0496': problem/leetcode/LeetCode-496. 下一个更大元素 I.md
           - 'LeetCode-0500': problem/leetcode/LeetCode-500.键盘行.md
           - 'LeetCode-0501': problem/leetcode/LeetCode-501. 二叉搜索树中的众数.md
