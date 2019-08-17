@@ -9,7 +9,7 @@ site_url: 'https://aisky.men'
 #repo_url: 'https://github.com/gaviners/mkdocs_blog'
 
 # Copyright
-copyright: 'Copyright &copy; 2018 - 2019 Gavin zhishengqianjun@163.com'
+copyright: 'Copyright &copy; 2017 - 2019 Gavin zhishengqianjun@163.com'
 
 # Configuration
 theme:
@@ -497,6 +497,7 @@ nav:
           - 'LeetCode-0494': problem/leetcode/LeetCode-494. 目标和.md
           - 'LeetCode-0495': problem/leetcode/LeetCode-495. 提莫攻击.md
           - 'LeetCode-0496': problem/leetcode/LeetCode-496. 下一个更大元素 I.md
+          - 'LeetCode-0497': problem/leetcode/LeetCode-497. 非重叠矩形中的随机点
           - 'LeetCode-0500': problem/leetcode/LeetCode-500.键盘行.md
           - 'LeetCode-0501': problem/leetcode/LeetCode-501. 二叉搜索树中的众数.md
           - 'LeetCode-0504': problem/leetcode/LeetCode-504. 七进制数.md
