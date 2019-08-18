@@ -505,6 +505,7 @@ nav:
           - 'LeetCode-0504': problem/leetcode/LeetCode-504. 七进制数.md
           - 'LeetCode-0506': problem/leetcode/LeetCode-506. 相对名次.md
           - 'LeetCode-0507': problem/leetcode/LeetCode-507. 完美数.md
+          - 'LeetCode-0508': problem/leetcode/LeetCode-508. 出现次数最多的子树元素和.md
           - 'LeetCode-0509': problem/leetcode/LeetCode-509. 斐波那契数.md
           - 'LeetCode-0520': problem/leetcode/LeetCode-520. 检测大写字母.md
           - 'LeetCode-0521': problem/leetcode/LeetCode-521. 最长特殊序列 Ⅰ.md
