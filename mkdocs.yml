@@ -367,6 +367,7 @@ nav:
           - 'LeetCode-0290': problem/leetcode/LeetCode-290. 单词模式.md
           - 'LeetCode-0292': problem/leetcode/LeetCode-292.Nim游戏.md
           - 'LeetCode-0293': problem/leetcode/LeetCode-293. 翻转游戏.md
+          - 'LeetCode-0295': problem/leetcode/LeetCode-295. 数据流的中位数.md
           - 'LeetCode-0299': problem/leetcode/LeetCode-299. 猜数字游戏.md
           - 'LeetCode-0300': problem/leetcode/LeetCode-300. 最长上升子序列.md
           - 'LeetCode-0303': problem/leetcode/LeetCode-303. 区域和检索 - 数组不可变.md
