@@ -515,6 +515,7 @@ nav:
           - 'LeetCode-0519': problem/leetcode/LeetCode-519. 随机翻转矩阵.md
           - 'LeetCode-0520': problem/leetcode/LeetCode-520. 检测大写字母.md
           - 'LeetCode-0521': problem/leetcode/LeetCode-521. 最长特殊序列 Ⅰ.md
+          - 'LeetCode-0522': problem/leetcode/LeetCode-522. 最长特殊序列 II.md
           - 'LeetCode-0528': problem/leetcode/LeetCode-528. 按权重随机选择.md
           - 'LeetCode-0530': problem/leetcode/LeetCode-530. 二叉搜索树的最小绝对差.md
           - 'LeetCode-0532': problem/leetcode/LeetCode-532. 数组中的K-diff数对.md
