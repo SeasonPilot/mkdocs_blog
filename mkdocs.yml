@@ -512,6 +512,7 @@ nav:
           - 'LeetCode-0515': problem/leetcode/LeetCode-515. 在每个树行中找最大值.md
           - 'LeetCode-0516': problem/leetcode/LeetCode-516. 最长回文子序列.md
           - 'LeetCode-0518': problem/leetcode/LeetCode-518. 零钱兑换 II.md
+          - 'LeetCode-0519': problem/leetcode/LeetCode-519. 随机翻转矩阵.md
           - 'LeetCode-0520': problem/leetcode/LeetCode-520. 检测大写字母.md
           - 'LeetCode-0521': problem/leetcode/LeetCode-521. 最长特殊序列 Ⅰ.md
           - 'LeetCode-0528': problem/leetcode/LeetCode-528. 按权重随机选择.md
