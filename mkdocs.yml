@@ -91,6 +91,7 @@ nav:
       - 'Linux':
           - computer/linux/Linux.md
           - computer/linux/linux_boot.md
+          - computer/linux/ELF文件.md
       - 'Web开发':
           - computer/web/Web.md
       - '网络':
@@ -498,7 +499,7 @@ nav:
           - 'LeetCode-0494': problem/leetcode/LeetCode-494. 目标和.md
           - 'LeetCode-0495': problem/leetcode/LeetCode-495. 提莫攻击.md
           - 'LeetCode-0496': problem/leetcode/LeetCode-496. 下一个更大元素 I.md
-          - 'LeetCode-0497': problem/leetcode/LeetCode-497. 非重叠矩形中的随机点
+          - 'LeetCode-0497': problem/leetcode/LeetCode-497. 非重叠矩形中的随机点.md
           - 'LeetCode-0498': problem/leetcode/LeetCode-498. 对角线遍历.md
           - 'LeetCode-0500': problem/leetcode/LeetCode-500.键盘行.md
           - 'LeetCode-0501': problem/leetcode/LeetCode-501. 二叉搜索树中的众数.md
