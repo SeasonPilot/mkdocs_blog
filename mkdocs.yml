@@ -518,6 +518,7 @@ nav:
           - 'LeetCode-0521': problem/leetcode/LeetCode-521. 最长特殊序列 Ⅰ.md
           - 'LeetCode-0522': problem/leetcode/LeetCode-522. 最长特殊序列 II.md
           - 'LeetCode-0523': problem/leetcode/LeetCode-523. 连续的子数组和.md
+          - 'LeetCode-0524': problem/leetcode/LeetCode-524. 通过删除字母匹配到字典里最长单词.md
           - 'LeetCode-0528': problem/leetcode/LeetCode-528. 按权重随机选择.md
           - 'LeetCode-0530': problem/leetcode/LeetCode-530. 二叉搜索树的最小绝对差.md
           - 'LeetCode-0532': problem/leetcode/LeetCode-532. 数组中的K-diff数对.md
