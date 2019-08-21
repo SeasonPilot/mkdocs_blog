@@ -524,6 +524,7 @@ nav:
           - 'LeetCode-0528': problem/leetcode/LeetCode-528. 按权重随机选择.md
           - 'LeetCode-0530': problem/leetcode/LeetCode-530. 二叉搜索树的最小绝对差.md
           - 'LeetCode-0532': problem/leetcode/LeetCode-532. 数组中的K-diff数对.md
+          - 'LeetCode-0535': problem/leetcode/LeetCode-535. TinyURL 的加密与解密.md
           - 'LeetCode-0538': problem/leetcode/LeetCode-538. 把二叉搜索树转换为累加树.md
           - 'LeetCode-0541': problem/leetcode/LeetCode-541. 反转字符串 II.md
           - 'LeetCode-0543': problem/leetcode/LeetCode-543. 二叉树的直径.md
