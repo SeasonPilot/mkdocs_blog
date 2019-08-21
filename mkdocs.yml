@@ -522,6 +522,7 @@ nav:
           - 'LeetCode-0525': problem/leetcode/LeetCode-525. 连续数组.md
           - 'LeetCode-0526': problem/leetcode/LeetCode-526. 优美的排列.md
           - 'LeetCode-0528': problem/leetcode/LeetCode-528. 按权重随机选择.md
+          - 'LeetCode-0529': problem/leetcode/LeetCode-529. 扫雷游戏
           - 'LeetCode-0530': problem/leetcode/LeetCode-530. 二叉搜索树的最小绝对差.md
           - 'LeetCode-0532': problem/leetcode/LeetCode-532. 数组中的K-diff数对.md
           - 'LeetCode-0535': problem/leetcode/LeetCode-535. TinyURL 的加密与解密.md
