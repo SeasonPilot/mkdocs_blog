@@ -696,6 +696,7 @@ nav:
           - 'LeetCode-1030': problem/leetcode/LeetCode-1030. 距离顺序排列矩阵单元格.md
           - 'LeetCode-1033': problem/leetcode/LeetCode-1033. 移动石子直到连续.md
           - 'LeetCode-1037': problem/leetcode/LeetCode-1037. 有效的回旋镖.md
+          - 'LeetCode-1038': problem/leetcode/LeetCode-1038. 从二叉搜索树到更大和树.md
           - 'LeetCode-1041': problem/leetcode/LeetCode-1041. 困于环中的机器人.md
           - 'LeetCode-1042': problem/leetcode/LeetCode-1042. 不邻接植花.md
           - 'LeetCode-1046': problem/leetcode/LeetCode-1046. 最后一块石头的重量.md
