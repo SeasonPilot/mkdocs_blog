@@ -567,6 +567,7 @@ nav:
           - 'LeetCode-0643': problem/leetcode/LeetCode-643. 子数组最大平均数 I.md
           - 'LeetCode-0645': problem/leetcode/LeetCode-645. 错误的集合.md
           - 'LeetCode-0653': problem/leetcode/LeetCode-653. 两数之和 IV - 输入 BST.md
+          - 'LeetCode-0654': problem/leetcode/LeetCode-654. 最大二叉树.md
           - 'LeetCode-0657': problem/leetcode/LeetCode-657. 判断路线成圈.md
           - 'LeetCode-0661': problem/leetcode/LeetCode-661. 图片平滑器.md
           - 'LeetCode-0665': problem/leetcode/LeetCode-665. 非递减数列.md
