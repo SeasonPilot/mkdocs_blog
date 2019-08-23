@@ -711,6 +711,7 @@ nav:
           - 'LeetCode-1065': problem/leetcode/LeetCode-1065. 字符串的索引对.md
           - 'LeetCode-1071': problem/leetcode/LeetCode-1071. 字符串的最大公因子.md
           - 'LeetCode-1078': problem/leetcode/LeetCode-1078. Bigram 分词.md
+          - 'LeetCode-1079': problem/leetcode/LeetCode-1079. 活字印刷.md
           - 'LeetCode-1085': problem/leetcode/LeetCode-1085. 最小元素各数位之和.md
           - 'LeetCode-1086': problem/leetcode/LeetCode-1086. 前五科的均分.md
           - 'LeetCode-1089': problem/leetcode/LeetCode-1089. 复写零.md
