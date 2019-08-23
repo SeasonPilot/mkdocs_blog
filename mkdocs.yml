@@ -652,6 +652,7 @@ nav:
           - 'LeetCode-0873': problem/leetcode/LeetCode-873. 最长的斐波那契子序列的长度.md
           - 'LeetCode-0874': problem/leetcode/LeetCode-874. 行走机器人模拟.md
           - 'LeetCode-0876': problem/leetcode/LeetCode-876. 链表的中间结点.md
+          - 'LeetCode-0877': problem/leetcode/LeetCode-877. 石子游戏.md
           - 'LeetCode-0884': problem/leetcode/LeetCode-884. 两句话中的不常见单词.md
           - 'LeetCode-0887': problem/leetcode/LeetCode-887. 三维形体投影面积.md
           - 'LeetCode-0888': problem/leetcode/LeetCode-888. 公平的糖果交换.md
