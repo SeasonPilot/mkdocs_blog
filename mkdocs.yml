@@ -587,6 +587,7 @@ nav:
           - 'LeetCode-0697': problem/leetcode/LeetCode-697. 数组的度.md
           - 'LeetCode-0698': problem/leetcode/LeetCode-698. 划分为k个相等的子集.md
           - 'LeetCode-0700': problem/leetcode/LeetCode-700. 二叉搜索树中的搜索.md
+          - 'LeetCode-0701': problem/leetcode/LeetCode-701. 二叉搜索树中的插入操作.md
           - 'LeetCode-0703': problem/leetcode/LeetCode-703. 数据流中的第K大元素.md
           - 'LeetCode-0704': problem/leetcode/LeetCode-704. 二分查找.md
           - 'LeetCode-0705': problem/leetcode/LeetCode-705. 设计哈希集合.md
