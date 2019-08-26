@@ -716,6 +716,7 @@ nav:
           - 'LeetCode-1038': problem/leetcode/LeetCode-1038. 从二叉搜索树到更大和树.md
           - 'LeetCode-1041': problem/leetcode/LeetCode-1041. 困于环中的机器人.md
           - 'LeetCode-1042': problem/leetcode/LeetCode-1042. 不邻接植花.md
+          - 'LeetCode-1043': problem/leetcode/LeetCode-1043. 分隔数组以得到最大和.md
           - 'LeetCode-1046': problem/leetcode/LeetCode-1046. 最后一块石头的重量.md
           - 'LeetCode-1047': problem/leetcode/LeetCode-1047. 删除字符串中的所有相邻重复项.md
           - 'LeetCode-1051': problem/leetcode/LeetCode-1051. 高度检查器.md
