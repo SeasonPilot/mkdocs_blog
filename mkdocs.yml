@@ -533,6 +533,7 @@ nav:
           - 'LeetCode-0541': problem/leetcode/LeetCode-541. 反转字符串 II.md
           - 'LeetCode-0542': problem/leetcode/LeetCode-542. 01 矩阵.md
           - 'LeetCode-0543': problem/leetcode/LeetCode-543. 二叉树的直径.md
+          - 'LeetCode-0547': problem/leetcode/LeetCode-547. 朋友圈.md
           - 'LeetCode-0551': problem/leetcode/LeetCode-551. 学生出勤纪录 I.md
           - 'LeetCode-0557': problem/leetcode/LeetCode-557. 反转字符串中的单词 III.md
           - 'LeetCode-0558': problem/leetcode/LeetCode-558. 四叉树交集.md
