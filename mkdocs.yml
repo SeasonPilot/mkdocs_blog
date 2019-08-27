@@ -746,6 +746,7 @@ nav:
           - 'LeetCode-1154': problem/leetcode/LeetCode-1154. 一年中的第几天.md
           - 'LeetCode-1160': problem/leetcode/LeetCode-1160. 拼写单词.md
           - 'LeetCode-1161': problem/leetcode/LeetCode-1161. 最大层内元素和.md
+          - 'LeetCode-1170': problem/leetcode/LeetCode-1170. 比较字符串最小字母出现频次.md
 
   - '资源集合':
       - resources/Github资源整理.md
