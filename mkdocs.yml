@@ -617,6 +617,7 @@ nav:
           - 'LeetCode-0760': problem/leetcode/LeetCode-760. 找出变位映射.md
           - 'LeetCode-0762': problem/leetcode/LeetCode-762. 二进制表示中质数个计算置位.md
           - 'LeetCode-0763': problem/leetcode/LeetCode-763. 划分字母区间.md
+          - 'LeetCode-0765': problem/leetcode/LeetCode-765. 情侣牵手.md
           - 'LeetCode-0766': problem/leetcode/LeetCode-766. 托普利茨矩阵.md
           - 'LeetCode-0771': problem/leetcode/LeetCode-771. 宝石与石头.md
           - 'LeetCode-0783': problem/leetcode/LeetCode-783. 二叉搜索树结点最小距离.md
