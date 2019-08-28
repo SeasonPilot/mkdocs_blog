@@ -123,7 +123,8 @@ nav:
               - problem/牛客网/牛客假日团队赛9/I-旅行家的预算.md
               - problem/牛客网/牛客假日团队赛9/L-回文数.md
       - 'KickStart':
-          - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
+          - '2018_Round_B': 
+              - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
       - 'LeetCode':
           - 'LeetCode-0001': problem/leetcode/LeetCode-1. 两数之和.md
           - 'LeetCode-0002': problem/leetcode/LeetCode-2. 两数相加.md
