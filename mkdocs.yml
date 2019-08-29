@@ -632,6 +632,7 @@ nav:
           - 'LeetCode-0797': problem/leetcode/LeetCode-797. 所有可能的路径.md
           - 'LeetCode-0800': problem/leetcode/LeetCode-800. 相似 RGB 颜色.md
           - 'LeetCode-0802': problem/leetcode/LeetCode-802. 找到最终的安全状态.md
+          - 'LeetCode-0803': problem/leetcode/LeetCode-803. 打砖块.md
           - 'LeetCode-0804': problem/leetcode/LeetCode-804. 唯一摩尔斯密码词.md
           - 'LeetCode-0806': problem/leetcode/LeetCode-806. 写字符串需要的行数.md
           - 'LeetCode-0807': problem/leetcode/LeetCode-807. 保持城市天际线.md
