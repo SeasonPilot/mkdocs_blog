@@ -236,6 +236,7 @@ nav:
           - 'LeetCode-0125': problem/leetcode/LeetCode-125. 验证回文串.md
           - 'LeetCode-0126': problem/leetcode/LeetCode-126. 单词接龙 II.md
           - 'LeetCode-0127': problem/leetcode/LeetCode-127. 单词接龙.md
+          - 'LeetCode-0128': problem/leetcode/LeetCode-128. 最长连续序列.md
           - 'LeetCode-0129': problem/leetcode/LeetCode-129. 求根到叶子节点数字之和.md
           - 'LeetCode-0130': problem/leetcode/LeetCode-130. 被围绕的区域.md
           - 'LeetCode-0131': problem/leetcode/LeetCode-131. 分割回文串.md
