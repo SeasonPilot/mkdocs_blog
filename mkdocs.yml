@@ -684,6 +684,7 @@ nav:
           - 'LeetCode-0917': problem/leetcode/LeetCode-917. 仅仅反转字母.md
           - 'LeetCode-0921': problem/leetcode/LeetCode-921. 使括号有效的最少添加.md
           - 'LeetCode-0922': problem/leetcode/LeetCode-922. 按奇偶排序数组 II.md
+          - 'LeetCode-0924': problem/leetcode/LeetCode-924. 尽量减少恶意软件的传播.md
           - 'LeetCode-0925': problem/leetcode/LeetCode-925. 长按键入.md
           - 'LeetCode-0929': problem/leetcode/LeetCode-929. 独特的电子邮件地址.md
           - 'LeetCode-0933': problem/leetcode/LeetCode-933. 最近的请求次数.md
