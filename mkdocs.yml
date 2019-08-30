@@ -686,6 +686,7 @@ nav:
           - 'LeetCode-0922': problem/leetcode/LeetCode-922. 按奇偶排序数组 II.md
           - 'LeetCode-0924': problem/leetcode/LeetCode-924. 尽量减少恶意软件的传播.md
           - 'LeetCode-0925': problem/leetcode/LeetCode-925. 长按键入.md
+          - 'LeetCode-0928': problem/leetcode/LeetCode-928. 尽量减少恶意软件的传播 II.md
           - 'LeetCode-0929': problem/leetcode/LeetCode-929. 独特的电子邮件地址.md
           - 'LeetCode-0933': problem/leetcode/LeetCode-933. 最近的请求次数.md
           - 'LeetCode-0937': problem/leetcode/LeetCode-937. 重新排列日志文件.md
