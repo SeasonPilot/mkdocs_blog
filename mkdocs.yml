@@ -649,6 +649,7 @@ nav:
           - 'LeetCode-0830': problem/leetcode/LeetCode-830. 较大分组的位置.md
           - 'LeetCode-0832': problem/leetcode/LeetCode-832. 翻转图像.md
           - 'LeetCode-0836': problem/leetcode/LeetCode-836. 矩形重叠.md
+          - 'LeetCode-0839': problem/leetcode/LeetCode-839. 相似字符串组.md
           - 'LeetCode-0840': problem/leetcode/LeetCode-840. 矩阵中的幻方.md
           - 'LeetCode-0844': problem/leetcode/LeetCode-844. 比较含退格的字符串.md
           - 'LeetCode-0848': problem/leetcode/LeetCode-848. 字母移位.md
