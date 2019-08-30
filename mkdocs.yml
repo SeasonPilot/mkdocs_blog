@@ -608,6 +608,7 @@ nav:
           - 'LeetCode-0728': problem/leetcode/LeetCode-728. 自除数.md
           - 'LeetCode-0733': problem/leetcode/LeetCode-733. 图像渲染.md
           - 'LeetCode-0734': problem/leetcode/LeetCode-734. 句子相似性.md
+          - 'LeetCode-0739': problem/leetcode/LeetCode-739. 每日温度.md
           - 'LeetCode-0743': problem/leetcode/LeetCode-743. 网络延迟时间.md
           - 'LeetCode-0744': problem/leetcode/LeetCode-744. 寻找比目标字母大的最小字母.md
           - 'LeetCode-0746': problem/leetcode/LeetCode-746. 使用最小花费爬楼梯.md
