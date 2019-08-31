@@ -680,6 +680,7 @@ nav:
           - 'LeetCode-0894': problem/leetcode/LeetCode-894. 所有可能的满二叉树.md
           - 'LeetCode-0896': problem/leetcode/LeetCode-896. 单调数列.md
           - 'LeetCode-0897': problem/leetcode/LeetCode-897. 递增顺序查找树.md
+          - 'LeetCode-0898': problem/leetcode/LeetCode-898. 子数组按位或操作.md
           - 'LeetCode-0905': problem/leetcode/LeetCode-905. 按奇偶排序数组.md
           - 'LeetCode-0908': problem/leetcode/LeetCode-908. 最小差值 I.md
           - 'LeetCode-0913': problem/leetcode/LeetCode-913. 猫和老鼠.md
