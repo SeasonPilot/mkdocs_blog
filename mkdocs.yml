@@ -764,6 +764,7 @@ nav:
           - 'LeetCode-1134': problem/leetcode/LeetCode-1134. 阿姆斯特朗数.md
           - 'LeetCode-1137': problem/leetcode/LeetCode-1137. 第 N 个泰波那契数.md
           - 'LeetCode-1138': problem/leetcode/LeetCode-1138. 字母板上的路径.md
+          - 'LeetCode-1144': problem/leetcode/LeetCode-1044. 最长重复子串.md
           - 'LeetCode-1154': problem/leetcode/LeetCode-1154. 一年中的第几天.md
           - 'LeetCode-1160': problem/leetcode/LeetCode-1160. 拼写单词.md
           - 'LeetCode-1161': problem/leetcode/LeetCode-1161. 最大层内元素和.md
