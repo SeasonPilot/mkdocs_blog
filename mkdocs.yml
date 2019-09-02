@@ -122,6 +122,9 @@ nav:
               - problem/牛客网/牛客假日团队赛9/G-Cow Digit Game.md
               - problem/牛客网/牛客假日团队赛9/I-旅行家的预算.md
               - problem/牛客网/牛客假日团队赛9/L-回文数.md
+      - 'Codefences':
+          - "Round 271": 
+              - problem/codefences/Round-271-D. Flowers.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
