@@ -164,6 +164,7 @@ nav:
           - 'LeetCode-0034': problem/leetcode/LeetCode-34. 搜索范围.md
           - 'LeetCode-0035': problem/leetcode/LeetCode-35. 搜索插入位置.md
           - 'LeetCode-0036': problem/leetcode/LeetCode-36. 有效的数独.md
+          - 'LeetCode-0037': problem/leetcode/LeetCode-37. 解数独.md
           - 'LeetCode-0038': problem/leetcode/LeetCode-38. 报数.md
           - 'LeetCode-0039': problem/leetcode/LeetCode-39. 组合总和.md
           - 'LeetCode-0040': problem/leetcode/LeetCode-40. 组合总和 II.md
