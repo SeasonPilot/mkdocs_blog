@@ -660,6 +660,7 @@ nav:
           - 'LeetCode-0836': problem/leetcode/LeetCode-836. 矩形重叠.md
           - 'LeetCode-0839': problem/leetcode/LeetCode-839. 相似字符串组.md
           - 'LeetCode-0840': problem/leetcode/LeetCode-840. 矩阵中的幻方.md
+          - 'LeetCode-0842': problem/leetcode/LeetCode-842. 将数组拆分成斐波那契序列.md
           - 'LeetCode-0844': problem/leetcode/LeetCode-844. 比较含退格的字符串.md
           - 'LeetCode-0848': problem/leetcode/LeetCode-848. 字母移位.md
           - 'LeetCode-0849': problem/leetcode/LeetCode-849. 到最近的人的最大距离.md
