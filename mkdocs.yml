@@ -175,6 +175,7 @@ nav:
           - 'LeetCode-0049': problem/leetcode/LeetCode-49. 字母异位词分组.md
           - 'LeetCode-0050': problem/leetcode/LeetCode-50.Pow(x, n).md
           - 'LeetCode-0051': problem/leetcode/LeetCode-51. N皇后.md
+          - 'LeetCode-0052': problem/leetcode/LeetCode-52. N皇后 II.md
           - 'LeetCode-0053': problem/leetcode/LeetCode-53.最大子序和.md
           - 'LeetCode-0054': problem/leetcode/LeetCode-54. 螺旋矩阵.md
           - 'LeetCode-0055': problem/leetcode/LeetCode-55. 跳跃游戏.md
