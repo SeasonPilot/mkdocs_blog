@@ -727,6 +727,7 @@ nav:
           - 'LeetCode-0994': problem/leetcode/LeetCode-994. 腐烂的橘子.md
           - 'LeetCode-0997': problem/leetcode/LeetCode-997. 找到小镇的法官.md
           - 'LeetCode-0999': problem/leetcode/LeetCode-999. 车的可用捕获量.md
+          - 'LeetCode-1001': problem/leetcode/LeetCode-1001. 网格照明.md
           - 'LeetCode-1002': problem/leetcode/LeetCode-1002. 查找常用字符.md
           - 'LeetCode-1005': problem/leetcode/LeetCode-1005. K 次取反后最大化的数组和.md
           - 'LeetCode-1008': problem/leetcode/LeetCode-1008. 先序遍历构造二叉树.md
