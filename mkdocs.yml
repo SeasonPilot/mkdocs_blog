@@ -170,6 +170,7 @@ nav:
           - 'LeetCode-0040': problem/leetcode/LeetCode-40. 组合总和 II.md
           - 'LeetCode-0042': problem/leetcode/LeetCode-42. 接雨水.md
           - 'LeetCode-0043': problem/leetcode/LeetCode-43. 字符串相乘.md
+          - 'LeetCode-0044': problem/leetcode/LeetCode-44. 通配符匹配.md
           - 'LeetCode-0046': problem/leetcode/LeetCode-46. 全排列.md
           - 'LeetCode-0047': problem/leetcode/LeetCode-47. 全排列 II.md
           - 'LeetCode-0048': problem/leetcode/LeetCode-48. 旋转图像.md
