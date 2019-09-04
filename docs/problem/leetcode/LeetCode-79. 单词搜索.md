@@ -101,5 +101,46 @@ class Solution:
 
 
 
+- 回溯法
 
+```python
+class Solution:
+    def exist(self, board, word):
+        """
+        :type board: List[List[str]]
+        :type word: str
+        :rtype: bool
+        """
+        
+        if not word:
+            return True
+
+        row, col = len(board), len(board[0])
+
+        # 上下左右-坐标
+        surround = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+
+        # 坐标验证
+        def available(m, n):
+            return 0 <= m < row and 0 <= n < col
+
+        def backtrace(x, y, index):
+            if index == len(word) - 1:
+                return True
+
+            board[x][y] = "#"
+            for dx, dy in surround:
+                x1, y1 = x + dx, y + dy
+                if available(x1, y1) and board[x1][y1] == word[index + 1] and backtrace(x1, y1, index + 1):
+                    return True
+
+            board[x][y] = word[index]
+            return False
+
+        for i in range(row):
+            for j in range(col):
+                if board[i][j] == word[0] and backtrace(i, j, 0):
+                    return True
+        return False
+```
 
