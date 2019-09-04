@@ -1,4 +1,4 @@
-# LeetCode: 5173. 质数排列
+# LeetCode: 1175. 质数排列
 
 [TOC]
 
