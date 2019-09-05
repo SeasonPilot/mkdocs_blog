@@ -600,6 +600,7 @@ nav:
           - 'LeetCode-0686': problem/leetcode/LeetCode-686. 重复叠加字符串匹配.md
           - 'LeetCode-0687': problem/leetcode/LeetCode-687. 最长同值路径.md
           - 'LeetCode-0690': problem/leetcode/LeetCode-690. 员工的重要性.md
+          - 'LeetCode-0691': problem/leetcode/LeetCode-691. 贴纸拼词.md
           - 'LeetCode-0693': problem/leetcode/LeetCode-693. 交替位二进制数.md
           - 'LeetCode-0695': problem/leetcode/LeetCode-695. 岛屿的最大面积.md
           - 'LeetCode-0696': problem/leetcode/LeetCode-696. 计数二进制子串.md
