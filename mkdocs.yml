@@ -217,6 +217,7 @@ nav:
           - 'LeetCode-0095': problem/leetcode/LeetCode-95. 不同的二叉搜索树 II.md
           - 'LeetCode-0096': problem/leetcode/LeetCode-96. 不同的二叉搜索树.md
           - 'LeetCode-0098': problem/leetcode/LeetCode-98. 验证二叉搜索树.md
+          - 'LeetCode-0099': problem/leetcode/LeetCode-99. 恢复二叉搜索树.md
           - 'LeetCode-0100': problem/leetcode/LeetCode-100. 相同的树.md
           - 'LeetCode-0101': problem/leetcode/LeetCode-101. 对称二叉树.md
           - 'LeetCode-0102': problem/leetcode/LeetCode-102. 二叉树的层次遍历.md
