@@ -259,6 +259,7 @@ nav:
           - 'LeetCode-0142': problem/leetcode/LeetCode-142. 环形链表 II.md
           - 'LeetCode-0143': problem/leetcode/LeetCode-143. 重排链表.md
           - 'LeetCode-0144': problem/leetcode/LeetCode-144. 二叉树的前序遍历.md
+          - 'LeetCode-0145': problem/leetcode/LeetCode-145. 二叉树的后序遍历.md
           - 'LeetCode-0146': problem/leetcode/LeetCode-146. LRU缓存机制.md
           - 'LeetCode-0147': problem/leetcode/LeetCode-147. 对链表进行插入排序.md
           - 'LeetCode-0148': problem/leetcode/LeetCode-148. 排序链表.md
