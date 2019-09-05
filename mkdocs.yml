@@ -789,8 +789,9 @@ nav:
           - 'LeetCode-1161': problem/leetcode/LeetCode-1161. 最大层内元素和.md
           - 'LeetCode-1169': problem/leetcode/LeetCode-1169. 查询无效交易.md
           - 'LeetCode-1170': problem/leetcode/LeetCode-1170. 比较字符串最小字母出现频次.md
-          - 'LeetCode-5173': problem/leetcode/LeetCode-5173. 质数排列.md
-          - 'LeetCode-5174': problem/leetcode/LeetCode-5174. 健身计划评估.md
+          - 'LeetCode-1175': problem/leetcode/LeetCode-1175. 质数排列.md
+          - 'LeetCode-1176': problem/leetcode/LeetCode-1176. 健身计划评估.md
+          - 'LeetCode-1178': problem/leetcode/LeetCode-1178. 猜字谜.md
 
   - '资源集合':
       - resources/Github资源整理.md
