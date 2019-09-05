@@ -733,6 +733,7 @@ nav:
           - 'LeetCode-0990': problem/leetcode/LeetCode-990. 等式方程的可满足性.md
           - 'LeetCode-0993': problem/leetcode/LeetCode-993. 二叉树的堂兄弟节点.md
           - 'LeetCode-0994': problem/leetcode/LeetCode-994. 腐烂的橘子.md
+          - 'LeetCode-0996': problem/leetcode/LeetCode-996. 正方形数组的数目.md
           - 'LeetCode-0997': problem/leetcode/LeetCode-997. 找到小镇的法官.md
           - 'LeetCode-0999': problem/leetcode/LeetCode-999. 车的可用捕获量.md
           - 'LeetCode-1001': problem/leetcode/LeetCode-1001. 网格照明.md
