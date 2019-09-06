@@ -589,6 +589,7 @@ nav:
           - 'LeetCode-0652': problem/leetcode/LeetCode-652. 寻找重复的子树.md
           - 'LeetCode-0653': problem/leetcode/LeetCode-653. 两数之和 IV - 输入 BST.md
           - 'LeetCode-0654': problem/leetcode/LeetCode-654. 最大二叉树.md
+          - 'LeetCode-0655': problem/leetcode/LeetCode-655. 输出二叉树.md
           - 'LeetCode-0657': problem/leetcode/LeetCode-657. 判断路线成圈.md
           - 'LeetCode-0661': problem/leetcode/LeetCode-661. 图片平滑器.md
           - 'LeetCode-0662': problem/leetcode/LeetCode-662. 二叉树最大宽度.md
