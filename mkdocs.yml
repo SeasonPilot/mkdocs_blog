@@ -729,6 +729,7 @@ nav:
           - 'LeetCode-0959': problem/leetcode/LeetCode-959. 由斜杠划分区域.md
           - 'LeetCode-0961': problem/leetcode/LeetCode-961. 重复 N 次的元素.md
           - 'LeetCode-0965': problem/leetcode/LeetCode-965. 单值二叉树.md
+          - 'LeetCode-0968': problem/leetcode/LeetCode-968. 监控二叉树.md
           - 'LeetCode-0969': problem/leetcode/LeetCode-969. 煎饼排序.md
           - 'LeetCode-0970': problem/leetcode/LeetCode-970. 强整数.md
           - 'LeetCode-0976': problem/leetcode/LeetCode-976. 三角形的最大周长.md
