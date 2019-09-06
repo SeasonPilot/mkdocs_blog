@@ -591,6 +591,7 @@ nav:
           - 'LeetCode-0654': problem/leetcode/LeetCode-654. 最大二叉树.md
           - 'LeetCode-0657': problem/leetcode/LeetCode-657. 判断路线成圈.md
           - 'LeetCode-0661': problem/leetcode/LeetCode-661. 图片平滑器.md
+          - 'LeetCode-0662': problem/leetcode/LeetCode-662. 二叉树最大宽度.md
           - 'LeetCode-0665': problem/leetcode/LeetCode-665. 非递减数列.md
           - 'LeetCode-0669': problem/leetcode/LeetCode-669. 修剪二叉搜索树.md
           - 'LeetCode-0671': problem/leetcode/LeetCode-671. 二叉树中第二小的节点.md
