@@ -739,6 +739,7 @@ nav:
           - 'LeetCode-0980': problem/leetcode/LeetCode-980. 不同路径 III.md
           - 'LeetCode-0985': problem/leetcode/LeetCode-985. 查询后的偶数和.md
           - 'LeetCode-0986': problem/leetcode/LeetCode-986. 区间列表的交集.md
+          - 'LeetCode-0987': problem/leetcode/LeetCode-987. 二叉树的垂序遍历.md
           - 'LeetCode-0989': problem/leetcode/LeetCode-989. 数组形式的整数加法.md
           - 'LeetCode-0990': problem/leetcode/LeetCode-990. 等式方程的可满足性.md
           - 'LeetCode-0993': problem/leetcode/LeetCode-993. 二叉树的堂兄弟节点.md
