@@ -736,6 +736,7 @@ nav:
           - 'LeetCode-0968': problem/leetcode/LeetCode-968. 监控二叉树.md
           - 'LeetCode-0969': problem/leetcode/LeetCode-969. 煎饼排序.md
           - 'LeetCode-0970': problem/leetcode/LeetCode-970. 强整数.md
+          - 'LeetCode-0971': problem/leetcode/LeetCode-971. 翻转二叉树以匹配先序遍历.md
           - 'LeetCode-0976': problem/leetcode/LeetCode-976. 三角形的最大周长.md
           - 'LeetCode-0977': problem/leetcode/LeetCode-977. 有序数组的平方.md
           - 'LeetCode-0979': problem/leetcode/LeetCode-979. 在二叉树中分配硬币.md
