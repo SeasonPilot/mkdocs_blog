@@ -683,6 +683,7 @@ nav:
           - 'LeetCode-0860': problem/leetcode/LeetCode-860. 柠檬水找零.md
           - 'LeetCode-0861': problem/leetcode/LeetCode-861. 翻转矩阵后的得分.md
           - 'LeetCode-0862': problem/leetcode/LeetCode-862. 和至少为 K 的最短子数组.md
+          - 'LeetCode-0863': problem/leetcode/LeetCode-863. 二叉树中所有距离为 K 的结点.md
           - 'LeetCode-0866': problem/leetcode/LeetCode-866. 具有所有最深结点的最小子树.md
           - 'LeetCode-0867': problem/leetcode/LeetCode-867. 回文素数.md
           - 'LeetCode-0868': problem/leetcode/LeetCode-868. 转置矩阵.md
