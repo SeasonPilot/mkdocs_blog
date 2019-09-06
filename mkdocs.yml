@@ -710,6 +710,7 @@ nav:
           - 'LeetCode-0913': problem/leetcode/LeetCode-913. 猫和老鼠.md
           - 'LeetCode-0914': problem/leetcode/LeetCode-914. 卡牌分组.md
           - 'LeetCode-0917': problem/leetcode/LeetCode-917. 仅仅反转字母.md
+          - 'LeetCode-0919': problem/leetcode/LeetCode-919. 完全二叉树插入器.md
           - 'LeetCode-0921': problem/leetcode/LeetCode-921. 使括号有效的最少添加.md
           - 'LeetCode-0922': problem/leetcode/LeetCode-922. 按奇偶排序数组 II.md
           - 'LeetCode-0924': problem/leetcode/LeetCode-924. 尽量减少恶意软件的传播.md
