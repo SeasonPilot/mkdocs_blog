@@ -206,6 +206,7 @@ nav:
           - 'LeetCode-0081': problem/leetcode/LeetCode-81. 搜索旋转排序数组 II.md
           - 'LeetCode-0082': problem/leetcode/LeetCode-82. 删除排序链表中的重复元素 II.md
           - 'LeetCode-0083': problem/leetcode/LeetCode-83.删除排序链表中的重复元素.md
+          - 'LeetCode-0084': problem/leetcode/LeetCode-84. 柱状图中最大的矩形.md
           - 'LeetCode-0086': problem/leetcode/LeetCode-86. 分隔链表.md
           - 'LeetCode-0088': problem/leetcode/LeetCode-88. 合并两个有序数组.md
           - 'LeetCode-0089': problem/leetcode/LeetCode-89. 格雷编码.md
