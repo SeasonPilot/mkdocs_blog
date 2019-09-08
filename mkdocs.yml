@@ -602,6 +602,7 @@ nav:
           - 'LeetCode-0669': problem/leetcode/LeetCode-669. 修剪二叉搜索树.md
           - 'LeetCode-0671': problem/leetcode/LeetCode-671. 二叉树中第二小的节点.md
           - 'LeetCode-0674': problem/leetcode/LeetCode-674. 最长连续递增序列.md
+          - 'LeetCode-0676': problem/leetcode/LeetCode-676. 实现一个魔法字典.md
           - 'LeetCode-0677': problem/leetcode/LeetCode-677. 键值映射.md
           - 'LeetCode-0679': problem/leetcode/LeetCode-679. 24 点游戏.md
           - 'LeetCode-0680': problem/leetcode/LeetCode-680. 验证回文字符串 Ⅱ.md
