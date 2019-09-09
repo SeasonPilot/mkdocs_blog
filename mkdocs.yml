@@ -630,6 +630,7 @@ nav:
           - 'LeetCode-0709': problem/leetcode/LeetCode-709. 转换成小写字母.md
           - 'LeetCode-0710': problem/leetcode/LeetCode-710. 黑名单中的随机数.md
           - 'LeetCode-0712': problem/leetcode/LeetCode-712. 两个字符串的最小ASCII删除和.md
+          - 'LeetCode-0714': problem/leetcode/LeetCode-714. 买卖股票的最佳时机含手续费.md
           - 'LeetCode-0716': problem/leetcode/LeetCode-716. 最大栈.md
           - 'LeetCode-0717': problem/leetcode/LeetCode-717. 1比特与2比特字符.md
           - 'LeetCode-0720': problem/leetcode/LeetCode-720. 词典中最长的单词.md
