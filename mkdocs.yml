@@ -587,6 +587,7 @@ nav:
           - 'LeetCode-0629': problem/leetcode/LeetCode-629. K个逆序对数组.md
           - 'LeetCode-0633': problem/leetcode/LeetCode-633. 平方数之和.md
           - 'LeetCode-0637': problem/leetcode/LeetCode-637. 二叉树的层平均值.md
+          - 'LeetCode-0638': problem/leetcode/LeetCode-638. 大礼包.md
           - 'LeetCode-0643': problem/leetcode/LeetCode-643. 子数组最大平均数 I.md
           - 'LeetCode-0645': problem/leetcode/LeetCode-645. 错误的集合.md
           - 'LeetCode-0647': problem/leetcode/LeetCode-647. 回文子串.md
