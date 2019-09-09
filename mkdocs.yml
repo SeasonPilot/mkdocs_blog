@@ -688,6 +688,7 @@ nav:
           - 'LeetCode-0848': problem/leetcode/LeetCode-848. 字母移位.md
           - 'LeetCode-0849': problem/leetcode/LeetCode-849. 到最近的人的最大距离.md
           - 'LeetCode-0852': problem/leetcode/LeetCode-852. 山脉数组的峰顶索引.md
+          - 'LeetCode-0854': problem/leetcode/LeetCode-854. 相似度为 K 的字符串.md
           - 'LeetCode-0855': problem/leetcode/LeetCode-855. 考场就座.md
           - 'LeetCode-0859': problem/leetcode/LeetCode-859. 亲密字符串.md
           - 'LeetCode-0860': problem/leetcode/LeetCode-860. 柠檬水找零.md
