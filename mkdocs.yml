@@ -5,8 +5,8 @@ site_author: 'gavin'
 site_url: 'https://aisky.men'
 
 # Repository
-#repo_name: 'gaviners/mkdocs_blog'
-#repo_url: 'https://github.com/gaviners/mkdocs_blog'
+repo_name: 'gaviners/mkdocs_blog'
+repo_url: 'https://github.com/gaviners/mkdocs_blog'
 
 # Copyright
 copyright: 'Copyright &copy; 2017 - 2019 Gavin zhishengqianjun@163.com'
