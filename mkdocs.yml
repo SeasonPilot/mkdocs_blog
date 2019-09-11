@@ -544,7 +544,7 @@ nav:
           - 'LeetCode-0525': problem/leetcode/LeetCode-525. 连续数组.md
           - 'LeetCode-0526': problem/leetcode/LeetCode-526. 优美的排列.md
           - 'LeetCode-0528': problem/leetcode/LeetCode-528. 按权重随机选择.md
-          - 'LeetCode-0529': problem/leetcode/LeetCode-529. 扫雷游戏
+          - 'LeetCode-0529': problem/leetcode/LeetCode-529. 扫雷游戏.md
           - 'LeetCode-0530': problem/leetcode/LeetCode-530. 二叉搜索树的最小绝对差.md
           - 'LeetCode-0532': problem/leetcode/LeetCode-532. 数组中的K-diff数对.md
           - 'LeetCode-0535': problem/leetcode/LeetCode-535. TinyURL 的加密与解密.md
@@ -686,7 +686,7 @@ nav:
           - 'LeetCode-0830': problem/leetcode/LeetCode-830. 较大分组的位置.md
           - 'LeetCode-0832': problem/leetcode/LeetCode-832. 翻转图像.md
           - 'LeetCode-0834': problem/leetcode/LeetCode-834. 树中距离之和.md
-          - 'LeetCode-0835': problem/leetcode/LeetCode-835. 图像重叠
+          - 'LeetCode-0835': problem/leetcode/LeetCode-835. 图像重叠.md
           - 'LeetCode-0836': problem/leetcode/LeetCode-836. 矩形重叠.md
           - 'LeetCode-0839': problem/leetcode/LeetCode-839. 相似字符串组.md
           - 'LeetCode-0840': problem/leetcode/LeetCode-840. 矩阵中的幻方.md
@@ -848,6 +848,7 @@ nav:
   - '常用工具':
       - 'Git使用手册': tools/Git使用手册.md
       - 'Markdown进阶：序列图': tools/Markdown进阶：序列图.md
+      - 'Mermaid-序列图': tools/mermaid-序列图.md
       - 'Vmware Fusion配置Nat静态IP': tools/Vmware Fusion配置Nat静态IP.md
   
   - '随笔记事':
