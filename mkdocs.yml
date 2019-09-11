@@ -839,6 +839,7 @@ nav:
           - 'LeetCode-1178': problem/leetcode/LeetCode-1178. 猜字谜.md
           - 'LeetCode-1184': problem/leetcode/LeetCode-1184. 公交站间的距离.md
           - 'LeetCode-1185': problem/leetcode/LeetCode-1185. 一周中的第几天.md
+          - 'LeetCode-1186': problem/leetcode/LeetCode-1186. 删除一次得到子数组最大和.md
 
   - '资源集合':
       - resources/Github资源整理.md
