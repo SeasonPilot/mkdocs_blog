@@ -663,6 +663,7 @@ nav:
           - 'LeetCode-0766': problem/leetcode/LeetCode-766. 托普利茨矩阵.md
           - 'LeetCode-0771': problem/leetcode/LeetCode-771. 宝石与石头.md
           - 'LeetCode-0778': problem/leetcode/LeetCode-778. 水位上升的泳池中游泳.md
+          - 'LeetCode-0779': problem/leetcode/LeetCode-779. 第K个语法符号.md
           - 'LeetCode-0783': problem/leetcode/LeetCode-783. 二叉搜索树结点最小距离.md
           - 'LeetCode-0784': problem/leetcode/LeetCode-784. 字母大小写全排列.md
           - 'LeetCode-0785': problem/leetcode/LeetCode-785. 判断二分图.md
