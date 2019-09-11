@@ -640,6 +640,7 @@ nav:
           - 'LeetCode-0721': problem/leetcode/LeetCode-721. 账户合并.md
           - 'LeetCode-0724': problem/leetcode/LeetCode-724. 寻找数组的中心索引.md
           - 'LeetCode-0725': problem/leetcode/LeetCode-725. 分隔链表.md
+          - 'LeetCode-0726': problem/leetcode/LeetCode-726. 原子的数量.md
           - 'LeetCode-0728': problem/leetcode/LeetCode-728. 自除数.md
           - 'LeetCode-0730': problem/leetcode/LeetCode-730. 统计不同回文子字符串.md
           - 'LeetCode-0733': problem/leetcode/LeetCode-733. 图像渲染.md
