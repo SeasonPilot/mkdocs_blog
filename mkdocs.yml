@@ -828,6 +828,7 @@ nav:
           - 'LeetCode-1123': problem/leetcode/LeetCode-1123. 最深叶节点的最近公共祖先.md
           - 'LeetCode-1125': problem/leetcode/LeetCode-1125. 最小的必要团队.md
           - 'LeetCode-1128': problem/leetcode/LeetCode-1128. 等价多米诺骨牌对的数量.md
+          - 'LeetCode-1130': problem/leetcode/LeetCode-1130. 叶值的最小代价生成树.md
           - 'LeetCode-1133': problem/leetcode/LeetCode-1133. 最大唯一数.md
           - 'LeetCode-1134': problem/leetcode/LeetCode-1134. 阿姆斯特朗数.md
           - 'LeetCode-1137': problem/leetcode/LeetCode-1137. 第 N 个泰波那契数.md
