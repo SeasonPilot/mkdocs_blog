@@ -767,6 +767,7 @@ nav:
           - 'LeetCode-0977': problem/leetcode/LeetCode-977. 有序数组的平方.md
           - 'LeetCode-0979': problem/leetcode/LeetCode-979. 在二叉树中分配硬币.md
           - 'LeetCode-0980': problem/leetcode/LeetCode-980. 不同路径 III.md
+          - 'LeetCode-0983': problem/leetcode/LeetCode-983. 最低票价.md
           - 'LeetCode-0985': problem/leetcode/LeetCode-985. 查询后的偶数和.md
           - 'LeetCode-0986': problem/leetcode/LeetCode-986. 区间列表的交集.md
           - 'LeetCode-0987': problem/leetcode/LeetCode-987. 二叉树的垂序遍历.md
