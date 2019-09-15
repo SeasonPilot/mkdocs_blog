@@ -784,6 +784,7 @@ nav:
           - 'LeetCode-0999': problem/leetcode/LeetCode-999. 车的可用捕获量.md
           - 'LeetCode-1001': problem/leetcode/LeetCode-1001. 网格照明.md
           - 'LeetCode-1002': problem/leetcode/LeetCode-1002. 查找常用字符.md
+          - 'LeetCode-1003': problem/leetcode/LeetCode-1003. 检查替换后的词是否有效.md
           - 'LeetCode-1005': problem/leetcode/LeetCode-1005. K 次取反后最大化的数组和.md
           - 'LeetCode-1008': problem/leetcode/LeetCode-1008. 先序遍历构造二叉树.md
           - 'LeetCode-1009': problem/leetcode/LeetCode-1009. 十进制整数的反码.md
