@@ -649,6 +649,7 @@ nav:
           - 'LeetCode-0733': problem/leetcode/LeetCode-733. 图像渲染.md
           - 'LeetCode-0734': problem/leetcode/LeetCode-734. 句子相似性.md
           - 'LeetCode-0739': problem/leetcode/LeetCode-739. 每日温度.md
+          - 'LeetCode-0740': problem/leetcode/LeetCode-740. 删除与获得点数.md
           - 'LeetCode-0743': problem/leetcode/LeetCode-743. 网络延迟时间.md
           - 'LeetCode-0744': problem/leetcode/LeetCode-744. 寻找比目标字母大的最小字母.md
           - 'LeetCode-0745': problem/leetcode/LeetCode-745. 前缀和后缀搜索.md
