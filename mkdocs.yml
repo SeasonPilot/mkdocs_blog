@@ -782,6 +782,7 @@ nav:
           - 'LeetCode-0988': problem/leetcode/LeetCode-988. 从叶结点开始的最小字符串.md
           - 'LeetCode-0989': problem/leetcode/LeetCode-989. 数组形式的整数加法.md
           - 'LeetCode-0990': problem/leetcode/LeetCode-990. 等式方程的可满足性.md
+          - 'LeetCode-0991': problem/leetcode/LeetCode-991. 坏了的计算器.md
           - 'LeetCode-0993': problem/leetcode/LeetCode-993. 二叉树的堂兄弟节点.md
           - 'LeetCode-0994': problem/leetcode/LeetCode-994. 腐烂的橘子.md
           - 'LeetCode-0996': problem/leetcode/LeetCode-996. 正方形数组的数目.md
