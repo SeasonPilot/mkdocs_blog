@@ -641,6 +641,7 @@ nav:
           - 'LeetCode-0714': problem/leetcode/LeetCode-714. 买卖股票的最佳时机含手续费.md
           - 'LeetCode-0716': problem/leetcode/LeetCode-716. 最大栈.md
           - 'LeetCode-0717': problem/leetcode/LeetCode-717. 1比特与2比特字符.md
+          - 'LeetCode-0718': problem/leetcode/LeetCode-718. 最长重复子数组.md
           - 'LeetCode-0720': problem/leetcode/LeetCode-720. 词典中最长的单词.md
           - 'LeetCode-0721': problem/leetcode/LeetCode-721. 账户合并.md
           - 'LeetCode-0724': problem/leetcode/LeetCode-724. 寻找数组的中心索引.md
