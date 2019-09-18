@@ -584,6 +584,7 @@ nav:
           - 'LeetCode-0609': problem/leetcode/LeetCode-609. 在系统中查找重复文件.md
           - 'LeetCode-0617': problem/leetcode/LeetCode-617. 合并二叉树.md
           - 'LeetCode-0620': problem/leetcode/LeetCode-620. 有趣的电影.md
+          - 'LeetCode-0621': problem/leetcode/LeetCode-621. 任务调度器.md
           - 'LeetCode-0623': problem/leetcode/LeetCode-623. 在二叉树中增加一行.md
           - 'LeetCode-0624': problem/leetcode/LeetCode-624. 数组列表中的最大距离.md
           - 'LeetCode-0626': problem/leetcode/LeetCode-626. 换座位.md
