@@ -10,7 +10,7 @@
 
  
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/narytreeexample.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050942.png)
 
 
 

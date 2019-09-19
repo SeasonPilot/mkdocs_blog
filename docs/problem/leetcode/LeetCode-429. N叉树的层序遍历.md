@@ -8,7 +8,7 @@
 
 例如，给定一个 3叉树 :
 
- ![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/narytreeexample.png)
+ ![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050721.png)
 
 返回其层序遍历:
 

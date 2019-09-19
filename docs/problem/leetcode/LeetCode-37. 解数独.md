@@ -13,11 +13,11 @@
 - 数字 `1-9` 在每一个以粗实线分隔的 `3x3` 宫内只能出现一次。
   空白格用 `'.'` 表示。
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-03-093823.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-032919.png)
 
 一个数独。
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-03-093849.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-032928.png)
 
 答案被标成红色。
 

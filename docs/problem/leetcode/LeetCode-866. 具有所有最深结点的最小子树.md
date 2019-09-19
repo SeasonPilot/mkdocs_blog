@@ -32,7 +32,7 @@
 输入和输出都具有 TreeNode 类型。
 ```
 
-![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/01/sketch1.png) 
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051048.png) 
 
 
 

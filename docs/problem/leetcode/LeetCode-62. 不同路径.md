@@ -14,11 +14,11 @@
 
 问总共有多少条不同的路径？
 
-![img](https://leetcode-cn.com/static/images/problemset/robot_maze.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-034419.png)
 
 例如，上图是一个7 x 3 的网格。有多少可能的路径？
 
-**说明：***m* 和 *n* 的值均不超过 100。
+**说明**  *m* 和 *n* 的值均不超过 100。
 
 **示例 1:**
 

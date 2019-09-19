@@ -24,7 +24,7 @@
 
 **解释：**
 
-![](https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/aliyun-lc-upload/uploads/2018/08/24/fivetrees.png) 
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051121.png) 
 
 
 

@@ -17,7 +17,7 @@
 输出：[8,5,10,1,7,null,12] 
 ```
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/03/08/1266.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050542.png)
 
 **提示：**
 

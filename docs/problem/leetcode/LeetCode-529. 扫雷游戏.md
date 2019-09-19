@@ -37,7 +37,7 @@ Click : [3,0]
 
 **解释:**
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/minesweeper_example_1.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050906.png)
 
 **示例 2：**
 
@@ -61,9 +61,9 @@ Click : [1,2]
 
 ```
 
-解释:**
+**解释:**
 
- ![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/minesweeper_example_2.png)
+ ![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050913.png)
 
 **注意：**
 

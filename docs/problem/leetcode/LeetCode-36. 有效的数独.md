@@ -16,7 +16,7 @@
 2. 数字 `1-9` 在每一列只能出现一次。
 3. 数字 `1-9` 在每一个以粗实线分隔的 `3x3` 宫内只能出现一次。
 
-![img](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-032833.png)
 
 上图是一个部分填充的有效的数独。
 

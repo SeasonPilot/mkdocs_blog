@@ -23,7 +23,7 @@
 
 **解释:**
 
- ![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/diagonal_traverse.png)
+ ![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050830.png)
 
 **说明:**
 

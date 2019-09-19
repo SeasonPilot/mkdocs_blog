@@ -12,7 +12,7 @@
 
 **示例 1：**
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/23/1253_example_1_improved.PNG)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051421.png)
 
 
 
@@ -34,7 +34,7 @@
 
 **示例 2：**
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/23/1253_example_3_improved.PNG)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051426.png)
 
 
 

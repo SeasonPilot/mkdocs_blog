@@ -19,7 +19,7 @@
 这里是上图的示意图。
 ```
 
-![](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/03/17/picture1.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051008.png)
 
 **提示：**
 

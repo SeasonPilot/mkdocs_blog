@@ -82,16 +82,16 @@ p = "a*c?b"
 
 - 状态转换方程
 
-  - ```
+```
     if p[i - 1] == "*":
         dp[i][j] = dp[i - 1][j - 1] or dp[i][j - 1] or dp[i - 1][j]
     elif p[i - 1] == "?":
         dp[i][j] = dp[i - 1][j - 1]
     else:
         dp[i][j] = dp[i - 1][j - 1] and p[i - 1] == s[j - 1]
-    ```
+```
 
-    
+​    
 
 ```python
 class Solution:

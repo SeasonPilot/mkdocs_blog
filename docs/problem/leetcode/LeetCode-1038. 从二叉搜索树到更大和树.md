@@ -14,7 +14,7 @@
 
 **示例：**
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/05/03/tree.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050557.png)
 
 ```
 输入：[4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]

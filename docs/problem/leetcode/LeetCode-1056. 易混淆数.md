@@ -18,7 +18,7 @@
 
 **示例 1：**
 
-![](https://assets.leetcode.com/uploads/2019/03/23/1268_1.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050614.png)
 
 ```
 输入：6
@@ -29,7 +29,7 @@
 
 **示例 2：**
 
-![](https://assets.leetcode.com/uploads/2019/03/23/1268_2.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050618.png)
 
 ```
 输入：89
@@ -40,7 +40,7 @@
 
 **示例 3：**
 
-![](https://assets.leetcode.com/uploads/2019/03/26/1268_3.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050622.png)
 
 ```
 输入：11
@@ -51,7 +51,7 @@
 
 **示例 4：**
 
-![](https://assets.leetcode.com/uploads/2019/03/23/1268_4.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050626.png)
 
 ```
 输入：25

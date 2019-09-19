@@ -14,7 +14,7 @@
 
 给你树上某一个节点的标号 label，请你返回从根节点到该标号为 label 节点的路径，该路径是由途经的节点标号所组成的。
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/06/28/tree.png) 
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050637.png) 
 
 **示例 1：**
 

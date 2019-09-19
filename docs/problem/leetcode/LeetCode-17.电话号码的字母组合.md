@@ -8,7 +8,7 @@
 
 给出数字到字母的映射如下（与电话按键相同）。注意 1 不对应任何字母。
 
-![img](http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Telephone-keypad2.svg/200px-Telephone-keypad2.svg.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-032224.png)
 
 **示例:**
 

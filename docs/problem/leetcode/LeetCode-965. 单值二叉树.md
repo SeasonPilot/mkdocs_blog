@@ -12,7 +12,7 @@
 
 **示例 1：**
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/29/screen-shot-2018-12-25-at-50104-pm.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051322.png)
 
 
 
@@ -23,7 +23,7 @@
 
 **示例 2：**
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/12/29/screen-shot-2018-12-25-at-50050-pm.png)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051329.png)
 
 ```
 输入：[2,2,2,5,2]
