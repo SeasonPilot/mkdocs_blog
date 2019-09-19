@@ -398,7 +398,6 @@ nav:
           - 'LeetCode-0313': problem/leetcode/LeetCode-313. 超级丑数.md
           - 'LeetCode-0318': problem/leetcode/LeetCode-318. 最大单词长度乘积.md
           - 'LeetCode-0319': problem/leetcode/LeetCode-319. 灯泡开关.md
-          - 'LeetCode-0319': problem/leetcode/LeetCode-319. 灯泡开关.md
           - 'LeetCode-0322': problem/leetcode/LeetCode-322. 零钱兑换.md
           - 'LeetCode-0324': problem/leetcode/LeetCode-324. 摆动排序 II.md
           - 'LeetCode-0326': problem/leetcode/LeetCode-326. 3的幂.md
