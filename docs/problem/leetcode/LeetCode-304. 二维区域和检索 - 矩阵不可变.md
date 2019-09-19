@@ -6,7 +6,9 @@
 
 给定一个二维矩阵，计算其子矩形范围内元素的总和，该子矩阵的左上角为 (*row*1, *col*1) ，右下角为 (*row*2, *col*2)。
 
-![Range Sum Query 2D](https://leetcode-cn.com/static/images/courses/range_sum_query_2d.png)
+![Range Sum Query 2D](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-092825.png)
+
+
 上图子矩阵左上角 (row1, col1) = **(2, 1)** ，右下角(row2, col2) = **(4, 3)，**该子矩形内元素的总和为 8。
 
 **示例:**

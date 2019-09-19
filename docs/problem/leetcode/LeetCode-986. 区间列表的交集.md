@@ -14,7 +14,7 @@
 
 **示例：**
 
-![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/02/02/interval1.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084338.png)
 
 ```
 输入：A = [[0,2],[5,10],[13,23],[24,25]], B = [[1,5],[8,12],[15,24],[25,26]]

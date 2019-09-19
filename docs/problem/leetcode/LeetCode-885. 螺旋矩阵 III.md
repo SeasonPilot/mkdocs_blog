@@ -25,7 +25,7 @@
 输出：[[0,0],[0,1],[0,2],[0,3]]
 ```
 
-![img](https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/aliyun-lc-upload/uploads/2018/08/24/example_1.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-083508.png)
 
 **示例 2：**
 
@@ -34,7 +34,7 @@
 输出：[[1,4],[1,5],[2,5],[2,4],[2,3],[1,3],[0,3],[0,4],[0,5],[3,5],[3,4],[3,3],[3,2],[2,2],[1,2],[0,2],[4,5],[4,4],[4,3],[4,2],[4,1],[3,1],[2,1],[1,1],[0,1],[4,0],[3,0],[2,0],[1,0],[0,0]]
 ```
 
-![img](https://aliyun-lc-upload.oss-cn-hangzhou.aliyuncs.com/aliyun-lc-upload/uploads/2018/08/24/example_2.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-083516.png)
 
 **提示：**
 

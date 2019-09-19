@@ -1,4 +1,4 @@
-# LeetCode: 867. 回文素数
+# LeetCode: 866. 回文素数
 
 [TOC]
 

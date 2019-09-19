@@ -1,4 +1,4 @@
-# LeetCode: 868. 转置矩阵
+# LeetCode: 867. 转置矩阵
 
 [TOC]
 

@@ -8,9 +8,7 @@
 
  
 
-![American keyboard](https://leetcode-cn.com/static/images/problemset/keyboard.png)
-
- 
+ ![American keyboard](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-080854.png)
 
 **示例1:**
 

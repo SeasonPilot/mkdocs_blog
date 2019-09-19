@@ -12,7 +12,7 @@
 
 **示例：**
 
-![](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/08/17/capture.jpeg)
+![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084230.jpg)
 
 ```
 输入：[1,7,0,7,-8,null,null]

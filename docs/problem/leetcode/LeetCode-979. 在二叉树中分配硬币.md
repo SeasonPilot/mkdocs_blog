@@ -14,7 +14,7 @@
 
 **示例 1：**
 
-![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/01/19/tree1.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084053.png)
 
 ```
 输入：[3,0,0]
@@ -25,7 +25,7 @@
 
 **示例 2：**
 
-![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/01/19/tree2.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084102.png)
 
 ```
 输入：[0,3,0]
@@ -35,7 +35,7 @@
 
 **示例 3：**
 
-![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/01/19/tree3.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084117.png)
 
 ```
 输入：[1,0,2]
@@ -44,7 +44,7 @@
 
 **示例 4：**
 
-![img](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2019/01/19/tree4.png)
+![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084202.png)
 
 ```
 输入：[1,0,0,null,3]
