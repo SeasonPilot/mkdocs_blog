@@ -563,6 +563,7 @@ nav:
           - 'LeetCode-0557': problem/leetcode/LeetCode-557. 反转字符串中的单词 III.md
           - 'LeetCode-0558': problem/leetcode/LeetCode-558. 四叉树交集.md
           - 'LeetCode-0559': problem/leetcode/LeetCode-559. N叉树的最大深度.md
+          - 'LeetCode-0560': problem/leetcode/LeetCode-560. 和为K的子数组.md
           - 'LeetCode-0561': problem/leetcode/LeetCode-561. 数组拆分 I.md
           - 'LeetCode-0563': problem/leetcode/LeetCode-563. 二叉树的坡度.md
           - 'LeetCode-0565': problem/leetcode/LeetCode-565. 数组嵌套.md
