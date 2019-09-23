@@ -6,7 +6,7 @@
 
 对链表进行插入排序。
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-090142.gif)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-090142.gif)
 插入排序的动画演示如上。从第一个元素开始，该链表可以被认为已经部分排序（用黑色表示）。
 每次迭代时，从输入数据中移除一个元素（用红色表示），并原地将其插入到已排好序的链表中。
 

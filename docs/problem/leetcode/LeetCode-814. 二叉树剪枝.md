@@ -21,7 +21,7 @@
 右图为返回的答案。
 ```
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051022.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-051022.png)
 
 **示例2:**
 
@@ -30,7 +30,7 @@
 输出: [1,null,1,null,1]
 ```
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051027.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-051027.png)
 
 **示例3:**
 
@@ -39,7 +39,7 @@
 输出: [1,1,0,1,1,null,1]
 ```
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051033.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-051033.png)
 
 **说明:**
 

@@ -10,11 +10,11 @@
 
 比如，有 A = ["abcdef", "uvwxyz"]，
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051136.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-051136.png)
 
 要删掉的列为 {0, 2, 3}，删除后 A 为["bef", "vyz"]， A 的列分别为["b","v"], ["e","y"], ["f","z"]。
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051141.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-051141.png)
 
 你需要选出一组要删掉的列 D，对 A 执行删除操作，使 A 中剩余的每一列都是 非降序 排列的，然后请你返回 D.length 的最小可能值。
 

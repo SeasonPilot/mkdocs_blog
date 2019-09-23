@@ -14,7 +14,7 @@
 
 
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-090417.jpg)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-090417.jpg)
 
 例如，上面的二进制手表读取 “3:25”。
 

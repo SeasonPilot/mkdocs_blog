@@ -12,7 +12,7 @@
 
 **示例 1：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-17-013807.jpg)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-17-013807.jpg)
 
 ```
 输入：text = "nlaebolko"
@@ -22,7 +22,7 @@
 
 **示例 2：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-17-013817.jpg)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-17-013817.jpg)
 
 ```
 输入：text = "loonbalxballpoon"

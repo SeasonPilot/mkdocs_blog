@@ -6,7 +6,7 @@
 
 给定一个非负整数 *numRows，*生成杨辉三角的前 *numRows* 行。
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-034655.gif)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-034655.gif)
 
 在杨辉三角中，每个数是它左上方和右上方的数的和。
 

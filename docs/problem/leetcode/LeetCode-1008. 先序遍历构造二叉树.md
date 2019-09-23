@@ -17,7 +17,7 @@
 输出：[8,5,10,1,7,null,12] 
 ```
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050542.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-050542.png)
 
 **提示：**
 

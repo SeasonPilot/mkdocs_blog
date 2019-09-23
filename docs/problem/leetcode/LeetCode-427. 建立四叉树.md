@@ -12,11 +12,11 @@
 
 给定下面这个8 x 8 网络，我们将这样建立一个对应的四叉树：
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050656.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-050656.png)
 
 由上文的定义，它能被这样分割：
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050701.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-050701.png)
 
 
 
@@ -26,7 +26,7 @@
 
 对于非叶子结点，val 可以是任意的，所以使用 * 代替。
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050707.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-050707.png)
 
 
 

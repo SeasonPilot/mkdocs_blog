@@ -22,7 +22,7 @@
 值分别为 7，4，以及 1
 ```
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-06-121436.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-06-121436.png)
 
 ```
 注意，输入的 "root" 和 "target" 实际上是树上的结点。

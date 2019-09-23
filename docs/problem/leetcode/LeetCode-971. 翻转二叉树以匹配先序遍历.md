@@ -22,7 +22,7 @@
 
 **示例 1：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-06-131754.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-06-131754.png)
 
 ```
 输入：root = [1,2], voyage = [2,1]
@@ -31,7 +31,7 @@
 
 **示例 2：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-06-131800.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-06-131800.png)
 
 ```
 输入：root = [1,2,3], voyage = [1,3,2]
@@ -40,7 +40,7 @@
 
 **示例 3：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-06-131807.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-06-131807.png)
 
 ```
 输入：root = [1,2,3], voyage = [1,2,3]

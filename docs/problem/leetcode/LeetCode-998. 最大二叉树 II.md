@@ -25,7 +25,7 @@
 
 **示例 1：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-07-033255.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-07-033255.png)
 
 ```
 输入：root = [4,1,3,null,null,2], val = 5
@@ -35,7 +35,7 @@
 
 **示例 2：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-07-033303.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-07-033303.png)
 
 ```
 输入：root = [5,2,4,null,1], val = 3
@@ -45,7 +45,7 @@
 
 **示例 3：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-07-033310.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-07-033310.png)
 
 ```
 输入：root = [5,2,3,null,1], val = 4

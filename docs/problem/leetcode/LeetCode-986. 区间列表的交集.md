@@ -14,7 +14,7 @@
 
 **示例：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084338.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084338.png)
 
 ```
 输入：A = [[0,2],[5,10],[13,23],[24,25]], B = [[1,5],[8,12],[15,24],[25,26]]

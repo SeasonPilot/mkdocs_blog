@@ -14,7 +14,7 @@
 
 **示例：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-14-071034.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-14-071034.png)
 
 ```
 输入：root = [1,2,3,4,5,6,7], to_delete = [3,5]

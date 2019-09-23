@@ -8,7 +8,7 @@
 
  
 
- ![American keyboard](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-080854.png)
+ ![American keyboard](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-080854.png)
 
 **示例1:**
 

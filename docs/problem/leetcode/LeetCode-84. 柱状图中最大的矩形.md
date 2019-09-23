@@ -8,11 +8,11 @@
 
 求在该柱状图中，能够勾勒出来的矩形的最大面积。
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-08-064648.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-08-064648.png)
 
 以上是柱状图的示例，其中每个柱子的宽度为 `1`，给定的高度为 `[2,1,5,6,2,3]`。
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-08-064620.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-08-064620.png)
 
 
 

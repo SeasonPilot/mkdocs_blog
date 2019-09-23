@@ -16,7 +16,7 @@
 
 **示例 1：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-05-111923.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-05-111923.png)
 
 ```
 输入："1-2--3--4-5--6--7"
@@ -26,7 +26,7 @@
 
 **示例 2：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-05-111933.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-05-111933.png)
 
 ```
 输入："1-2--3---4-5--6---7"
@@ -36,7 +36,7 @@
 
 **示例 3：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-05-111945.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-05-111945.png)
 
 ```
 输入："1-401--349---90--88"

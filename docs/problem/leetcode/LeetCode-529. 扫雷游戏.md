@@ -37,7 +37,7 @@ Click : [3,0]
 
 **解释:**
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050906.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-050906.png)
 
 **示例 2：**
 
@@ -63,7 +63,7 @@ Click : [1,2]
 
 **解释:**
 
- ![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050913.png)
+ ![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-050913.png)
 
 **注意：**
 

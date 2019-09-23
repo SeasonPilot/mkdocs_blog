@@ -8,7 +8,7 @@
 
 例如，给定一个 3叉树 :
 
- ![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-050721.png)
+ ![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-050721.png)
 
 返回其层序遍历:
 

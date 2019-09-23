@@ -26,7 +26,7 @@
 
 解释：2x2 网格如下：
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084248.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084248.png)
 
 
 
@@ -43,7 +43,7 @@
 
 解释：2x2 网格如下：
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084256.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084256.png)
 
 **示例 3：**
 
@@ -59,7 +59,7 @@
 解释：`（回想一下，因为 \ 字符是转义的，所以 "\\/" 表示 \/，而 "/\\" 表示 /\。）`
 2x2 网格如下：
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084302.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084302.png)
 
 **示例 4：**
 
@@ -75,7 +75,7 @@
 解释：（回想一下，因为 \ 字符是转义的，所以 "/\\" 表示 /\，而 "\\/" 表示 \/。）
 2x2 网格如下：
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084307.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084307.png)
 
 **示例 5：**
 
@@ -90,7 +90,7 @@
 
 解释：2x2 网格如下：
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084313.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084313.png)
 
 **提示：**
 

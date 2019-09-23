@@ -4,7 +4,7 @@
 ## 1、sigmoid函数
 sigmoid函数，也就是s型曲线函数，如下： 
 
-![func-e](sig_images/math-1.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123506.png)
 
   上面是我们常见的形式，虽然知道这样的形式，也知道计算流程，不够感觉并不太直观，下面来分析一下。
 
@@ -14,11 +14,11 @@ sigmoid函数，也就是s型曲线函数，如下：
 
    首先我们来画出指数函数的基本图形：
 
-![func-e](sig_images/func-e.png)  
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123507.png)  
 
    从上图，我们得到了这样的几个信息，指数函数过(0,1)点，单调递增/递减，定义域为$(-\infty,+\infty)$，值域为$(0,+\infty)$，再来我们看一下sigmoid函数的图像：
 
-![func-x](sig_images/func-x.png)
+![func-x](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123510.png)
 
    如果直接把$e^{-x}$放到分母上，就与$e^{x}$图像一样了，所以分母加上1，就得到了上面的图像，定义域是$(-\infty,+\infty)$，值域是$(0,1)$，那么就有一个很好地特性了，就是不管$x$是什么，都可以得到$(0,1)$之间的值；
 
@@ -26,7 +26,7 @@ sigmoid函数，也就是s型曲线函数，如下：
 
    首先来看一下对数函数的图像：
 
-![](sig_images/func-l.png)        
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123512.png)        
 
    对数函数的图像如上，单调递减，有一个比较好的特性就是在$(0,1)$之间，在接近0的时候，就近无穷大，接近1的时候为0，如果我们把前面的sigmoid函数放到自变量的位置上，就得到了$(0,1)$的图像；
 
@@ -36,13 +36,13 @@ sigmoid函数，也就是s型曲线函数，如下：
 
 sigmoid导数具体的推导过程如下：
 
-![func-e](sig_images/math-2.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123513.png)
 
 ## 3、神经网络损失函数求导
 
 神经网络的损失函数可以理解为是一个多级的复合函数，求导使用链式法则。
 
-![func-e](sig_images/math-3.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123514.png)
 
  先来说一下常规求导的过程：
 $$
@@ -50,11 +50,11 @@ e = (a+b)(b+1)
 $$
 
 
-![func-s1](sig_images/func-s1.png)
+![func-s1](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123516.png)
 
    这是一个简单的复合函数，如上图所示，c是a的函数，e是c的函数，如果我们用链式求导法则，分别对a和b求导，那么就是求出e对c的导数，c对a的导数，乘起来，对b求导则是求出e分别对c和d的导数，分别求c和d对b的导数，然后加起来，这种方法使我们常规的做法，有一个问题就是，我们在求到的过程中，e对c求导计算了2次，如果方程特别复杂，那么这个计算量就变得很大，怎样能够让每次求导只计算一次呢？
 
-![func-s2](sig_images/func-s2.png)
+![func-s2](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123517.png)
 
    如上图所示，我们从上往下开始计算，将每个单元的值计算出来，然后计算每个单元的偏导数，保存下来；
 
@@ -64,29 +64,29 @@ $$
 
    下面用一个简单的示例来演示一下反向传播求偏导的过程：  
 
-![func-nn](sig_images/func-nn.png)
+![func-nn](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123518.png)
 
 那么我们会有两个初始的权重矩阵：
 
-![func-e](sig_images/math-4.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123519.png)
 
  我们得到了上面的矩阵，现在我们以$sigmoid$函数作为激活函数，分别来计算每一层网络的激励（假设我们只有一个样本，输入是$x_1,x_2,$输出是$y$）；
 
 第一层是输入，激励就是样本的特征值；记为:
 
-![func-e](sig_images/math-5.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123522.png)
 
 $x_0$是偏置项，为1.
 
 第二层是隐藏层，激励通过特征值与区中相乘得到，然后取sigmoid函数变换，得到$a^2$，未变换之前的记为$z^2$：
 
- ![func-e](sig_images/math-6.png)
+ ![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123523.png)
 
 在上面，我们最后加上了偏置项；
 
 接下来第三层是输出层：
 
-![func-e](sig_images/math-7.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123524.png)
 
 因为是输出层了，所以不需要再往下计算，所以不加偏置项；
 
@@ -96,19 +96,19 @@ $x_0$是偏置项，为1.
 
 在这里，m=1;
 
-![func-e](sig_images/math-8.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123525.png)
 
 说明：$\frac{\lambda}{2m}\sum_{l=1}^{L-1} \sum_{i=1}^{s_l} \sum_{j=1}^{s_{l+1}} ( \Theta_{j,i}^{(l)})^2$实际上就是所有的权重的平方和，一般不会将和偏置项相乘的那个放进来；这个项很简单，暂时先不管它，后面不暂时不写这一项（这个是正则化）。
 
-![func-e](sig_images/math-9.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123526.png)
 
 然后我们得到了上面的式子，这里我们知道，如果我们想要求$\theta^2_{12}$的偏导数的话，会发现，这个式子其实是一个复合函数，$y$是常数，$a^3$是$z^3$的$sigmoid$函数变换，而$z^3$则是$a^2$与权重相乘得来的，现在我们找到了权重在哪里，就可以开始求偏导了，在这里，$a^3$写成$s(z^3)$，然后，我们就得到了下面的推导：
 
-![func-e](sig_images/math-10.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123527.png)
 
  根据上面的推导，可以得到下面的式子：
 
-![func-e](sig_images/math-11.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123528.png)
 
 所以，还记得前面所说的，我盟从上往下求导，保存当前对多个子单元的偏导数，根据上面的式子，我们知道，对于第二个权重矩阵的偏导，可以由` `$\left[  a^3 -y  \right]$ ` `乘以前一层网络的激励，然后除以样本个数来得到，因此有时候我们会将这个差值称为$\delta^3$，保存下来，使用矩阵的形式相乘，得到第二个权重矩阵的偏导数；
 
@@ -116,11 +116,11 @@ $x_0$是偏置项，为1.
 
 比如说，我们现在要对$\theta^1_{12}$求偏导：
 
-![func-e](sig_images/math-12.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123529.png)
 
 从上线的式子，我们就可以看出来，我们保存的导数可以直接乘，如果而不用再次计算一遍，如果有多层网络，实际上后面的过程与这个是一样的，所以就得到了这样的式子：
 
-![func-e](sig_images/math-13.png)
+![func-e](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-23-123530.png)
 
 因为这个网络就是3层，所以这样就得出了全部的偏导数，如果是多层，原理是一样的，不断地乘下去，从第二个式子开始，后面的形式都是一样的。
 

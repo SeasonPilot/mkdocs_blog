@@ -14,7 +14,7 @@
 
 **示例 1：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084053.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084053.png)
 
 ```
 输入：[3,0,0]
@@ -25,7 +25,7 @@
 
 **示例 2：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084102.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084102.png)
 
 ```
 输入：[0,3,0]
@@ -35,7 +35,7 @@
 
 **示例 3：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084117.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084117.png)
 
 ```
 输入：[1,0,2]
@@ -44,7 +44,7 @@
 
 **示例 4：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-084202.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-084202.png)
 
 ```
 输入：[1,0,0,null,3]

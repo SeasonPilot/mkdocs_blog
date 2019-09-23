@@ -14,7 +14,7 @@
 
 **示例 1：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-09-082642.jpg)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-09-082642.jpg)
 
 ```
 输入：distance = [1,2,3,4], start = 0, destination = 1
@@ -24,7 +24,7 @@
 
 **示例 2：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-09-082649.jpg)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-09-082649.jpg)
 
 ```
 输入：distance = [1,2,3,4], start = 0, destination = 2
@@ -34,7 +34,7 @@
 
 **示例 3：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-09-082655.jpg)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-09-082655.jpg)
 
 ```
 输入：distance = [1,2,3,4], start = 0, destination = 3

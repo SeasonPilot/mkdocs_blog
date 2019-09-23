@@ -14,7 +14,7 @@
 
 问总共有多少条不同的路径？
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-034419.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-034419.png)
 
 例如，上图是一个7 x 3 的网格。有多少可能的路径？
 

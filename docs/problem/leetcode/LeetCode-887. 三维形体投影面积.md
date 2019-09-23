@@ -32,7 +32,7 @@
 这里有该形体在三个轴对齐平面上的三个投影(“阴影部分”)。
 ```
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051108.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-051108.png)
 
 **示例 3：**
 

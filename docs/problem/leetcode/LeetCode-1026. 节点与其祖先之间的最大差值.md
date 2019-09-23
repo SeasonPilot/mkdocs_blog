@@ -12,7 +12,7 @@
 
 **示例：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-06-021920.jpg)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-06-021920.jpg)
 
 ```
 输入：[8,3,10,1,6,null,14,null,null,4,7,13]

@@ -6,7 +6,7 @@
 
 `n` 皇后问题研究的是如何将 `n` 个皇后放置在 `n×n` 的棋盘上，并且使皇后彼此之间不能相互攻击。
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-03-020654.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-03-020654.png)
 
 上图为 `8` 皇后问题的一种解法。
 

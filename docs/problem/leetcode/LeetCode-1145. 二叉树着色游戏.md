@@ -32,7 +32,7 @@
 
 **示例：**
 
-![img](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-07-005824.png)
+![img](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-07-005824.png)
 
 ```
 输入：root = [1,2,3,4,5,6,7,8,9,10,11], n = 11, x = 3

@@ -12,7 +12,7 @@
 
 **示例 1：**
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051421.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-051421.png)
 
 
 
@@ -34,7 +34,7 @@
 
 **示例 2：**
 
-![](http://px3chmx10.bkt.clouddn.com/notebook/2019-09-19-051426.png)
+![](http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-09-19-051426.png)
 
 
 
