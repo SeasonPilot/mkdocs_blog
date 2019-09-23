@@ -580,6 +580,7 @@ nav:
           - 'LeetCode-0583': problem/leetcode/LeetCode-583. 两个字符串的删除操作.md
           - 'LeetCode-0589': problem/leetcode/LeetCode-589. N叉树的前序遍历.md
           - 'LeetCode-0590': problem/leetcode/LeetCode-590. N叉树的后序遍历.md
+          - 'LeetCode-0592': problem/leetcode/LeetCode-592. 分数加减运算.md
           - 'LeetCode-0594': problem/leetcode/LeetCode-594. 最长和谐子序列.md
           - 'LeetCode-0595': problem/leetcode/LeetCode-595. 大的国家.md
           - 'LeetCode-0596': problem/leetcode/LeetCode-596. 超过5名学生的课.md
