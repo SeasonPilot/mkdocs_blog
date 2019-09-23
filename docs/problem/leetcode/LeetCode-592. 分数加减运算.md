@@ -87,3 +87,30 @@ class Solution:
         return str(numerator) + "/" + str(denominator)
 ```
 
+- 直接用系统自带的分数类实现
+
+
+
+```python
+import re
+import fractions
+
+class Solution:
+    def fractionAddition(self, expression: str) -> str:
+   
+        if expression.startswith("-"):
+            expression = "0/1" + expression
+
+        temp_frac = re.split(r'[+-]', expression)
+        temp_sign = list(re.sub('\d+/\d+', "", expression))
+
+        res = fractions.Fraction(*map(int, temp_frac[0].split("/")))
+        for i in range(1, len(temp_frac)):
+            if temp_sign[i - 1] == "+":
+                res += fractions.Fraction(*map(int, temp_frac[i].split("/")))
+
+            else:
+                res -= fractions.Fraction(*map(int, temp_frac[i].split("/")))
+        return str(res.numerator) + "/" + str(res.denominator)
+```
+
