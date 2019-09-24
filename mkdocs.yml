@@ -592,6 +592,7 @@ nav:
           - 'LeetCode-0605': problem/leetcode/LeetCode-605. 种花问题.md
           - 'LeetCode-0606': problem/leetcode/LeetCode-606. 根据二叉树创建字符串.md
           - 'LeetCode-0609': problem/leetcode/LeetCode-609. 在系统中查找重复文件.md
+          - 'LeetCode-0611': problem/leetcode/LeetCode-611. 有效三角形的个数.md
           - 'LeetCode-0617': problem/leetcode/LeetCode-617. 合并二叉树.md
           - 'LeetCode-0620': problem/leetcode/LeetCode-620. 有趣的电影.md
           - 'LeetCode-0621': problem/leetcode/LeetCode-621. 任务调度器.md
