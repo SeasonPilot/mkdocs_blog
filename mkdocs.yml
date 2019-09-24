@@ -607,6 +607,7 @@ nav:
           - 'LeetCode-0636': problem/leetcode/LeetCode-636. 函数的独占时间.md
           - 'LeetCode-0637': problem/leetcode/LeetCode-637. 二叉树的层平均值.md
           - 'LeetCode-0638': problem/leetcode/LeetCode-638. 大礼包.md
+          - 'LeetCode-0641': problem/leetcode/LeetCode-641. 设计循环双端队列.md
           - 'LeetCode-0643': problem/leetcode/LeetCode-643. 子数组最大平均数 I.md
           - 'LeetCode-0645': problem/leetcode/LeetCode-645. 错误的集合.md
           - 'LeetCode-0646': problem/leetcode/LeetCode-646. 最长数对链.md
