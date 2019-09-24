@@ -438,6 +438,7 @@ nav:
           - 'LeetCode-0377': problem/leetcode/LeetCode-377. 组合总和 Ⅳ.md
           - 'LeetCode-0378': problem/leetcode/LeetCode-378. 有序矩阵中第K小的元素.md
           - 'LeetCode-0380': problem/leetcode/LeetCode-380. 常数时间插入、删除和获取随机元素.md
+          - 'LeetCode-0381': problem/leetcode/LeetCode-381. O(1) 时间插入、删除和获取随机元素 - 允许重复.md
           - 'LeetCode-0382': problem/leetcode/LeetCode-382. 链表随机节点.md
           - 'LeetCode-0383': problem/leetcode/LeetCode-383. 赎金信.md
           - 'LeetCode-0384': problem/leetcode/LeetCode-384. 打乱数组.md
