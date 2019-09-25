@@ -884,6 +884,12 @@ nav:
           - 'LeetCode-1185': problem/leetcode/LeetCode-1185. 一周中的第几天.md
           - 'LeetCode-1186': problem/leetcode/LeetCode-1186. 删除一次得到子数组最大和.md
           - 'LeetCode-1189': problem/leetcode/LeetCode-1189. “气球” 的最大数量.md
+      - "leetcode-thoughtworks": 
+          - problem/leetcode-thoughtworks/1-猜数字.md
+          - problem/leetcode-thoughtworks/2-分式化简.md
+          - problem/leetcode-thoughtworks/3-机器人大冒险.md
+          - problem/leetcode-thoughtworks/4-覆盖.md
+          - problem/leetcode-thoughtworks/5-发 LeetCoin.md
 
   - '资源集合':
       - resources/Github资源整理.md
