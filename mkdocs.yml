@@ -833,6 +833,7 @@ nav:
           - 'LeetCode-1028': problem/leetcode/LeetCode-1028. 从先序遍历还原二叉树.md
           - 'LeetCode-1029': problem/leetcode/LeetCode-1029. 两地调度.md
           - 'LeetCode-1030': problem/leetcode/LeetCode-1030. 距离顺序排列矩阵单元格.md
+          - 'LeetCode-1031': problem/leetcode/LeetCode-1031. 两个非重叠子数组的最大和.md
           - 'LeetCode-1032': problem/leetcode/LeetCode-1032. 字符流.md
           - 'LeetCode-1033': problem/leetcode/LeetCode-1033. 移动石子直到连续.md
           - 'LeetCode-1037': problem/leetcode/LeetCode-1037. 有效的回旋镖.md
