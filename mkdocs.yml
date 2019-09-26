@@ -478,6 +478,7 @@ nav:
           - 'LeetCode-0427': problem/leetcode/LeetCode-427. 建立四叉树.md
           - 'LeetCode-0429': problem/leetcode/LeetCode-429. N叉树的层序遍历.md
           - 'LeetCode-0430': problem/leetcode/LeetCode-430. Flatten a Multilevel Doubly Linked List.md
+          - 'LeetCode-0432': problem/leetcode/LeetCode-432. 全 O(1) 的数据结构.md
           - 'LeetCode-0433': problem/leetcode/LeetCode-433. 最小基因变化.md
           - 'LeetCode-0434': problem/leetcode/LeetCode-434. 字符串中的单词数.md
           - 'LeetCode-0435': problem/leetcode/LeetCode-435. 无重叠区间.md
