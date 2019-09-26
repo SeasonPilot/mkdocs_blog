@@ -615,6 +615,7 @@ nav:
           - 'LeetCode-0646': problem/leetcode/LeetCode-646. 最长数对链.md
           - 'LeetCode-0647': problem/leetcode/LeetCode-647. 回文子串.md
           - 'LeetCode-0648': problem/leetcode/LeetCode-648. 单词替换.md
+          - 'LeetCode-0650': problem/leetcode/LeetCode-650. 只有两个键的键盘.md
           - 'LeetCode-0652': problem/leetcode/LeetCode-652. 寻找重复的子树.md
           - 'LeetCode-0653': problem/leetcode/LeetCode-653. 两数之和 IV - 输入 BST.md
           - 'LeetCode-0654': problem/leetcode/LeetCode-654. 最大二叉树.md
