@@ -126,8 +126,8 @@ nav:
           - "Round 271": 
               - problem/codefences/Round-271-D. Flowers.md
       - 'hackerrank':
-          - "Strings":
-              - problem/hackerrank/Morgan-and-a-String.md
+          - problem/hackerrank/Morgan-and-a-String.md
+          - problem/hackerrank/Friend-Circle-Queries.md
 
       - 'KickStart':
           - '2018_Round_B': 
