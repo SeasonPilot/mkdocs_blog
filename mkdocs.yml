@@ -790,6 +790,7 @@ nav:
           - 'LeetCode-0958': problem/leetcode/LeetCode-958. 二叉树的完全性检验.md
           - 'LeetCode-0959': problem/leetcode/LeetCode-959. 由斜杠划分区域.md
           - 'LeetCode-0961': problem/leetcode/LeetCode-961. 重复 N 次的元素.md
+          - 'LeetCode-0963': problem/leetcode/LeetCode-963. 最小面积矩形 II.md
           - 'LeetCode-0965': problem/leetcode/LeetCode-965. 单值二叉树.md
           - 'LeetCode-0968': problem/leetcode/LeetCode-968. 监控二叉树.md
           - 'LeetCode-0969': problem/leetcode/LeetCode-969. 煎饼排序.md
