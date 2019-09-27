@@ -502,6 +502,7 @@ nav:
           - 'LeetCode-0457': problem/leetcode/LeetCode-457. 环形数组循环.md
           - 'LeetCode-0458': problem/leetcode/LeetCode-458. 可怜的小猪.md
           - 'LeetCode-0459': problem/leetcode/LeetCode-459. 重复的子字符串.md
+          - 'LeetCode-0460': problem/leetcode/LeetCode-460. LFU缓存.md
           - 'LeetCode-0461': problem/leetcode/LeetCode-461. 汉明距离.md
           - 'LeetCode-0462': problem/leetcode/LeetCode-462. 最少移动次数使数组元素相等 II.md
           - 'LeetCode-0463': problem/leetcode/LeetCode-463. 岛屿的周长.md
