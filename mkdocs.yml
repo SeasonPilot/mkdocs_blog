@@ -114,6 +114,7 @@ nav:
       - '基础算法':
           - problem/algorithm/内部排序算法.md
           - problem/algorithm/哈希表的大小为何是素数.md
+          - problem/algorithm/线段树.md
       - '牛客网':
           - '牛客假日团队赛9':
               - problem/牛客网/牛客假日团队赛9/A-乘积最大.md
