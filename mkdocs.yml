@@ -130,6 +130,7 @@ nav:
       - 'hackerrank':
           - problem/hackerrank/Morgan-and-a-String.md
           - problem/hackerrank/Friend-Circle-Queries.md
+          - problem/hackerrank/Maximum-Xor.md
 
       - 'KickStart':
           - '2018_Round_B': 
