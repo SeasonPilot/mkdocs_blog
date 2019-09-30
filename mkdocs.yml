@@ -898,6 +898,7 @@ nav:
           - 'LeetCode-1186': problem/leetcode/LeetCode-1186. 删除一次得到子数组最大和.md
           - 'LeetCode-1189': problem/leetcode/LeetCode-1189. “气球” 的最大数量.md
           - 'LeetCode-5205': problem/leetcode/LeetCode-5205. 独一无二的出现次数.md
+          - 'LeetCode-5206': problem/leetcode/LeetCode-5206. 删除字符串中的所有相邻重复项 II.md
       - "leetcode-thoughtworks": 
           - problem/leetcode-thoughtworks/1-猜数字.md
           - problem/leetcode-thoughtworks/2-分式化简.md
