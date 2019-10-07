@@ -405,6 +405,7 @@ nav:
           - 'LeetCode-0310': problem/leetcode/LeetCode-310. 最小高度树.md
           - 'LeetCode-0312': problem/leetcode/LeetCode-312. 戳气球.md
           - 'LeetCode-0313': problem/leetcode/LeetCode-313. 超级丑数.md
+          - 'LeetCode-0315': problem/leetcode/LeetCode-315. 计算右侧小于当前元素的个数.md
           - 'LeetCode-0318': problem/leetcode/LeetCode-318. 最大单词长度乘积.md
           - 'LeetCode-0319': problem/leetcode/LeetCode-319. 灯泡开关.md
           - 'LeetCode-0322': problem/leetcode/LeetCode-322. 零钱兑换.md
