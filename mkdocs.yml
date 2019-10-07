@@ -720,6 +720,7 @@ nav:
           - 'LeetCode-0814': problem/leetcode/LeetCode-814. 二叉树剪枝.md
           - 'LeetCode-0817': problem/leetcode/LeetCode-817. 链表组件.md
           - 'LeetCode-0819': problem/leetcode/LeetCode-819. 最常见的单词.md
+          - 'LeetCode-0820': problem/leetcode/LeetCode-820. 单词的压缩编码.md
           - 'LeetCode-0821': problem/leetcode/LeetCode-821. 字符的最短距离.md
           - 'LeetCode-0824': problem/leetcode/LeetCode-824. 山羊拉丁文.md
           - 'LeetCode-0830': problem/leetcode/LeetCode-830. 较大分组的位置.md
