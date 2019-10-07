@@ -904,6 +904,7 @@ nav:
           - 'LeetCode-1186': problem/leetcode/LeetCode-1186. 删除一次得到子数组最大和.md
           - 'LeetCode-1189': problem/leetcode/LeetCode-1189. “气球” 的最大数量.md
           - 'LeetCode-5079': problem/leetcode/LeetCode-5079. 三个有序数组的交集.md
+          - 'LeetCode-5080': problem/leetcode/LeetCode-5080. 查找两棵二叉搜索树之和.md
           - 'LeetCode-5205': problem/leetcode/LeetCode-5205. 独一无二的出现次数.md
           - 'LeetCode-5206': problem/leetcode/LeetCode-5206. 删除字符串中的所有相邻重复项 II.md
           - 'LeetCode-5213': problem/leetcode/LeetCode-5213. 玩筹码.md
