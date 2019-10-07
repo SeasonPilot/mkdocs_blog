@@ -116,6 +116,7 @@ nav:
           - problem/algorithm/哈希表的大小为何是素数.md
           - problem/algorithm/线段树.md
           - problem/algorithm/树状数组.md
+          - problem/algorithm/树状数组求逆序对.md
       - '牛客网':
           - '牛客假日团队赛9':
               - problem/牛客网/牛客假日团队赛9/A-乘积最大.md
