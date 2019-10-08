@@ -836,6 +836,7 @@ nav:
           - 'LeetCode-1008': problem/leetcode/LeetCode-1008. 先序遍历构造二叉树.md
           - 'LeetCode-1009': problem/leetcode/LeetCode-1009. 十进制整数的反码.md
           - 'LeetCode-1010': problem/leetcode/LeetCode-1010. 总持续时间可被 60 整除的歌曲.md
+          - 'LeetCode-1011': problem/leetcode/LeetCode-1011. 在 D 天内送达包裹的能力.md
           - 'LeetCode-1013': problem/leetcode/LeetCode-1013. 将数组分成和相等的三个部分.md
           - 'LeetCode-1016': problem/leetcode/LeetCode-1016. 子串能表示从 1 到 N 数字的二进制串.md
           - 'LeetCode-1017': problem/leetcode/LeetCode-1017. 负二进制转换.md
