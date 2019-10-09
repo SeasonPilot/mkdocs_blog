@@ -1,4 +1,4 @@
-# LeetCode: 5215. 黄金矿工
+# LeetCode: 1219. 黄金矿工
 
 [TOC]
 

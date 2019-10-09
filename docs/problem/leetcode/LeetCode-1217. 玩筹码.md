@@ -1,4 +1,4 @@
-# LeetCode: 5213. 玩筹码
+# LeetCode: 1217. 玩筹码
 
 [TOC]
 
