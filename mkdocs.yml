@@ -878,6 +878,7 @@ nav:
           - 'LeetCode-1085': problem/leetcode/LeetCode-1085. 最小元素各数位之和.md
           - 'LeetCode-1086': problem/leetcode/LeetCode-1086. 前五科的均分.md
           - 'LeetCode-1089': problem/leetcode/LeetCode-1089. 复写零.md
+          - 'LeetCode-1090': problem/leetcode/LeetCode-1090. 受标签影响的最大值.md
           - 'LeetCode-1094': problem/leetcode/LeetCode-1094. 拼车.md
           - 'LeetCode-1099': problem/leetcode/LeetCode-1099. 小于 K 的两数之和.md
           - 'LeetCode-1103': problem/leetcode/LeetCode-1103. 分糖果 II.md
