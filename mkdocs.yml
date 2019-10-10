@@ -740,6 +740,7 @@ nav:
           - 'LeetCode-0841': problem/leetcode/LeetCode-841. 钥匙和房间.md
           - 'LeetCode-0842': problem/leetcode/LeetCode-842. 将数组拆分成斐波那契序列.md
           - 'LeetCode-0844': problem/leetcode/LeetCode-844. 比较含退格的字符串.md
+          - 'LeetCode-0846': problem/leetcode/LeetCode-846. 一手顺子.md
           - 'LeetCode-0848': problem/leetcode/LeetCode-848. 字母移位.md
           - 'LeetCode-0849': problem/leetcode/LeetCode-849. 到最近的人的最大距离.md
           - 'LeetCode-0852': problem/leetcode/LeetCode-852. 山脉数组的峰顶索引.md
