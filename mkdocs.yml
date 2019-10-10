@@ -722,6 +722,7 @@ nav:
           - 'LeetCode-0807': problem/leetcode/LeetCode-807. 保持城市天际线.md
           - 'LeetCode-0811': problem/leetcode/LeetCode-811. 子域名访问计数.md
           - 'LeetCode-0812': problem/leetcode/LeetCode-812. 最大三角形面积.md
+          - 'LeetCode-0813': problem/leetcode/LeetCode-813. 最大平均值和的分组.md
           - 'LeetCode-0814': problem/leetcode/LeetCode-814. 二叉树剪枝.md
           - 'LeetCode-0816': problem/leetcode/LeetCode-816. 模糊坐标.md
           - 'LeetCode-0817': problem/leetcode/LeetCode-817. 链表组件.md
