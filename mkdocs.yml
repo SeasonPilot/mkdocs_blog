@@ -585,6 +585,7 @@ nav:
           - 'LeetCode-0567': problem/leetcode/LeetCode-567. 字符串的排列.md
           - 'LeetCode-0572': problem/leetcode/LeetCode-572. 另一个树的子树.md
           - 'LeetCode-0575': problem/leetcode/LeetCode-575. 分糖果.md
+          - 'LeetCode-0576': problem/leetcode/LeetCode-576. 出界的路径数.md
           - 'LeetCode-0577': problem/leetcode/LeetCode-577. 员工奖金.md
           - 'LeetCode-0581': problem/leetcode/LeetCode-581. 最短无序连续子数组.md
           - 'LeetCode-0583': problem/leetcode/LeetCode-583. 两个字符串的删除操作.md
