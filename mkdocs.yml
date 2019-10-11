@@ -679,6 +679,7 @@ nav:
           - 'LeetCode-0728': problem/leetcode/LeetCode-728. 自除数.md
           - 'LeetCode-0729': problem/leetcode/LeetCode-729. 我的日程安排表 I.md
           - 'LeetCode-0730': problem/leetcode/LeetCode-730. 统计不同回文子字符串.md
+          - 'LeetCode-0731': problem/leetcode/LeetCode-731. 我的日程安排表 II.md
           - 'LeetCode-0733': problem/leetcode/LeetCode-733. 图像渲染.md
           - 'LeetCode-0734': problem/leetcode/LeetCode-734. 句子相似性.md
           - 'LeetCode-0739': problem/leetcode/LeetCode-739. 每日温度.md
