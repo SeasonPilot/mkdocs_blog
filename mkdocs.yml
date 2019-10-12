@@ -926,6 +926,7 @@ nav:
           - 'LeetCode-1186': problem/leetcode/LeetCode-1186. 删除一次得到子数组最大和.md
           - 'LeetCode-1189': problem/leetcode/LeetCode-1189. “气球” 的最大数量.md
           - 'LeetCode-1190': problem/leetcode/LeetCode-1190. 反转每对括号间的子串.md
+          - 'LeetCode-1200': problem/leetcode/LeetCode-1200. 最小绝对差.md
           - 'LeetCode-1207': problem/leetcode/LeetCode-1207. 独一无二的出现次数.md
           - 'LeetCode-1209': problem/leetcode/LeetCode-1209. 删除字符串中的所有相邻重复项 II.md
           - 'LeetCode-1213': problem/leetcode/LeetCode-1213. 三个有序数组的交集.md
