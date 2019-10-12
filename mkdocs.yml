@@ -799,6 +799,7 @@ nav:
           - 'LeetCode-0931': problem/leetcode/LeetCode-931. 下降路径最小和.md
           - 'LeetCode-0932': problem/leetcode/LeetCode-932. 漂亮数组.md
           - 'LeetCode-0933': problem/leetcode/LeetCode-933. 最近的请求次数.md
+          - 'LeetCode-0934': problem/leetcode/LeetCode-934. 最短的桥.md
           - 'LeetCode-0937': problem/leetcode/LeetCode-937. 重新排列日志文件.md
           - 'LeetCode-0938': problem/leetcode/LeetCode-938. 二叉搜索树的范围和.md
           - 'LeetCode-0941': problem/leetcode/LeetCode-941. 有效的山脉数组.md
