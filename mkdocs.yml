@@ -824,6 +824,7 @@ nav:
           - 'LeetCode-0973': problem/leetcode/LeetCode-973. 最接近原点的 K 个点.md
           - 'LeetCode-0976': problem/leetcode/LeetCode-976. 三角形的最大周长.md
           - 'LeetCode-0977': problem/leetcode/LeetCode-977. 有序数组的平方.md
+          - 'LeetCode-0978': problem/leetcode/LeetCode-978. 最长湍流子数组.md
           - 'LeetCode-0979': problem/leetcode/LeetCode-979. 在二叉树中分配硬币.md
           - 'LeetCode-0980': problem/leetcode/LeetCode-980. 不同路径 III.md
           - 'LeetCode-0983': problem/leetcode/LeetCode-983. 最低票价.md
