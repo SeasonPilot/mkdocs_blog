@@ -79,3 +79,34 @@ class Solution:
             return self.removeDuplicates("".join(res), k)
 ```
 
+
+
+
+-   使用栈
+-   栈中每一个元素保存两部分：字符与字符数量
+-   一旦数量等于k，出栈
+
+
+
+```python
+class Solution:
+    def removeDuplicates(self, s: str, k: int) -> str:
+        stack = []
+
+        for ch in s:
+            if not stack:
+                stack.append([ch, 1])
+            else:
+                if stack[-1][0] == ch:
+                    stack[-1][1] += 1
+                else:
+                    stack.append([ch, 1])
+
+            if stack[-1][1] == k:
+                stack.pop()
+
+
+        return "".join([x * num for x, num in stack])
+```
+
+
