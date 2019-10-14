@@ -794,6 +794,7 @@ nav:
           - 'LeetCode-0922': problem/leetcode/LeetCode-922. 按奇偶排序数组 II.md
           - 'LeetCode-0924': problem/leetcode/LeetCode-924. 尽量减少恶意软件的传播.md
           - 'LeetCode-0925': problem/leetcode/LeetCode-925. 长按键入.md
+          - 'LeetCode-0926': problem/leetcode/LeetCode-926. 将字符串翻转到单调递增.md
           - 'LeetCode-0928': problem/leetcode/LeetCode-928. 尽量减少恶意软件的传播 II.md
           - 'LeetCode-0929': problem/leetcode/LeetCode-929. 独特的电子邮件地址.md
           - 'LeetCode-0931': problem/leetcode/LeetCode-931. 下降路径最小和.md
