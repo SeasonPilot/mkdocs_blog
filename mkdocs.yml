@@ -97,19 +97,19 @@ nav:
       - '网络':
           - computer/network/http.md
           - computer/network/tcp_status.md
-  - '数学基础':
-      - math/线性代数.md
-      - math/概率论与数理统计.md
+            #  - '数学基础':
+            #      - math/线性代数.md
+            #      - math/概率论与数理统计.md
   - '机器学习':
       - "Sigmoid函数与损失函数求导": machinelearning/Sigmoid.md
-  - '大数据':
-      - bigdata/大数据.md
-  - '云计算':
-      - cloud/云计算.md
-  - '自然语言处理':
-      - nlp/自然语言处理.md
-  - '项目集锦':
-      - project/项目集锦.md
+        #  - '大数据':
+        #      - bigdata/大数据.md
+        #  - '云计算':
+        #      - cloud/云计算.md
+        #  - '自然语言处理':
+        #      - nlp/自然语言处理.md
+        #  - '项目集锦':
+        #      - project/项目集锦.md
   - '算法题集':
       - '基础算法':
           - problem/algorithm/内部排序算法.md
