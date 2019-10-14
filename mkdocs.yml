@@ -958,6 +958,7 @@ nav:
       - 'Markdown进阶：序列图': tools/Markdown进阶：序列图.md
       - 'Mermaid-序列图': tools/mermaid-序列图.md
       - 'Vmware Fusion配置Nat静态IP': tools/Vmware Fusion配置Nat静态IP.md
+      - 'Parallel复制虚拟机之网卡配置': tools/Parallel复制虚拟机之网卡配置.md
   
   - '随笔记事':
       - essay/随笔记事.md
