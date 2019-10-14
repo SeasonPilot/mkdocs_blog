@@ -938,6 +938,7 @@ nav:
           - 'LeetCode-1214': problem/leetcode/LeetCode-1214. 查找两棵二叉搜索树之和.md
           - 'LeetCode-1217': problem/leetcode/LeetCode-1217. 玩筹码.md
           - 'LeetCode-1219': problem/leetcode/LeetCode-1219. 黄金矿工.md
+          - 'LeetCode-5222': problem/leetcode/LeetCode-5222. 分割平衡字符串.md
       - "leetcode-thoughtworks": 
           - problem/leetcode-thoughtworks/1-猜数字.md
           - problem/leetcode-thoughtworks/2-分式化简.md
