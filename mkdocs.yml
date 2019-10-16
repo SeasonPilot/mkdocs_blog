@@ -856,6 +856,7 @@ nav:
           - 'LeetCode-1004': problem/leetcode/LeetCode-1004. 最大连续1的个数 III.md
           - 'LeetCode-1005': problem/leetcode/LeetCode-1005. K 次取反后最大化的数组和.md
           - 'LeetCode-1006': problem/leetcode/LeetCode-1006. 笨阶乘.md
+          - 'LeetCode-1007': problem/leetcode/LeetCode-1007. 行相等的最少多米诺旋转.md
           - 'LeetCode-1008': problem/leetcode/LeetCode-1008. 先序遍历构造二叉树.md
           - 'LeetCode-1009': problem/leetcode/LeetCode-1009. 十进制整数的反码.md
           - 'LeetCode-1010': problem/leetcode/LeetCode-1010. 总持续时间可被 60 整除的歌曲.md
