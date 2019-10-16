@@ -812,6 +812,7 @@ nav:
           - 'LeetCode-0941': problem/leetcode/LeetCode-941. 有效的山脉数组.md
           - 'LeetCode-0942': problem/leetcode/LeetCode-942. 增减字符串匹配.md
           - 'LeetCode-0944': problem/leetcode/LeetCode-944. 删列造序.md
+          - 'LeetCode-0945': problem/leetcode/LeetCode-945. 使数组唯一的最小增量.md
           - 'LeetCode-0946': problem/leetcode/LeetCode-946. 验证栈序列.md
           - 'LeetCode-0947': problem/leetcode/LeetCode-947. 移除最多的同行或同列石头.md
           - 'LeetCode-0949': problem/leetcode/LeetCode-949. 给定数字能组成的最大时间.md
