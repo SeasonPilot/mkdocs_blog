@@ -886,7 +886,7 @@ nav:
           - 'LeetCode-1064': problem/leetcode/LeetCode-1064. 不动点.md
           - 'LeetCode-1065': problem/leetcode/LeetCode-1065. 字符串的索引对.md
           - 'LeetCode-1071': problem/leetcode/LeetCode-1071. 字符串的最大公因子.md
-          - 'LeetCode-1072': problem/leetcode/LeetCode-1172. 餐盘栈.md
+          - 'LeetCode-1072': problem/leetcode/LeetCode-1072. 按列翻转得到最大值等行数.md
           - 'LeetCode-1078': problem/leetcode/LeetCode-1078. Bigram 分词.md
           - 'LeetCode-1079': problem/leetcode/LeetCode-1079. 活字印刷.md
           - 'LeetCode-1085': problem/leetcode/LeetCode-1085. 最小元素各数位之和.md
@@ -924,6 +924,7 @@ nav:
           - 'LeetCode-1169': problem/leetcode/LeetCode-1169. 查询无效交易.md
           - 'LeetCode-1170': problem/leetcode/LeetCode-1170. 比较字符串最小字母出现频次.md
           - 'LeetCode-1171': problem/leetcode/LeetCode-1171. 从链表中删去总和值为零的连续节点.md
+          - 'LeetCode-1172': problem/leetcode/LeetCode-1172. 餐盘栈.md
           - 'LeetCode-1175': problem/leetcode/LeetCode-1175. 质数排列.md
           - 'LeetCode-1176': problem/leetcode/LeetCode-1176. 健身计划评估.md
           - 'LeetCode-1178': problem/leetcode/LeetCode-1178. 猜字谜.md
@@ -940,7 +941,7 @@ nav:
           - 'LeetCode-1214': problem/leetcode/LeetCode-1214. 查找两棵二叉搜索树之和.md
           - 'LeetCode-1217': problem/leetcode/LeetCode-1217. 玩筹码.md
           - 'LeetCode-1219': problem/leetcode/LeetCode-1219. 黄金矿工.md
-          - 'LeetCode-5222': problem/leetcode/LeetCode-5222. 分割平衡字符串.md
+          - 'LeetCode-1221': problem/leetcode/LeetCode-5222. 分割平衡字符串.md
       - "leetcode-thoughtworks": 
           - problem/leetcode-thoughtworks/1-猜数字.md
           - problem/leetcode-thoughtworks/2-分式化简.md
