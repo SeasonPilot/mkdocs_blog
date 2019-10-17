@@ -812,6 +812,7 @@ nav:
           - 'LeetCode-0934': problem/leetcode/LeetCode-934. 最短的桥.md
           - 'LeetCode-0937': problem/leetcode/LeetCode-937. 重新排列日志文件.md
           - 'LeetCode-0938': problem/leetcode/LeetCode-938. 二叉搜索树的范围和.md
+          - 'LeetCode-0939': problem/leetcode/LeetCode-939. 最小面积矩形.md
           - 'LeetCode-0941': problem/leetcode/LeetCode-941. 有效的山脉数组.md
           - 'LeetCode-0942': problem/leetcode/LeetCode-942. 增减字符串匹配.md
           - 'LeetCode-0944': problem/leetcode/LeetCode-944. 删列造序.md
