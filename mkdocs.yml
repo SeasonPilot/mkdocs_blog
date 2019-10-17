@@ -317,6 +317,7 @@ nav:
           - 'LeetCode-0190': problem/leetcode/LeetCode-190. 颠倒二进制位.md
           - 'LeetCode-0191': problem/leetcode/LeetCode-191. 位1的个数.md
           - 'LeetCode-0192': problem/leetcode/LeetCode-192. 统计词频.md
+          - 'LeetCode-0193': problem/leetcode/LeetCode-193. 有效电话号码.md
           - 'LeetCode-0196': problem/leetcode/LeetCode-196. 删除重复的电子邮箱.md
           - 'LeetCode-0197': problem/leetcode/LeetCode-197. 上升的温度.md
           - 'LeetCode-0198': problem/leetcode/LeetCode-198.打家劫舍.md
