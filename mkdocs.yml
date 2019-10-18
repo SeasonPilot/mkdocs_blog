@@ -784,6 +784,7 @@ nav:
           - 'LeetCode-0872': problem/leetcode/LeetCode-872. 叶子相似的树.md
           - 'LeetCode-0873': problem/leetcode/LeetCode-873. 最长的斐波那契子序列的长度.md
           - 'LeetCode-0874': problem/leetcode/LeetCode-874. 行走机器人模拟.md
+          - 'LeetCode-0875': problem/leetcode/LeetCode-875. 爱吃香蕉的珂珂.md
           - 'LeetCode-0876': problem/leetcode/LeetCode-876. 链表的中间结点.md
           - 'LeetCode-0877': problem/leetcode/LeetCode-877. 石子游戏.md
           - 'LeetCode-0884': problem/leetcode/LeetCode-884. 两句话中的不常见单词.md
