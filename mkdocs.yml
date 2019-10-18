@@ -801,6 +801,7 @@ nav:
           - 'LeetCode-0896': problem/leetcode/LeetCode-896. 单调数列.md
           - 'LeetCode-0897': problem/leetcode/LeetCode-897. 递增顺序查找树.md
           - 'LeetCode-0898': problem/leetcode/LeetCode-898. 子数组按位或操作.md
+          - 'LeetCode-0900': problem/leetcode/LeetCode-900. RLE 迭代器.md
           - 'LeetCode-0905': problem/leetcode/LeetCode-905. 按奇偶排序数组.md
           - 'LeetCode-0908': problem/leetcode/LeetCode-908. 最小差值 I.md
           - 'LeetCode-0912': problem/leetcode/LeetCode-912. 排序数组.md
