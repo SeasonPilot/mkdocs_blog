@@ -935,6 +935,7 @@ nav:
           - 'LeetCode-1134': problem/leetcode/LeetCode-1134. 阿姆斯特朗数.md
           - 'LeetCode-1137': problem/leetcode/LeetCode-1137. 第 N 个泰波那契数.md
           - 'LeetCode-1138': problem/leetcode/LeetCode-1138. 字母板上的路径.md
+          - 'LeetCode-1139': problem/leetcode/LeetCode-1139. 最大的以 1 为边界的正方形.md
           - 'LeetCode-1140': problem/leetcode/LeetCode-1140. 石子游戏 II.md
           - 'LeetCode-1143': problem/leetcode/LeetCode-1143. 最长公共子序列.md
           - 'LeetCode-1144': problem/leetcode/LeetCode-1044. 最长重复子串.md
