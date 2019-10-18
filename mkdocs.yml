@@ -750,6 +750,7 @@ nav:
           - 'LeetCode-0820': problem/leetcode/LeetCode-820. 单词的压缩编码.md
           - 'LeetCode-0821': problem/leetcode/LeetCode-821. 字符的最短距离.md
           - 'LeetCode-0822': problem/leetcode/LeetCode-822. 翻转卡片游戏.md
+          - 'LeetCode-0823': problem/leetcode/LeetCode-823. 带因子的二叉树.md
           - 'LeetCode-0824': problem/leetcode/LeetCode-824. 山羊拉丁文.md
           - 'LeetCode-0830': problem/leetcode/LeetCode-830. 较大分组的位置.md
           - 'LeetCode-0832': problem/leetcode/LeetCode-832. 翻转图像.md
