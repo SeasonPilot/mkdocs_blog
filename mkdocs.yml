@@ -716,6 +716,7 @@ nav:
           - 'LeetCode-0764': problem/leetcode/LeetCode-764. 最大加号标志.md
           - 'LeetCode-0765': problem/leetcode/LeetCode-765. 情侣牵手.md
           - 'LeetCode-0766': problem/leetcode/LeetCode-766. 托普利茨矩阵.md
+          - 'LeetCode-0767': problem/leetcode/LeetCode-767. 重构字符串.md
           - 'LeetCode-0769': problem/leetcode/LeetCode-769. 最多能完成排序的块.md
           - 'LeetCode-0771': problem/leetcode/LeetCode-771. 宝石与石头.md
           - 'LeetCode-0775': problem/leetcode/LeetCode-775. 全局倒置与局部倒置.md
