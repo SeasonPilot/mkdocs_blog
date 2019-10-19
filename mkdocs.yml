@@ -898,6 +898,7 @@ nav:
           - 'LeetCode-1031': problem/leetcode/LeetCode-1031. 两个非重叠子数组的最大和.md
           - 'LeetCode-1032': problem/leetcode/LeetCode-1032. 字符流.md
           - 'LeetCode-1033': problem/leetcode/LeetCode-1033. 移动石子直到连续.md
+          - 'LeetCode-1034': problem/leetcode/LeetCode-1034. 边框着色.md
           - 'LeetCode-1035': problem/leetcode/LeetCode-1035. 不相交的线.md
           - 'LeetCode-1037': problem/leetcode/LeetCode-1037. 有效的回旋镖.md
           - 'LeetCode-1038': problem/leetcode/LeetCode-1038. 从二叉搜索树到更大和树.md
