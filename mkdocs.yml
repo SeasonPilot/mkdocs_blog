@@ -984,6 +984,7 @@ nav:
           - 'LeetCode-1222': problem/leetcode/LeetCode-1222. 可以攻击国王的皇后.md
           - 'LeetCode-1223': problem/leetcode/LeetCode-1223. 掷骰子模拟.md
           - 'LeetCode-1228': problem/leetcode/LeetCode-1228. 等差数列中缺失的数字.md
+          - 'LeetCode-1232': problem/leetcode/LeetCode-1232. 缀点成线.md
       - "leetcode-thoughtworks": 
           - problem/leetcode-thoughtworks/1-猜数字.md
           - problem/leetcode-thoughtworks/2-分式化简.md
