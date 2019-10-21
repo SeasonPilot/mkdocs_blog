@@ -770,6 +770,7 @@ nav:
           - 'LeetCode-0875': problem/leetcode/LeetCode-875. 爱吃香蕉的珂珂.md
           - 'LeetCode-0876': problem/leetcode/LeetCode-876. 链表的中间结点.md
           - 'LeetCode-0877': problem/leetcode/LeetCode-877. 石子游戏.md
+          - 'LeetCode-0881': problem/leetcode/LeetCode-881. 救生艇.md
           - 'LeetCode-0884': problem/leetcode/LeetCode-884. 两句话中的不常见单词.md
           - 'LeetCode-0885': problem/leetcode/LeetCode-885. 螺旋矩阵 III.md
           - 'LeetCode-0887': problem/leetcode/LeetCode-887. 三维形体投影面积.md
