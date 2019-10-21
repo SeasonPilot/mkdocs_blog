@@ -734,6 +734,7 @@ nav:
           - 'LeetCode-0823': problem/leetcode/LeetCode-823. 带因子的二叉树.md
           - 'LeetCode-0824': problem/leetcode/LeetCode-824. 山羊拉丁文.md
           - 'LeetCode-0830': problem/leetcode/LeetCode-830. 较大分组的位置.md
+          - 'LeetCode-0831': problem/leetcode/LeetCode-831. 隐藏个人信息.md
           - 'LeetCode-0832': problem/leetcode/LeetCode-832. 翻转图像.md
           - 'LeetCode-0834': problem/leetcode/LeetCode-834. 树中距离之和.md
           - 'LeetCode-0835': problem/leetcode/LeetCode-835. 图像重叠.md
