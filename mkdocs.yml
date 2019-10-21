@@ -912,6 +912,7 @@ nav:
           - 'LeetCode-1044': problem/leetcode/LeetCode-1044. 最长重复子串.md
           - 'LeetCode-1046': problem/leetcode/LeetCode-1046. 最后一块石头的重量.md
           - 'LeetCode-1047': problem/leetcode/LeetCode-1047. 删除字符串中的所有相邻重复项.md
+          - 'LeetCode-1049': problem/leetcode/LeetCode-1049. 最后一块石头的重量 II.md
           - 'LeetCode-1051': problem/leetcode/LeetCode-1051. 高度检查器.md
           - 'LeetCode-1052': problem/leetcode/LeetCode-1052. 爱生气的书店老板.md
           - 'LeetCode-1053': problem/leetcode/LeetCode-1053. 交换一次的先前排列.md
