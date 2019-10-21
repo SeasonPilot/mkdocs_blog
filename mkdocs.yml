@@ -115,36 +115,13 @@ nav:
         #      - nlp/自然语言处理.md
         #  - '项目集锦':
         #      - project/项目集锦.md
+  - '算法与数据结构':
+      - algorithm/内部排序算法.md
+      - algorithm/哈希表的大小为何是素数.md
+      - algorithm/线段树.md
+      - algorithm/树状数组.md
+      - algorithm/树状数组求逆序对.md
   - '算法题集':
-      - '基础算法':
-          - problem/algorithm/内部排序算法.md
-          - problem/algorithm/哈希表的大小为何是素数.md
-          - problem/algorithm/线段树.md
-          - problem/algorithm/树状数组.md
-          - problem/algorithm/树状数组求逆序对.md
-      - '牛客网':
-          - '牛客假日团队赛9':
-              - problem/牛客网/牛客假日团队赛9/A-乘积最大.md
-              - problem/牛客网/牛客假日团队赛9/C-单词接龙.md
-              - problem/牛客网/牛客假日团队赛9/D-Cow Line.md
-              - problem/牛客网/牛客假日团队赛9/G-Cow Digit Game.md
-              - problem/牛客网/牛客假日团队赛9/I-旅行家的预算.md
-              - problem/牛客网/牛客假日团队赛9/L-回文数.md
-      - 'Codefences':
-          - "Round 271": 
-              - problem/codefences/Round-271-D. Flowers.md
-      - 'hackerrank':
-          - problem/hackerrank/Morgan-and-a-String.md
-          - problem/hackerrank/Friend-Circle-Queries.md
-          - problem/hackerrank/Maximum-Xor.md
-          - problem/hackerrank/Xor-sequence.md
-          - problem/hackerrank/New-Year-Chaos.md
-          - problem/hackerrank/Regex-Substitution .md
-          - problem/hackerrank/The-Minion-Game.md
-
-      - 'KickStart':
-          - '2018_Round_B': 
-              - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
       - 'LeetCode':
           - 'LeetCode-0001': problem/leetcode/LeetCode-1. 两数之和.md
           - 'LeetCode-0002': problem/leetcode/LeetCode-2. 两数相加.md
@@ -988,6 +965,30 @@ nav:
           - 'LeetCode-1232': problem/leetcode/LeetCode-1232. 缀点成线.md
           - 'LeetCode-1233': problem/leetcode/LeetCode-1233. 删除子文件夹.md
           - 'LeetCode-1234': problem/leetcode/LeetCode-1234. 替换子串得到平衡字符串.md
+      - 'KickStart':
+          - '2018_Round_B': 
+              - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
+      - 'newcoder':
+          - '牛客假日团队赛9':
+              - problem/牛客网/牛客假日团队赛9/A-乘积最大.md
+              - problem/牛客网/牛客假日团队赛9/C-单词接龙.md
+              - problem/牛客网/牛客假日团队赛9/D-Cow Line.md
+              - problem/牛客网/牛客假日团队赛9/G-Cow Digit Game.md
+              - problem/牛客网/牛客假日团队赛9/I-旅行家的预算.md
+              - problem/牛客网/牛客假日团队赛9/L-回文数.md
+
+      - 'hackerrank':
+          - problem/hackerrank/Morgan-and-a-String.md
+          - problem/hackerrank/Friend-Circle-Queries.md
+          - problem/hackerrank/Maximum-Xor.md
+          - problem/hackerrank/Xor-sequence.md
+          - problem/hackerrank/New-Year-Chaos.md
+          - problem/hackerrank/Regex-Substitution .md
+          - problem/hackerrank/The-Minion-Game.md
+      - 'Codefences':
+          - "Round 271": 
+              - problem/codefences/Round-271-D. Flowers.md
+      
       - "leetcode-thoughtworks": 
           - problem/leetcode-thoughtworks/1-猜数字.md
           - problem/leetcode-thoughtworks/2-分式化简.md
