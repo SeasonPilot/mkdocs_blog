@@ -675,6 +675,7 @@ nav:
           - 'LeetCode-0732': problem/leetcode/LeetCode-732. 我的日程安排表 III.md
           - 'LeetCode-0733': problem/leetcode/LeetCode-733. 图像渲染.md
           - 'LeetCode-0734': problem/leetcode/LeetCode-734. 句子相似性.md
+          - 'LeetCode-0735': problem/leetcode/LeetCode-735. 行星碰撞.md
           - 'LeetCode-0738': problem/leetcode/LeetCode-738. 单调递增的数字.md
           - 'LeetCode-0739': problem/leetcode/LeetCode-739. 每日温度.md
           - 'LeetCode-0740': problem/leetcode/LeetCode-740. 删除与获得点数.md
