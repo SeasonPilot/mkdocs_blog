@@ -794,6 +794,7 @@ nav:
           - 'LeetCode-0900': problem/leetcode/LeetCode-900. RLE 迭代器.md
           - 'LeetCode-0905': problem/leetcode/LeetCode-905. 按奇偶排序数组.md
           - 'LeetCode-0908': problem/leetcode/LeetCode-908. 最小差值 I.md
+          - 'LeetCode-0911': problem/leetcode/LeetCode-911. 在线选举.md
           - 'LeetCode-0912': problem/leetcode/LeetCode-912. 排序数组.md
           - 'LeetCode-0913': problem/leetcode/LeetCode-913. 猫和老鼠.md
           - 'LeetCode-0914': problem/leetcode/LeetCode-914. 卡牌分组.md
