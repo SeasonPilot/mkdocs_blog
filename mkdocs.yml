@@ -969,6 +969,7 @@ nav:
           - 'LeetCode-1189': problem/leetcode/LeetCode-1189. “气球” 的最大数量.md
           - 'LeetCode-1190': problem/leetcode/LeetCode-1190. 反转每对括号间的子串.md
           - 'LeetCode-1200': problem/leetcode/LeetCode-1200. 最小绝对差.md
+          - 'LeetCode-1206': problem/leetcode/LeetCode-1206. 设计跳表.md
           - 'LeetCode-1207': problem/leetcode/LeetCode-1207. 独一无二的出现次数.md
           - 'LeetCode-1208': problem/leetcode/LeetCode-1208. 尽可能使字符串相等.md
           - 'LeetCode-1209': problem/leetcode/LeetCode-1209. 删除字符串中的所有相邻重复项 II.md
