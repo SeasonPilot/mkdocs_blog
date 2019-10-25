@@ -9,8 +9,7 @@ branches:
 notifications:
   email:
     recipients:
-      - 1058862172@qq.com
-      - zhishengqianjun@163.com
+      - zhang.guohao@qq.com
     on_success: always # default: change
     on_failure: always # default: alway
 cache:
