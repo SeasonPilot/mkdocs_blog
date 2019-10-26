@@ -816,6 +816,7 @@ nav:
           - 'LeetCode-0926': problem/leetcode/LeetCode-926. 将字符串翻转到单调递增.md
           - 'LeetCode-0928': problem/leetcode/LeetCode-928. 尽量减少恶意软件的传播 II.md
           - 'LeetCode-0929': problem/leetcode/LeetCode-929. 独特的电子邮件地址.md
+          - 'LeetCode-0930': problem/leetcode/LeetCode-930. 和相同的二元子数组.md
           - 'LeetCode-0931': problem/leetcode/LeetCode-931. 下降路径最小和.md
           - 'LeetCode-0932': problem/leetcode/LeetCode-932. 漂亮数组.md
           - 'LeetCode-0933': problem/leetcode/LeetCode-933. 最近的请求次数.md
