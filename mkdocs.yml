@@ -936,6 +936,7 @@ nav:
           - 'LeetCode-1104': problem/leetcode/LeetCode-1104. 二叉树寻路.md
           - 'LeetCode-1105': problem/leetcode/LeetCode-1105. 填充书架.md
           - 'LeetCode-1108': problem/leetcode/LeetCode-1108. IP 地址无效化.md
+          - 'LeetCode-1109': problem/leetcode/LeetCode-1109. 航班预订统计.md
           - 'LeetCode-1110': problem/leetcode/LeetCode-1110. 删点成林.md
           - 'LeetCode-1111': problem/leetcode/LeetCode-1111. 有效括号的嵌套深度.md
           - 'LeetCode-1118': problem/leetcode/LeetCode-1118. 一月有多少天.md
