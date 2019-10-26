@@ -1,0 +1,73 @@
+# LeetCode: 967. 连续差相同的数字
+
+[TOC]
+
+## 1、题目描述
+
+返回所有长度为 `N` 且满足其每两个连续位上的数字之间的差的绝对值为 `K` 的非负整数。
+
+请注意，除了数字 `0` 本身之外，答案中的每个数字都不能有前导零。例如，`01` 因为有一个前导零，所以是无效的；但 `0` 是有效的。
+
+你可以按任何顺序返回答案。
+
+ 
+
+**示例 1：**
+
+```
+输入：N = 3, K = 7
+输出：[181,292,707,818,929]
+解释：注意，070 不是一个有效的数字，因为它有前导零。
+```
+
+
+**示例 2：**
+
+```
+输入：N = 2, K = 1
+输出：[10,12,21,23,32,34,43,45,54,56,65,67,76,78,87,89,98]
+```
+
+**提示：**
+
+-   $1 <= N <= 9$
+-   $0 <= K <= 9$
+
+
+
+## 2、解题思路
+
+-   从第一位开始生成
+-   每次添加下一位有效位即可
+
+
+
+```python
+class Solution:
+    def numsSameConsecDiff(self, N, K):
+        """
+        :type N: int
+        :type K: int
+        :rtype: List[int]
+        """
+        if N == 1:
+            return list(range(10))
+        temp_set = set()
+        for i in range(1, 10):
+            if 0 <= i - K <= 9 or 0 <= i + K <= 9:
+                temp_set.add(str(i))
+
+        for i in range(1, N):
+
+            next_step = set()
+
+            for cur in temp_set:
+                num = int(cur[-1])
+                if 0 <= num + K <= 9:
+                    next_step.add(cur + str(num + K))
+                if 0 <= num - K <= 9:
+                    next_step.add(cur + str(num - K))
+            temp_set = next_step
+        return list(map(int, temp_set))
+```
+

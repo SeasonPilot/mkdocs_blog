@@ -844,6 +844,7 @@ nav:
           - 'LeetCode-0963': problem/leetcode/LeetCode-963. 最小面积矩形 II.md
           - 'LeetCode-0965': problem/leetcode/LeetCode-965. 单值二叉树.md
           - 'LeetCode-0966': problem/leetcode/LeetCode-966. 元音拼写检查器.md
+          - 'LeetCode-0967': problem/leetcode/LeetCode-967. 连续差相同的数字.md
           - 'LeetCode-0968': problem/leetcode/LeetCode-968. 监控二叉树.md
           - 'LeetCode-0969': problem/leetcode/LeetCode-969. 煎饼排序.md
           - 'LeetCode-0970': problem/leetcode/LeetCode-970. 强整数.md
