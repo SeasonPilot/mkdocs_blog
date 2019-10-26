@@ -836,6 +836,7 @@ nav:
           - 'LeetCode-0951': problem/leetcode/LeetCode-951. 翻转等价二叉树.md
           - 'LeetCode-0952': problem/leetcode/LeetCode-952. 按公因数计算最大组件大小.md
           - 'LeetCode-0953': problem/leetcode/LeetCode-953. 验证外星语词典.md
+          - 'LeetCode-0957': problem/leetcode/LeetCode-957. N 天后的牢房.md
           - 'LeetCode-0958': problem/leetcode/LeetCode-958. 二叉树的完全性检验.md
           - 'LeetCode-0959': problem/leetcode/LeetCode-959. 由斜杠划分区域.md
           - 'LeetCode-0961': problem/leetcode/LeetCode-961. 重复 N 次的元素.md
