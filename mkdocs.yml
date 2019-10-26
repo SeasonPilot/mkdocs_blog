@@ -773,6 +773,7 @@ nav:
           - 'LeetCode-0867': problem/leetcode/LeetCode-867. 转置矩阵.md
           - 'LeetCode-0868': problem/leetcode/LeetCode-868. 二进制间距.md
           - 'LeetCode-0869': problem/leetcode/LeetCode-869. 重新排序得到 2 的幂.md
+          - 'LeetCode-0870': problem/leetcode/LeetCode-870. 优势洗牌.md
           - 'LeetCode-0871': problem/leetcode/LeetCode-871. 最低加油次数.md
           - 'LeetCode-0872': problem/leetcode/LeetCode-872. 叶子相似的树.md
           - 'LeetCode-0873': problem/leetcode/LeetCode-873. 最长的斐波那契子序列的长度.md
