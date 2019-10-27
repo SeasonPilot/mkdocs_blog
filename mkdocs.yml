@@ -999,6 +999,7 @@ nav:
           - 'LeetCode-1232': problem/leetcode/LeetCode-1232. 缀点成线.md
           - 'LeetCode-1233': problem/leetcode/LeetCode-1233. 删除子文件夹.md
           - 'LeetCode-1234': problem/leetcode/LeetCode-1234. 替换子串得到平衡字符串.md
+          - 'LeetCode-1237': problem/leetcode/LeetCode-1237. 找出给定方程的正整数解.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
