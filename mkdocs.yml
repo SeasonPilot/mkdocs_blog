@@ -741,6 +741,7 @@ nav:
           - 'LeetCode-0822': problem/leetcode/LeetCode-822. 翻转卡片游戏.md
           - 'LeetCode-0823': problem/leetcode/LeetCode-823. 带因子的二叉树.md
           - 'LeetCode-0824': problem/leetcode/LeetCode-824. 山羊拉丁文.md
+          - 'LeetCode-0825': problem/leetcode/LeetCode-825. 适龄的朋友.md
           - 'LeetCode-0826': problem/leetcode/LeetCode-826. 安排工作以达到最大收益.md
           - 'LeetCode-0830': problem/leetcode/LeetCode-830. 较大分组的位置.md
           - 'LeetCode-0831': problem/leetcode/LeetCode-831. 隐藏个人信息.md
