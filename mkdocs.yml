@@ -1024,6 +1024,7 @@ nav:
           - problem/hackerrank/New-Year-Chaos.md
           - problem/hackerrank/Regex-Substitution .md
           - problem/hackerrank/The-Minion-Game.md
+          - problem/hackerrank/Array-Manipulation.md
       - 'Codefences':
           - "Round 271": 
               - problem/codefences/Round-271-D. Flowers.md
