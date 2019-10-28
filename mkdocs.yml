@@ -630,6 +630,7 @@ nav:
           - 'LeetCode-0670': problem/leetcode/LeetCode-670. 最大交换.md
           - 'LeetCode-0671': problem/leetcode/LeetCode-671. 二叉树中第二小的节点.md
           - 'LeetCode-0672': problem/leetcode/LeetCode-672. 灯泡开关 Ⅱ.md
+          - 'LeetCode-0673': problem/leetcode/LeetCode-673. 最长递增子序列的个数.md
           - 'LeetCode-0674': problem/leetcode/LeetCode-674. 最长连续递增序列.md
           - 'LeetCode-0676': problem/leetcode/LeetCode-676. 实现一个魔法字典.md
           - 'LeetCode-0677': problem/leetcode/LeetCode-677. 键值映射.md
