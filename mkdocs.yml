@@ -16,8 +16,8 @@ theme:
   name: 'material'
   language: 'zh'
   palette:
-    primary: 'white'
-    #primary: 'light blue'
+      #primary: 'white'
+    primary: 'light blue'
     accent: 'light blue'
   feature:
     tabs: true
