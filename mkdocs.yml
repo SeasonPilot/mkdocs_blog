@@ -813,6 +813,7 @@ nav:
           - 'LeetCode-0915': problem/leetcode/LeetCode-915. 分割数组.md
           - 'LeetCode-0916': problem/leetcode/LeetCode-916. 单词子集.md
           - 'LeetCode-0917': problem/leetcode/LeetCode-917. 仅仅反转字母.md
+          - 'LeetCode-0918': problem/leetcode/LeetCode-918. 环形子数组的最大和.md
           - 'LeetCode-0919': problem/leetcode/LeetCode-919. 完全二叉树插入器.md
           - 'LeetCode-0921': problem/leetcode/LeetCode-921. 使括号有效的最少添加.md
           - 'LeetCode-0922': problem/leetcode/LeetCode-922. 按奇偶排序数组 II.md
