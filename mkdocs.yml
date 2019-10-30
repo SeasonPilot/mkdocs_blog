@@ -1029,6 +1029,7 @@ nav:
           - problem/hackerrank/Regex-Substitution .md
           - problem/hackerrank/The-Minion-Game.md
           - problem/hackerrank/Array-Manipulation.md
+          - problem/hackerrank/Count-Triplets.md
       - 'Codefences':
           - "Round 271": 
               - problem/codefences/Round-271-D. Flowers.md
