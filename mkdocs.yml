@@ -753,6 +753,7 @@ nav:
           - 'LeetCode-0834': problem/leetcode/LeetCode-834. 树中距离之和.md
           - 'LeetCode-0835': problem/leetcode/LeetCode-835. 图像重叠.md
           - 'LeetCode-0836': problem/leetcode/LeetCode-836. 矩形重叠.md
+          - 'LeetCode-0837': problem/leetcode/LeetCode-837. 新21点.md
           - 'LeetCode-0838': problem/leetcode/LeetCode-838. 推多米诺.md
           - 'LeetCode-0839': problem/leetcode/LeetCode-839. 相似字符串组.md
           - 'LeetCode-0840': problem/leetcode/LeetCode-840. 矩阵中的幻方.md
