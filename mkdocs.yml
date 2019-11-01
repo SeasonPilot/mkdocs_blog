@@ -807,6 +807,7 @@ nav:
           - 'LeetCode-0901': problem/leetcode/LeetCode-901. 股票价格跨度.md
           - 'LeetCode-0904': problem/leetcode/LeetCode-904. 水果成篮.md
           - 'LeetCode-0905': problem/leetcode/LeetCode-905. 按奇偶排序数组.md
+          - 'LeetCode-0907': problem/leetcode/LeetCode-907. 子数组的最小值之和.md
           - 'LeetCode-0908': problem/leetcode/LeetCode-908. 最小差值 I.md
           - 'LeetCode-0909': problem/leetcode/LeetCode-909. 蛇梯棋.md
           - 'LeetCode-0911': problem/leetcode/LeetCode-911. 在线选举.md
