@@ -669,6 +669,7 @@ nav:
           - 'LeetCode-0718': problem/leetcode/LeetCode-718. 最长重复子数组.md
           - 'LeetCode-0720': problem/leetcode/LeetCode-720. 词典中最长的单词.md
           - 'LeetCode-0721': problem/leetcode/LeetCode-721. 账户合并.md
+          - 'LeetCode-0722': problem/leetcode/LeetCode-722. 删除注释.md
           - 'LeetCode-0724': problem/leetcode/LeetCode-724. 寻找数组的中心索引.md
           - 'LeetCode-0725': problem/leetcode/LeetCode-725. 分隔链表.md
           - 'LeetCode-0726': problem/leetcode/LeetCode-726. 原子的数量.md
