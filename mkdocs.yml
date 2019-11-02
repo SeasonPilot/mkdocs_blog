@@ -949,6 +949,7 @@ nav:
           - 'LeetCode-1086': problem/leetcode/LeetCode-1086. 前五科的均分.md
           - 'LeetCode-1089': problem/leetcode/LeetCode-1089. 复写零.md
           - 'LeetCode-1090': problem/leetcode/LeetCode-1090. 受标签影响的最大值.md
+          - 'LeetCode-1091': problem/leetcode/LeetCode-1091. 二进制矩阵中的最短路径.md
           - 'LeetCode-1093': problem/leetcode/LeetCode-1093. 大样本统计.md
           - 'LeetCode-1094': problem/leetcode/LeetCode-1094. 拼车.md
           - 'LeetCode-1099': problem/leetcode/LeetCode-1099. 小于 K 的两数之和.md
