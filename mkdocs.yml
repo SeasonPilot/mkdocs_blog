@@ -812,6 +812,7 @@ nav:
           - 'LeetCode-0907': problem/leetcode/LeetCode-907. 子数组的最小值之和.md
           - 'LeetCode-0908': problem/leetcode/LeetCode-908. 最小差值 I.md
           - 'LeetCode-0909': problem/leetcode/LeetCode-909. 蛇梯棋.md
+          - 'LeetCode-0910': problem/leetcode/LeetCode-910. 最小差值 II.md
           - 'LeetCode-0911': problem/leetcode/LeetCode-911. 在线选举.md
           - 'LeetCode-0912': problem/leetcode/LeetCode-912. 排序数组.md
           - 'LeetCode-0913': problem/leetcode/LeetCode-913. 猫和老鼠.md
