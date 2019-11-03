@@ -1025,6 +1025,7 @@ nav:
           - 'LeetCode-1244': problem/leetcode/LeetCode-1244. 力扣排行榜.md
           - 'LeetCode-1245': problem/leetcode/LeetCode-1245. 树的直径.md
           - 'LeetCode-1247': problem/leetcode/LeetCode-1247. 交换字符使得字符串相同.md
+          - 'LeetCode-1248': problem/leetcode/LeetCode-1248. 统计-优美子数组.md
           - 'LeetCode-1249': problem/leetcode/LeetCode-1249. 移除无效的括号.md
       - 'KickStart':
           - '2018_Round_B': 
