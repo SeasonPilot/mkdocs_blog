@@ -1023,6 +1023,7 @@ nav:
           - 'LeetCode-1239': problem/leetcode/LeetCode-1239. 串联字符串的最大长度.md
           - 'LeetCode-1243': problem/leetcode/LeetCode-1243. 数组变换.md
           - 'LeetCode-1247': problem/leetcode/LeetCode-1247. 交换字符使得字符串相同.md
+          - 'LeetCode-1249': problem/leetcode/LeetCode-1249. 移除无效的括号.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
