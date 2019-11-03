@@ -999,6 +999,7 @@ nav:
           - 'LeetCode-1186': problem/leetcode/LeetCode-1186. 删除一次得到子数组最大和.md
           - 'LeetCode-1189': problem/leetcode/LeetCode-1189. “气球” 的最大数量.md
           - 'LeetCode-1190': problem/leetcode/LeetCode-1190. 反转每对括号间的子串.md
+          - 'LeetCode-1191': problem/leetcode/LeetCode-1191. K 次串联后最大子数组之和.md
           - 'LeetCode-1200': problem/leetcode/LeetCode-1200. 最小绝对差.md
           - 'LeetCode-1201': problem/leetcode/LeetCode-1201. 丑数 III.md
           - 'LeetCode-1206': problem/leetcode/LeetCode-1206. 设计跳表.md
