@@ -1006,6 +1006,7 @@ nav:
           - 'LeetCode-1191': problem/leetcode/LeetCode-1191. K 次串联后最大子数组之和.md
           - 'LeetCode-1200': problem/leetcode/LeetCode-1200. 最小绝对差.md
           - 'LeetCode-1201': problem/leetcode/LeetCode-1201. 丑数 III.md
+          - 'LeetCode-1202': problem/leetcode/LeetCode-1202. 交换字符串中的元素.md
           - 'LeetCode-1206': problem/leetcode/LeetCode-1206. 设计跳表.md
           - 'LeetCode-1207': problem/leetcode/LeetCode-1207. 独一无二的出现次数.md
           - 'LeetCode-1208': problem/leetcode/LeetCode-1208. 尽可能使字符串相等.md
