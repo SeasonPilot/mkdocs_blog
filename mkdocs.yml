@@ -705,6 +705,7 @@ nav:
           - 'LeetCode-0767': problem/leetcode/LeetCode-767. 重构字符串.md
           - 'LeetCode-0769': problem/leetcode/LeetCode-769. 最多能完成排序的块.md
           - 'LeetCode-0771': problem/leetcode/LeetCode-771. 宝石与石头.md
+          - 'LeetCode-0773': problem/leetcode/LeetCode-773. 滑动谜题.md
           - 'LeetCode-0775': problem/leetcode/LeetCode-775. 全局倒置与局部倒置.md
           - 'LeetCode-0777': problem/leetcode/LeetCode-777. 在LR字符串中交换相邻字符.md
           - 'LeetCode-0778': problem/leetcode/LeetCode-778. 水位上升的泳池中游泳.md
