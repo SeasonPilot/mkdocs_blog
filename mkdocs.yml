@@ -1019,6 +1019,7 @@ nav:
           - 'LeetCode-1217': problem/leetcode/LeetCode-1217. 玩筹码.md
           - 'LeetCode-1218': problem/leetcode/LeetCode-1218. 最长定差子序列.md
           - 'LeetCode-1219': problem/leetcode/LeetCode-1219. 黄金矿工.md
+          - 'LeetCode-1220': problem/leetcode/LeetCode-1220. 统计元音字母序列的数目.md
           - 'LeetCode-1221': problem/leetcode/LeetCode-1221. 分割平衡字符串.md
           - 'LeetCode-1222': problem/leetcode/LeetCode-1222. 可以攻击国王的皇后.md
           - 'LeetCode-1223': problem/leetcode/LeetCode-1223. 掷骰子模拟.md
