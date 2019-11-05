@@ -98,6 +98,7 @@ nav:
           - computer/linux/Linux.md
           - computer/linux/linux_boot.md
           - computer/linux/ELF文件.md
+          - computer/linux/Linux命令技巧-script与scriptreply.md
       - 'Web开发':
           - computer/web/Web.md
       - '网络':
