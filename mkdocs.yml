@@ -98,11 +98,11 @@ nav:
           - computer/linux/Linux.md
           - computer/linux/linux_boot.md
           - computer/linux/ELF文件.md
-          - computer/linux/Linux命令技巧-script与scriptreply.md
+          - computer/linux/Linux命令技巧script与scriptreply.md
       - 'Web开发':
           - computer/web/Web.md
       - '网络':
-          - computer/network/http.md
+          - computer/network/HTTP状态码.md
           - computer/network/tcp_status.md
             #  - '数学基础':
             #      - math/线性代数.md
