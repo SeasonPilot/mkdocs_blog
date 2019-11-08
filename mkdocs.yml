@@ -115,8 +115,8 @@ nav:
         #      - cloud/云计算.md
         #  - '自然语言处理':
         #      - nlp/自然语言处理.md
-        #  - '项目集锦':
-        #      - project/项目集锦.md
+  - '项目集锦':
+      - project/MWeb批量导入脚本.md
   - '算法与数据结构':
       - algorithm/内部排序算法.md
       - algorithm/哈希表的大小为何是素数.md
