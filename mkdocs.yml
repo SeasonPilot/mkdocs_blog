@@ -1044,6 +1044,7 @@ nav:
           - 'LeetCode-1249': problem/leetcode/LeetCode-1249. 移除无效的括号.md
           - 'LeetCode-1252': problem/leetcode/LeetCode-1252. 奇数值单元格的数目.md
           - 'LeetCode-1253': problem/leetcode/LeetCode-1253. 重构2行二进制矩阵.md
+          - 'LeetCode-1254': problem/leetcode/LeetCode-1254. 统计封闭岛屿的数目.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
