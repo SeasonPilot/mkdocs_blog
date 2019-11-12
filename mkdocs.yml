@@ -91,8 +91,10 @@ nav:
   - '首页': 
       - index.md
   - '编程语言': 
+      - 'bash':
+          - 'BASH内置手册': language/bash/BASH内置手册.md
       - 'python':
-          - language/python/python.md
+          - language/python/Python文档转换-pandoc.md
   - '计算机基础':
       - 'Linux':
           - computer/linux/Linux.md
@@ -1079,12 +1081,17 @@ nav:
       - resources/Python资源整理.md
 
   - '常用工具':
-      - 'BASH内置手册': tools/BASH内置手册.md
-      - 'Git使用手册': tools/Git使用手册.md
-      - 'Markdown进阶：序列图': tools/Markdown进阶：序列图.md
-      - 'Mermaid-序列图': tools/mermaid-序列图.md
-      - 'Vmware Fusion配置Nat静态IP': tools/Vmware Fusion配置Nat静态IP.md
-      - 'Parallel复制虚拟机之网卡配置': tools/Parallel复制虚拟机之网卡配置.md
+      #- "Git":
+      #    - 'Git使用手册': tools/Git使用手册.md
+      - "Markdown":
+          - 'Markdown进阶：序列图': tools/Markdown进阶：序列图.md
+          - 'Mermaid-序列图': tools/mermaid-序列图.md
+      - "虚拟机":
+          - 'Vmware Fusion配置Nat静态IP': tools/Vmware Fusion配置Nat静态IP.md
+          - 'Parallel复制虚拟机之网卡配置': tools/Parallel复制虚拟机之网卡配置.md
+      - "Mac使用技巧":
+          - tools/Mac/Launchctl定时任务.md
+          - tools/Mac/launchd添加开机启动程序.md
   
   - '随笔记事':
       - essay/随笔记事.md
