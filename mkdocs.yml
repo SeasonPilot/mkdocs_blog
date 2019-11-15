@@ -166,6 +166,7 @@ nav:
           - 'LeetCode-0038': problem/leetcode/LeetCode-38. 报数.md
           - 'LeetCode-0039': problem/leetcode/LeetCode-39. 组合总和.md
           - 'LeetCode-0040': problem/leetcode/LeetCode-40. 组合总和 II.md
+          - 'LeetCode-0041': problem/leetcode/LeetCode-41. 缺失的第一个正数.md
           - 'LeetCode-0042': problem/leetcode/LeetCode-42. 接雨水.md
           - 'LeetCode-0043': problem/leetcode/LeetCode-43. 字符串相乘.md
           - 'LeetCode-0044': problem/leetcode/LeetCode-44. 通配符匹配.md
