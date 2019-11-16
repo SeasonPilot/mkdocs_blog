@@ -331,6 +331,7 @@ nav:
           - 'LeetCode-0221': problem/leetcode/LeetCode-221. 最大正方形.md
           - 'LeetCode-0222': problem/leetcode/LeetCode-222. 完全二叉树的节点个数.md
           - 'LeetCode-0223': problem/leetcode/LeetCode-223. 矩形面积.md
+          - 'LeetCode-0224': problem/leetcode/LeetCode-224. 基本计算器.md
           - 'LeetCode-0225': problem/leetcode/LeetCode-225. 用队列实现栈.md
           - 'LeetCode-0226': problem/leetcode/LeetCode-226.翻转二叉树.md
           - 'LeetCode-0227': problem/leetcode/LeetCode-227. 基本计算器 II.md
