@@ -1049,6 +1049,7 @@ nav:
           - 'LeetCode-1254': problem/leetcode/LeetCode-1254. 统计封闭岛屿的数目.md
           - 'LeetCode-1256': problem/leetcode/LeetCode-1256. 加密数字.md
           - 'LeetCode-1260': problem/leetcode/LeetCode-1260. 二维网格迁移.md
+          - 'LeetCode-1261': problem/leetcode/LeetCode-1261. 在受污染的二叉树中查找元素.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
