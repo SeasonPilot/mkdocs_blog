@@ -249,6 +249,7 @@ nav:
           - 'LeetCode-0129': problem/leetcode/LeetCode-129. 求根到叶子节点数字之和.md
           - 'LeetCode-0130': problem/leetcode/LeetCode-130. 被围绕的区域.md
           - 'LeetCode-0131': problem/leetcode/LeetCode-131. 分割回文串.md
+          - 'LeetCode-0132': problem/leetcode/LeetCode-132. 分割回文串 II.md
           - 'LeetCode-0133': problem/leetcode/LeetCode-133. 克隆图.md
           - 'LeetCode-0134': problem/leetcode/LeetCode-134. 加油站.md
           - 'LeetCode-0136': problem/leetcode/LeetCode-136. 只出现一次的数字.md
