@@ -191,6 +191,7 @@ nav:
           - 'LeetCode-0064': problem/leetcode/LeetCode-64. 最小路径和.md
           - 'LeetCode-0066': problem/leetcode/LeetCode-66.加一.md
           - 'LeetCode-0067': problem/leetcode/LeetCode-67.二进制求和.md
+          - 'LeetCode-0068': problem/leetcode/LeetCode-68. 文本左右对齐.md
           - 'LeetCode-0069': problem/leetcode/LeetCode-69.x 的平方根.md
           - 'LeetCode-0070': problem/leetcode/LeetCode-70. 爬楼梯.md
           - 'LeetCode-0071': problem/leetcode/LeetCode-71. 简化路径.md
