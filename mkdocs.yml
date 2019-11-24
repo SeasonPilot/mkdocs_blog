@@ -1057,6 +1057,7 @@ nav:
           - 'LeetCode-1261': problem/leetcode/LeetCode-1261. 在受污染的二叉树中查找元素.md
           - 'LeetCode-1262': problem/leetcode/LeetCode-1262. 可被三整除的最大和.md
           - 'LeetCode-1266': problem/leetcode/LeetCode-1266. 访问所有点的最小时间.md
+          - 'LeetCode-1267': problem/leetcode/LeetCode-1267. 统计参与通信的服务器.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
