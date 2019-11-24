@@ -999,6 +999,7 @@ nav:
           - 'LeetCode-1144': problem/leetcode/LeetCode-1144. 递减元素使数组呈锯齿状.md
           - 'LeetCode-1145': problem/leetcode/LeetCode-1145. 二叉树着色游戏.md
           - 'LeetCode-1146': problem/leetcode/LeetCode-1146. 快照数组.md
+          - 'LeetCode-1147': problem/leetcode/LeetCode-1147. 段式回文.md
           - 'LeetCode-1154': problem/leetcode/LeetCode-1154. 一年中的第几天.md
           - 'LeetCode-1155': problem/leetcode/LeetCode-1155. 掷骰子的N种方法.md
           - 'LeetCode-1156': problem/leetcode/LeetCode-1156. 单字符重复子串的最大长度.md
