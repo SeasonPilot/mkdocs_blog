@@ -1087,6 +1087,9 @@ nav:
           - "Round 271": 
               - problem/codefences/Round-271-D. Flowers.md
       
+      - 'InterviewQuestion':
+          - problem/InterviewQuestion/收集硬币.md
+
       - "leetcode-thoughtworks": 
           - problem/leetcode-thoughtworks/1-猜数字.md
           - problem/leetcode-thoughtworks/2-分式化简.md
