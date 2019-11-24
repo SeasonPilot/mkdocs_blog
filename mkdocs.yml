@@ -1059,6 +1059,7 @@ nav:
           - 'LeetCode-1266': problem/leetcode/LeetCode-1266. 访问所有点的最小时间.md
           - 'LeetCode-1267': problem/leetcode/LeetCode-1267. 统计参与通信的服务器.md
           - 'LeetCode-1268': problem/leetcode/LeetCode-1268. 搜索推荐系统.md
+          - 'LeetCode-1269': problem/leetcode/LeetCode-1269. 停在原地的方案数.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
