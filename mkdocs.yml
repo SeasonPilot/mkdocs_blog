@@ -1089,6 +1089,7 @@ nav:
       
       - 'InterviewQuestion':
           - problem/InterviewQuestion/收集硬币.md
+          - problem/InterviewQuestion/相同值的子树个数.md
 
       - "leetcode-thoughtworks": 
           - problem/leetcode-thoughtworks/1-猜数字.md
