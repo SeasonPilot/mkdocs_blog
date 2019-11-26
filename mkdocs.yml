@@ -327,6 +327,7 @@ nav:
           - 'LeetCode-0211': problem/leetcode/LeetCode-211. 添加与搜索单词 - 数据结构设计.md
           - 'LeetCode-0212': problem/leetcode/LeetCode-212. 单词搜索 II.md
           - 'LeetCode-0213': problem/leetcode/LeetCode-213. 打家劫舍 II.md
+          - 'LeetCode-0214': problem/leetcode/LeetCode-214. 最短回文串.md
           - 'LeetCode-0215': problem/leetcode/LeetCode-215. 数组中的第K个最大元素.md
           - 'LeetCode-0216': problem/leetcode/LeetCode-216. 组合总和 III.md
           - 'LeetCode-0217': problem/leetcode/LeetCode-217. 存在重复元素.md
