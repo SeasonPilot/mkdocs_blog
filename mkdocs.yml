@@ -7,6 +7,7 @@ site_url: 'https://aisky.men'
 # Repository
 repo_name: 'gaviners/mkdocs_blog'
 repo_url: 'https://github.com/gaviners/mkdocs_blog'
+edit_uri: 'blob/mkdocs_blog/docs/'
 
 # Copyright
 copyright: 'Copyright &copy; 2017 - 2019 Gavin zhishengqianjun@163.com'
@@ -351,6 +352,7 @@ nav:
           - 'LeetCode-0230': problem/leetcode/LeetCode-230. 二叉搜索树中第K小的元素.md
           - 'LeetCode-0231': problem/leetcode/LeetCode-231. 2的幂.md
           - 'LeetCode-0232': problem/leetcode/LeetCode-232. 用栈实现队列.md
+          - 'LeetCode-0233': problem/leetcode/LeetCode-233. 数字1的个数.md
           - 'LeetCode-0234': problem/leetcode/LeetCode-234. 回文链表.md
           - 'LeetCode-0235': problem/leetcode/LeetCode-235. 二叉搜索树的最近公共祖先.md
           - 'LeetCode-0236': problem/leetcode/LeetCode-236. 二叉树的最近公共祖先.md
