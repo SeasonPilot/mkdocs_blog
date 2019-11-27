@@ -41,7 +41,7 @@ after_script:
    - git push --force --quiet "https://zhishengqianjun:${CO_TOKEN}@${CO_REF}" master:master
    - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
    - git push --force --quiet "https://${GH_TOKEN}@${GH_REF_IO}" master:master
-   - scp -oStrictHostKeyChecking=no  deploy.sh -i ~/.ssh/github_deploy_key ${SERVER_USER}@${SERVER_IP}:~/deploy.sh
+   - scp -oStrictHostKeyChecking=no  -i ~/.ssh/github_deploy_key ../deploy.sh ${SERVER_USER}@${SERVER_IP}:~/deploy.sh
    - ssh -oStrictHostKeyChecking=no -i ~/.ssh/github_deploy_key ${SERVER_USER}@${SERVER_IP} "sh ~/deploy.sh"
 
 env:
