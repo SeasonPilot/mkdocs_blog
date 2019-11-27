@@ -11,6 +11,8 @@ repo_url: 'https://github.com/gaviners/mkdocs_blog'
 # Copyright
 copyright: 'Copyright &copy; 2017 - 2019 Gavin zhishengqianjun@163.com'
 
+use_directory_urls: false
+
 # Configuration
 theme:
   name: 'material'
@@ -101,6 +103,8 @@ nav:
           - computer/linux/linux_boot.md
           - computer/linux/ELF文件.md
           - computer/linux/Linux命令技巧script与scriptreply.md
+      - 'devops':
+          - computer/devops/Travis中添加ssh密钥.md
       - 'Web开发':
           - computer/web/Web.md
       - '网络':
