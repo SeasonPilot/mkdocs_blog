@@ -89,7 +89,6 @@ extra_javascript:
   - asserts/js/baidu-tongji.js
   - asserts/js/umlconvert.js
 
-
 nav:
   - '首页': 
       - index.md
@@ -98,17 +97,18 @@ nav:
           - 'BASH内置手册': language/bash/BASH内置手册.md
       - 'python':
           - language/python/Python文档转换-pandoc.md
-  - '计算机基础':
+  - '计算机':
       - 'Linux':
-          - computer/linux/Linux.md
-          - computer/linux/linux_boot.md
+          #- computer/linux/Linux.md
           - computer/linux/ELF文件.md
+          - computer/linux/linux_boot.md
+      - "LinuxCommand":
           - computer/linux/Linux命令技巧script与scriptreply.md
-      - 'devops':
+      - 'DevOps':
           - computer/devops/Travis中添加ssh密钥.md
       - 'Web开发':
           - computer/web/Web.md
-      - '网络':
+      - 'Network':
           - computer/network/HTTP状态码.md
           - computer/network/tcp_status.md
             #  - '数学基础':
