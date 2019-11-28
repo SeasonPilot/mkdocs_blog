@@ -196,6 +196,7 @@ nav:
           - 'LeetCode-0062': problem/leetcode/LeetCode-62. 不同路径.md
           - 'LeetCode-0063': problem/leetcode/LeetCode-63. 不同路径 II.md
           - 'LeetCode-0064': problem/leetcode/LeetCode-64. 最小路径和.md
+          - 'LeetCode-0065': problem/leetcode/LeetCode-65. 有效数字.md
           - 'LeetCode-0066': problem/leetcode/LeetCode-66.加一.md
           - 'LeetCode-0067': problem/leetcode/LeetCode-67.二进制求和.md
           - 'LeetCode-0068': problem/leetcode/LeetCode-68. 文本左右对齐.md
