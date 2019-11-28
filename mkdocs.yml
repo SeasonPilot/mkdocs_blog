@@ -228,6 +228,7 @@ nav:
           - 'LeetCode-0094': problem/leetcode/LeetCode-94. 二叉树的中序遍历.md
           - 'LeetCode-0095': problem/leetcode/LeetCode-95. 不同的二叉搜索树 II.md
           - 'LeetCode-0096': problem/leetcode/LeetCode-96. 不同的二叉搜索树.md
+          - 'LeetCode-0097': problem/leetcode/LeetCode-97. 交错字符串.md
           - 'LeetCode-0098': problem/leetcode/LeetCode-98. 验证二叉搜索树.md
           - 'LeetCode-0099': problem/leetcode/LeetCode-99. 恢复二叉搜索树.md
           - 'LeetCode-0100': problem/leetcode/LeetCode-100. 相同的树.md
