@@ -246,6 +246,7 @@ nav:
           - 'LeetCode-0112': problem/leetcode/LeetCode-112. 路径总和.md
           - 'LeetCode-0113': problem/leetcode/LeetCode-113. 路径总和 II.md
           - 'LeetCode-0114': problem/leetcode/LeetCode-114. 二叉树展开为链表.md
+          - 'LeetCode-0115': problem/leetcode/LeetCode-115. 不同的子序列.md
           - 'LeetCode-0116': problem/leetcode/LeetCode-116. 填充同一层的兄弟节点.md
           - 'LeetCode-0117': problem/leetcode/LeetCode-117. 填充同一层的兄弟节点 II.md
           - 'LeetCode-0118': problem/leetcode/LeetCode-118. 杨辉三角.md
