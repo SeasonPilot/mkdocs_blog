@@ -125,11 +125,17 @@ nav:
   - '项目集锦':
       - project/MWeb批量导入脚本.md
   - '算法与数据结构':
-      - algorithm/内部排序算法.md
-      - algorithm/哈希表的大小为何是素数.md
-      - algorithm/线段树.md
-      - algorithm/树状数组.md
-      - algorithm/树状数组求逆序对.md
+      - "排序":
+          - algorithm/内部排序算法.md
+      - "最短路径":
+          - algorithm/单源最短路径-Dijkstra算法.md
+      - "哈希表":
+          - algorithm/哈希表的大小为何是素数.md
+      - "线段树":
+          - algorithm/线段树.md
+      - "树状数组":
+          - algorithm/树状数组.md
+          - algorithm/树状数组求逆序对.md
   - '算法题集':
       - 'LeetCode':
           - 'LeetCode-0001': problem/leetcode/LeetCode-1. 两数之和.md
