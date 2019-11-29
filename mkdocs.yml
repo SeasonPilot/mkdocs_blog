@@ -286,6 +286,7 @@ nav:
           - 'LeetCode-0146': problem/leetcode/LeetCode-146. LRU缓存机制.md
           - 'LeetCode-0147': problem/leetcode/LeetCode-147. 对链表进行插入排序.md
           - 'LeetCode-0148': problem/leetcode/LeetCode-148. 排序链表.md
+          - 'LeetCode-0149': problem/leetcode/LeetCode-149. 直线上最多的点数.md
           - 'LeetCode-0150': problem/leetcode/LeetCode-150. 逆波兰表达式求值.md
           - 'LeetCode-0151': problem/leetcode/LeetCode-151. 翻转字符串里的单词.md
           - 'LeetCode-0152': problem/leetcode/LeetCode-152. 乘积最大子序列.md
