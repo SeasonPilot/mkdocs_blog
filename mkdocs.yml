@@ -292,6 +292,7 @@ nav:
           - 'LeetCode-0151': problem/leetcode/LeetCode-151. 翻转字符串里的单词.md
           - 'LeetCode-0152': problem/leetcode/LeetCode-152. 乘积最大子序列.md
           - 'LeetCode-0153': problem/leetcode/LeetCode-153. 寻找旋转排序数组中的最小值.md
+          - 'LeetCode-0154': problem/leetcode/LeetCode-154. 寻找旋转排序数组中的最小值II.md
           - 'LeetCode-0155': problem/leetcode/LeetCode-155. 最小栈.md
           - 'LeetCode-0156': problem/leetcode/LeetCode-156. 上下翻转二叉树.md
           - 'LeetCode-0157': problem/leetcode/LeetCode-157. 用 Read4 读取 N 个字符.md
