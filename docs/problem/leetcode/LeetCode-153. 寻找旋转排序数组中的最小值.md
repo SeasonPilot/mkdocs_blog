@@ -32,9 +32,7 @@
 
 ## 2、解题思路
 
-​	难道这道题就是要找到最小值？
-
-​	虽然通过了。。
+-   直接取最小值
 
 ```python
 class Solution:
@@ -44,5 +42,27 @@ class Solution:
         :rtype: int
         """
         return min(nums)
+```
+
+-   使用二分法，找出递增区间，返回区间左侧的值
+
+```python
+class Solution:
+    def findMin(self, nums: List[int]) -> int:
+        length = len(nums)
+
+        left = 0
+        right = length - 1
+
+        while left < right:
+            mid = (left + right) // 2
+            if nums[left] > nums[right]:
+                if nums[mid] >= nums[left]:
+                    left = mid + 1
+                else:
+                    right = mid
+            else:
+                break
+        return nums[left]
 ```
 
