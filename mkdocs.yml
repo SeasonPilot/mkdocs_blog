@@ -1090,6 +1090,7 @@ nav:
           - 'LeetCode-1267': problem/leetcode/LeetCode-1267. 统计参与通信的服务器.md
           - 'LeetCode-1268': problem/leetcode/LeetCode-1268. 搜索推荐系统.md
           - 'LeetCode-1269': problem/leetcode/LeetCode-1269. 停在原地的方案数.md
+          - 'LeetCode-1278': problem/leetcode/LeetCode-1278. 分割回文串III.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
