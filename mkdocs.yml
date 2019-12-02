@@ -25,6 +25,11 @@ theme:
   feature:
     tabs: true
 
+plugins:
+    - search:
+        lang: jp
+
+
 extra:
   social:
     - type: 'github'
@@ -128,9 +133,9 @@ nav:
       - "排序":
           - algorithm/内部排序算法.md
       - "最短路径":
-          - algorithm/单源最短路径-Dijkstra算法.md
-          - algorithm/单源最短路径-Bellman-Ford算法.md
-          - algorithm/单源最短路径-SPFA算法.md
+          - "Dijkstra算法": algorithm/单源最短路径-Dijkstra算法.md
+          - "Bellman-Ford算法": algorithm/单源最短路径-Bellman-Ford算法.md
+          - "SPFA算法": algorithm/单源最短路径-SPFA算法.md
       - "哈希表":
           - algorithm/哈希表的大小为何是素数.md
       - "线段树":
