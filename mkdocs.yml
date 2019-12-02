@@ -131,18 +131,20 @@ nav:
       - project/MWeb批量导入脚本.md
   - '算法与数据结构':
       - "排序":
-          - algorithm/内部排序算法.md
+          - algorithm/sort/内部排序算法.md
       - "最短路径":
-          - "Dijkstra算法": algorithm/单源最短路径-Dijkstra算法.md
-          - "Bellman-Ford算法": algorithm/单源最短路径-Bellman-Ford算法.md
-          - "SPFA算法": algorithm/单源最短路径-SPFA算法.md
+          - "Dijkstra算法": algorithm/shortest_path/单源最短路径-Dijkstra算法.md
+          - "Bellman-Ford算法": algorithm/shortest_path/单源最短路径-Bellman-Ford算法.md
+          - "SPFA算法": algorithm/shortest_path/单源最短路径-SPFA算法.md
       - "哈希表":
-          - algorithm/哈希表的大小为何是素数.md
+          - algorithm/hash/哈希表的大小为何是素数.md
+      - "二叉树":
+          - algorithm/binary_tree/二叉树的递归遍历.md
       - "线段树":
-          - algorithm/线段树.md
+          - algorithm/segment_tree/线段树.md
       - "树状数组":
-          - algorithm/树状数组.md
-          - algorithm/树状数组求逆序对.md
+          - algorithm/fenwick_tree/树状数组.md
+          - algorithm/fenwick_tree/树状数组求逆序对.md
   - '算法题集':
       - 'LeetCode':
           - 'LeetCode-0001': problem/leetcode/LeetCode-1. 两数之和.md
