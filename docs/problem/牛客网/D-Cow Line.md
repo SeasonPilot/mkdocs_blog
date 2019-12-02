@@ -2,6 +2,10 @@
 
 [TOC]
 
+```
+牛客假日团队赛9
+```
+
 ## 1、题目描述
 
 Farmer John's N cows (conveniently numbered `1..N`) are forming a line. The line begins with no cows and then, as time progresses, one by one, the cows join the line on the left or right side. Every once in a while, some number of cows on the left or right side of the line all leave the line to go graze in their favorite pasture.

@@ -1101,16 +1101,15 @@ nav:
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
-      - 'newcoder':
-          - '牛客假日团队赛9':
-              - problem/牛客网/牛客假日团队赛9/A-乘积最大.md
-              - problem/牛客网/牛客假日团队赛9/C-单词接龙.md
-              - problem/牛客网/牛客假日团队赛9/D-Cow Line.md
-              - problem/牛客网/牛客假日团队赛9/G-Cow Digit Game.md
-              - problem/牛客网/牛客假日团队赛9/I-旅行家的预算.md
-              - problem/牛客网/牛客假日团队赛9/L-回文数.md
+      - 'NewCoder':
+          - problem/牛客网/A-乘积最大.md
+          - problem/牛客网/C-单词接龙.md
+          - problem/牛客网/D-Cow Line.md
+          - problem/牛客网/G-Cow Digit Game.md
+          - problem/牛客网/I-旅行家的预算.md
+          - problem/牛客网/L-回文数.md
 
-      - 'hackerrank':
+      - 'HackerRank':
           - problem/hackerrank/Morgan-and-a-String.md
           - problem/hackerrank/Friend-Circle-Queries.md
           - problem/hackerrank/Maximum-Xor.md
@@ -1120,7 +1119,7 @@ nav:
           - problem/hackerrank/The-Minion-Game.md
           - problem/hackerrank/Array-Manipulation.md
           - problem/hackerrank/Count-Triplets.md
-      - 'Codefences':
+      - 'CodeFences':
           - "Round 271": 
               - problem/codefences/Round-271-D. Flowers.md
       
@@ -1128,7 +1127,7 @@ nav:
           - problem/InterviewQuestion/收集硬币.md
           - problem/InterviewQuestion/相同值的子树个数.md
 
-      - "leetcode-thoughtworks": 
+      - "LeetcodeThoughtworks": 
           - problem/leetcode-thoughtworks/1-猜数字.md
           - problem/leetcode-thoughtworks/2-分式化简.md
           - problem/leetcode-thoughtworks/3-机器人大冒险.md

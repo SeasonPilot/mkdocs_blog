@@ -2,6 +2,10 @@
 
 [TOC]
 
+```
+牛客假日团队赛9
+```
+
 ## 1、题目描述
 
 Bessie is playing a number game against Farmer John, and she wants you to help her achieve victory.
