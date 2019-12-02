@@ -136,6 +136,7 @@ nav:
           - "Dijkstra算法": algorithm/shortest_path/单源最短路径-Dijkstra算法.md
           - "Bellman-Ford算法": algorithm/shortest_path/单源最短路径-Bellman-Ford算法.md
           - "SPFA算法": algorithm/shortest_path/单源最短路径-SPFA算法.md
+          - "Floyd算法": algorithm/shortest_path/多源最短路径-Floyd算法.md
       - "哈希表":
           - algorithm/hash/哈希表的大小为何是素数.md
       - "二叉树":
