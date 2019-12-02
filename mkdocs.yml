@@ -1149,6 +1149,8 @@ nav:
       - "Mac使用技巧":
           - tools/Mac/Launchctl定时任务.md
           - tools/Mac/launchd添加开机启动程序.md
+      - "MkDocs":
+          - tools/mkdocs/emoji.md
   
   - '随笔记事':
       - essay/随笔记事.md
