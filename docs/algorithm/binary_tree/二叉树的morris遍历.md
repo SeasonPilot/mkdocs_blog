@@ -2,6 +2,8 @@
 
 [TOC]
 
+<img src="http://markdown-images-1251766755.cos.ap-beijing.myqcloud.com/notebook/2019-12-03-051746.png" alt="image-20191203131742924" style="zoom:50%;" />
+
 ## 1、前序遍历
 
 ```python

@@ -142,6 +142,7 @@ nav:
       - "二叉树":
           - algorithm/binary_tree/二叉树的递归遍历.md
           - algorithm/binary_tree/二叉树的morris遍历.md
+          - algorithm/binary_tree/二叉树基于栈遍历.md
       - "线段树":
           - algorithm/segment_tree/线段树.md
       - "树状数组":
