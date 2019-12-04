@@ -1069,6 +1069,7 @@ nav:
           - 'LeetCode-1207': problem/leetcode/LeetCode-1207. 独一无二的出现次数.md
           - 'LeetCode-1208': problem/leetcode/LeetCode-1208. 尽可能使字符串相等.md
           - 'LeetCode-1209': problem/leetcode/LeetCode-1209. 删除字符串中的所有相邻重复项 II.md
+          - 'LeetCode-1210': problem/leetcode/LeetCode-1210. 穿过迷宫的最少移动次数.md
           - 'LeetCode-1213': problem/leetcode/LeetCode-1213. 三个有序数组的交集.md
           - 'LeetCode-1214': problem/leetcode/LeetCode-1214. 查找两棵二叉搜索树之和.md
           - 'LeetCode-1217': problem/leetcode/LeetCode-1217. 玩筹码.md
