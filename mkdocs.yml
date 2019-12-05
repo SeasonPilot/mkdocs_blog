@@ -622,6 +622,7 @@ nav:
           - 'LeetCode-0560': problem/leetcode/LeetCode-560. 和为K的子数组.md
           - 'LeetCode-0561': problem/leetcode/LeetCode-561. 数组拆分 I.md
           - 'LeetCode-0563': problem/leetcode/LeetCode-563. 二叉树的坡度.md
+          - 'LeetCode-0564': problem/leetcode/LeetCode-564. 寻找最近的回文数.md
           - 'LeetCode-0565': problem/leetcode/LeetCode-565. 数组嵌套.md
           - 'LeetCode-0566': problem/leetcode/LeetCode-566. 重塑矩阵.md
           - 'LeetCode-0567': problem/leetcode/LeetCode-567. 字符串的排列.md
