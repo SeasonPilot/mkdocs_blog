@@ -856,6 +856,7 @@ nav:
           - 'LeetCode-0888': problem/leetcode/LeetCode-888. 公平的糖果交换.md
           - 'LeetCode-0889': problem/leetcode/LeetCode-889. 根据前序和后序遍历构造二叉树.md
           - 'LeetCode-0890': problem/leetcode/LeetCode-890. 查找和替换模式.md
+          - 'LeetCode-0891': problem/leetcode/LeetCode-891. 子序列宽度之和.md
           - 'LeetCode-0892': problem/leetcode/LeetCode-892. 三维形体的表面积.md
           - 'LeetCode-0893': problem/leetcode/LeetCode-893. 特殊等价字符串组.md
           - 'LeetCode-0894': problem/leetcode/LeetCode-894. 所有可能的满二叉树.md
