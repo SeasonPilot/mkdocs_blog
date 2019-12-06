@@ -1152,6 +1152,12 @@ nav:
           - problem/leetcode-thoughtworks/4-覆盖.md
           - problem/leetcode-thoughtworks/5-发 LeetCoin.md
 
+  - '求职面试':
+      - "剑指Offer":
+          - "索引": offer/CodingInterviews/剑指Offer.md
+          - offer/CodingInterviews/1-面试流程.md
+          - offer/CodingInterviews/2-实现Singleton模式.md
+
   - '资源集合': 
       - resources/awsome_linux_software.md
       - resources/awsome_linuxaudio.md
