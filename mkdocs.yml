@@ -920,6 +920,7 @@ nav:
           - 'LeetCode-0961': problem/leetcode/LeetCode-961. 重复 N 次的元素.md
           - 'LeetCode-0962': problem/leetcode/LeetCode-962. 最大宽度坡.md
           - 'LeetCode-0963': problem/leetcode/LeetCode-963. 最小面积矩形 II.md
+          - 'LeetCode-0964': problem/leetcode/LeetCode-964. 表示数字的最少运算符.md
           - 'LeetCode-0965': problem/leetcode/LeetCode-965. 单值二叉树.md
           - 'LeetCode-0966': problem/leetcode/LeetCode-966. 元音拼写检查器.md
           - 'LeetCode-0967': problem/leetcode/LeetCode-967. 连续差相同的数字.md
