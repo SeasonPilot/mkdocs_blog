@@ -1,4 +1,4 @@
-# 2-实现Singleton模式
+# Singleton单例模式
 
 [TOC]
 
