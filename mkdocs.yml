@@ -454,6 +454,7 @@ nav:
           - 'LeetCode-0322': problem/leetcode/LeetCode-322. 零钱兑换.md
           - 'LeetCode-0324': problem/leetcode/LeetCode-324. 摆动排序 II.md
           - 'LeetCode-0326': problem/leetcode/LeetCode-326. 3的幂.md
+          - 'LeetCode-0327': problem/leetcode/LeetCode-327. 区间和的个数.md
           - 'LeetCode-0328': problem/leetcode/LeetCode-328. 奇偶链表.md
           - 'LeetCode-0329': problem/leetcode/LeetCode-329. 矩阵中的最长递增路径.md
           - 'LeetCode-0331': problem/leetcode/LeetCode-331. 验证二叉树的前序序列化.md
