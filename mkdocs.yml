@@ -1123,6 +1123,7 @@ nav:
           - 'LeetCode-1277': problem/leetcode/LeetCode-1277. 统计全为 1 的正方形子矩阵.md
           - 'LeetCode-1278': problem/leetcode/LeetCode-1278. 分割回文串III.md
           - 'LeetCode-1281': problem/leetcode/LeetCode-1281. 整数的各位积和之差.md
+          - 'LeetCode-1282': problem/leetcode/LeetCode-1282. 用户分组.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
