@@ -1125,6 +1125,7 @@ nav:
           - 'LeetCode-1281': problem/leetcode/LeetCode-1281. 整数的各位积和之差.md
           - 'LeetCode-1282': problem/leetcode/LeetCode-1282. 用户分组.md
           - 'LeetCode-1283': problem/leetcode/LeetCode-1283. 使结果不超过阈值的最小除数.md
+          - 'LeetCode-1284': problem/leetcode/LeetCode-1284. 转化为全零矩阵的最少反转次数.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
