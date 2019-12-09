@@ -1107,6 +1107,7 @@ nav:
           - 'LeetCode-1252': problem/leetcode/LeetCode-1252. 奇数值单元格的数目.md
           - 'LeetCode-1253': problem/leetcode/LeetCode-1253. 重构2行二进制矩阵.md
           - 'LeetCode-1254': problem/leetcode/LeetCode-1254. 统计封闭岛屿的数目.md
+          - 'LeetCode-1255': problem/leetcode/LeetCode-1255. 得分最高的单词集合.md
           - 'LeetCode-1256': problem/leetcode/LeetCode-1256. 加密数字.md
           - 'LeetCode-1260': problem/leetcode/LeetCode-1260. 二维网格迁移.md
           - 'LeetCode-1261': problem/leetcode/LeetCode-1261. 在受污染的二叉树中查找元素.md
