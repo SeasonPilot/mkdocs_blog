@@ -104,3 +104,39 @@ class Solution:
     
 ```
 
+
+
+
+
+```python
+from collections import deque
+
+
+class Solution:
+    def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
+        length = len(nums)
+        if k<=1 or length<=1:
+            return nums
+        d = deque(maxlen=k)
+        ans = []
+        
+        for i in range(k):
+            while d and nums[i] >= nums[d[-1]]:
+                d.pop()
+            d.append(i)
+        
+        ans.append(nums[d[0]])
+        
+        
+        for i in range(k,length):
+            if d[0] == i-k:
+                d.popleft()
+            while d and nums[i] >= nums[d[-1]]:
+                d.pop()
+            d.append(i)
+            ans.append(nums[d[0]])
+        return ans
+            
+            
+```
+
