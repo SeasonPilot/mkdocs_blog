@@ -457,6 +457,7 @@ nav:
           - 'LeetCode-0327': problem/leetcode/LeetCode-327. 区间和的个数.md
           - 'LeetCode-0328': problem/leetcode/LeetCode-328. 奇偶链表.md
           - 'LeetCode-0329': problem/leetcode/LeetCode-329. 矩阵中的最长递增路径.md
+          - 'LeetCode-0330': problem/leetcode/LeetCode-330. 按要求补齐数组.md
           - 'LeetCode-0331': problem/leetcode/LeetCode-331. 验证二叉树的前序序列化.md
           - 'LeetCode-0332': problem/leetcode/LeetCode-332. 重新安排行程.md
           - 'LeetCode-0334': problem/leetcode/LeetCode-334. 递增的三元子序列.md
