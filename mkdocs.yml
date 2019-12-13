@@ -501,6 +501,7 @@ nav:
           - 'LeetCode-0388': problem/leetcode/LeetCode-388. 文件的最长绝对路径.md
           - 'LeetCode-0389': problem/leetcode/LeetCode-389. 找不同.md
           - 'LeetCode-0390': problem/leetcode/LeetCode-390. 消除游戏.md
+          - 'LeetCode-0391': problem/leetcode/LeetCode-391. 完美矩形.md
           - 'LeetCode-0392': problem/leetcode/LeetCode-392. 判断子序列.md
           - 'LeetCode-0393': problem/leetcode/LeetCode-393. UTF-8 编码验证.md
           - 'LeetCode-0394': problem/leetcode/LeetCode-394. 字符串解码.md
