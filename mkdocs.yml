@@ -970,6 +970,7 @@ nav:
           - 'LeetCode-1009': problem/leetcode/LeetCode-1009. 十进制整数的反码.md
           - 'LeetCode-1010': problem/leetcode/LeetCode-1010. 总持续时间可被 60 整除的歌曲.md
           - 'LeetCode-1011': problem/leetcode/LeetCode-1011. 在 D 天内送达包裹的能力.md
+          - 'LeetCode-1012': problem/leetcode/LeetCode-1012. 至少有1位重复的数字.md
           - 'LeetCode-1013': problem/leetcode/LeetCode-1013. 将数组分成和相等的三个部分.md
           - 'LeetCode-1014': problem/leetcode/LeetCode-1014. 最佳观光组合.md
           - 'LeetCode-1015': problem/leetcode/LeetCode-1015. 可被 K 整除的最小整数.md
