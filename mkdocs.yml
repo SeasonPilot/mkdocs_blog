@@ -1097,6 +1097,7 @@ nav:
           - 'LeetCode-1221': problem/leetcode/LeetCode-1221. 分割平衡字符串.md
           - 'LeetCode-1222': problem/leetcode/LeetCode-1222. 可以攻击国王的皇后.md
           - 'LeetCode-1223': problem/leetcode/LeetCode-1223. 掷骰子模拟.md
+          - 'LeetCode-1224': problem/leetcode/LeetCode-1224. 最大相等频率.md
           - 'LeetCode-1227': problem/leetcode/LeetCode-1227. 飞机座位分配概率.md
           - 'LeetCode-1228': problem/leetcode/LeetCode-1228. 等差数列中缺失的数字.md
           - 'LeetCode-1232': problem/leetcode/LeetCode-1232. 缀点成线.md
