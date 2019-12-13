@@ -518,6 +518,7 @@ nav:
           - 'LeetCode-0406': problem/leetcode/LeetCode-406. 根据身高重建队列.md
           - 'LeetCode-0408': problem/leetcode/LeetCode-408. 有效单词缩写.md
           - 'LeetCode-0409': problem/leetcode/LeetCode-409. 最长回文串.md
+          - 'LeetCode-0410': problem/leetcode/LeetCode-410. 分割数组的最大值.md
           - 'LeetCode-0412': problem/leetcode/LeetCode-412. Fizz Buzz.md
           - 'LeetCode-0413': problem/leetcode/LeetCode-413. 等差数列划分.md
           - 'LeetCode-0414': problem/leetcode/LeetCode-414. 第三大的数.md
