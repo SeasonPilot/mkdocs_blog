@@ -959,6 +959,7 @@ nav:
           - 'LeetCode-0997': problem/leetcode/LeetCode-997. 找到小镇的法官.md
           - 'LeetCode-0998': problem/leetcode/LeetCode-998. 最大二叉树 II.md
           - 'LeetCode-0999': problem/leetcode/LeetCode-999. 车的可用捕获量.md
+          - 'LeetCode-1000': problem/leetcode/LeetCode-1000. 合并石头的最低成本.md
           - 'LeetCode-1001': problem/leetcode/LeetCode-1001. 网格照明.md
           - 'LeetCode-1002': problem/leetcode/LeetCode-1002. 查找常用字符.md
           - 'LeetCode-1003': problem/leetcode/LeetCode-1003. 检查替换后的词是否有效.md
