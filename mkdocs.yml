@@ -323,6 +323,7 @@ nav:
           - 'LeetCode-0171': problem/leetcode/LeetCode-171. Excel表列序号.md
           - 'LeetCode-0172': problem/leetcode/LeetCode-172. 阶乘后的零.md
           - 'LeetCode-0173': problem/leetcode/LeetCode-173. 二叉搜索树迭代器.md
+          - 'LeetCode-0174': problem/leetcode/LeetCode-174. 地下城游戏.md
           - 'LeetCode-0175': problem/leetcode/LeetCode-175 . 组合两个表.md
           - 'LeetCode-0176': problem/leetcode/LeetCode-176. 第二高的薪水.md
           - 'LeetCode-0177': problem/leetcode/LeetCode-177. 第N高的薪水.md
