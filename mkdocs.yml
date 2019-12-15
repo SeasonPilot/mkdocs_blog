@@ -1140,6 +1140,7 @@ nav:
           - 'LeetCode-1284': problem/leetcode/LeetCode-1284. 转化为全零矩阵的最少反转次数.md
           - 'LeetCode-1286': problem/leetcode/LeetCode-1286. 字母组合迭代器.md
           - 'LeetCode-1287': problem/leetcode/LeetCode-1287. 有序数组中出现次数超过25%的元素.md
+          - 'LeetCode-1288': problem/leetcode/LeetCode-1288. 删除被覆盖区间.md
           - 'LeetCode-1290': problem/leetcode/LeetCode-1290. 二进制链表转整数.md
           - 'LeetCode-1291': problem/leetcode/LeetCode-1291. 顺次数.md
           - 'LeetCode-1292': problem/leetcode/LeetCode-1292. 元素和小于等于阈值的正方形的最大边长.md
