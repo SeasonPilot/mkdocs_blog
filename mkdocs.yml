@@ -480,6 +480,7 @@ nav:
           - 'LeetCode-0355': problem/leetcode/LeetCode-355. 设计推特.md
           - 'LeetCode-0357': problem/leetcode/LeetCode-357. 计算各个位数不同的数字个数.md
           - 'LeetCode-0359': problem/leetcode/LeetCode-359. 日志速率限制器.md
+          - 'LeetCode-0363': problem/leetcode/LeetCode-363. 矩形区域不超过 K 的最大数值和.md
           - 'LeetCode-0365': problem/leetcode/LeetCode-365. 水壶问题.md
           - 'LeetCode-0367': problem/leetcode/LeetCode-367. 有效的完全平方数.md
           - 'LeetCode-0368': problem/leetcode/LeetCode-368. 最大整除子集.md
