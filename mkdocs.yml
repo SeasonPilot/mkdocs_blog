@@ -515,6 +515,7 @@ nav:
           - 'LeetCode-0400': problem/leetcode/LeetCode-400. 第N个数字.md
           - 'LeetCode-0401': problem/leetcode/LeetCode-401. 二进制手表.md
           - 'LeetCode-0402': problem/leetcode/LeetCode-402. 移掉K位数字.md
+          - 'LeetCode-0403': problem/leetcode/LeetCode-403. 青蛙过河.md
           - 'LeetCode-0404': problem/leetcode/LeetCode-404. 左叶子之和.md
           - 'LeetCode-0405': problem/leetcode/LeetCode-405. 数字转换为十六进制数.md
           - 'LeetCode-0406': problem/leetcode/LeetCode-406. 根据身高重建队列.md
