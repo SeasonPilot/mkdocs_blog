@@ -10,7 +10,7 @@ repo_url: 'https://github.com/gaviners/mkdocs_blog'
 edit_uri: 'blob/mkdocs_blog/docs/'
 
 # Copyright
-copyright: 'Copyright &copy; 2017 - 2019 Gavin zhishengqianjun@163.com'
+copyright: 'Copyright &copy; <a href="http://beian.miit.gov.cn">京ICP备19057374号-1</a>'
 
 use_directory_urls: false
 

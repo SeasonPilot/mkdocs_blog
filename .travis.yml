@@ -37,7 +37,7 @@ after_script:
    - git config user.name "zhishengqianjun"
    - git config user.email "zhishengqianjun@163.com"
    - git add .
-   - git commit -m "Update sphinx By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+   - git commit -m "Update docs By TravisCI With Build $TRAVIS_BUILD_NUMBER"
    - git push --force --quiet "https://zhishengqianjun:${CO_TOKEN}@${CO_REF}" master:master
    - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
    - git push --force --quiet "https://${GH_TOKEN}@${GH_REF_IO}" master:master
