@@ -519,6 +519,7 @@ nav:
           - 'LeetCode-0404': problem/leetcode/LeetCode-404. 左叶子之和.md
           - 'LeetCode-0405': problem/leetcode/LeetCode-405. 数字转换为十六进制数.md
           - 'LeetCode-0406': problem/leetcode/LeetCode-406. 根据身高重建队列.md
+          - 'LeetCode-0407': problem/leetcode/LeetCode-407. 接雨水II.md
           - 'LeetCode-0408': problem/leetcode/LeetCode-408. 有效单词缩写.md
           - 'LeetCode-0409': problem/leetcode/LeetCode-409. 最长回文串.md
           - 'LeetCode-0410': problem/leetcode/LeetCode-410. 分割数组的最大值.md
