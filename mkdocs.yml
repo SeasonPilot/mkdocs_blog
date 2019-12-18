@@ -1127,6 +1127,7 @@ nav:
           - 'LeetCode-1260': problem/leetcode/LeetCode-1260. 二维网格迁移.md
           - 'LeetCode-1261': problem/leetcode/LeetCode-1261. 在受污染的二叉树中查找元素.md
           - 'LeetCode-1262': problem/leetcode/LeetCode-1262. 可被三整除的最大和.md
+          - 'LeetCode-1263': problem/leetcode/LeetCode-1263. 推箱子.md
           - 'LeetCode-1266': problem/leetcode/LeetCode-1266. 访问所有点的最小时间.md
           - 'LeetCode-1267': problem/leetcode/LeetCode-1267. 统计参与通信的服务器.md
           - 'LeetCode-1268': problem/leetcode/LeetCode-1268. 搜索推荐系统.md
