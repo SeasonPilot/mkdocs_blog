@@ -1129,6 +1129,7 @@ nav:
           - 'LeetCode-1255': problem/leetcode/LeetCode-1255. 得分最高的单词集合.md
           - 'LeetCode-1256': problem/leetcode/LeetCode-1256. 加密数字.md
           - 'LeetCode-1257': problem/leetcode/LeetCode-1257. 最小公共区域.md
+          - 'LeetCode-1258': problem/leetcode/LeetCode-1258. 近义词句子.md
           - 'LeetCode-1260': problem/leetcode/LeetCode-1260. 二维网格迁移.md
           - 'LeetCode-1261': problem/leetcode/LeetCode-1261. 在受污染的二叉树中查找元素.md
           - 'LeetCode-1262': problem/leetcode/LeetCode-1262. 可被三整除的最大和.md
