@@ -432,6 +432,7 @@ nav:
           - 'LeetCode-0283': problem/leetcode/LeetCode-283. 移动零.md
           - 'LeetCode-0284': problem/leetcode/LeetCode-284. 顶端迭代器.md
           - 'LeetCode-0285': problem/leetcode/LeetCode-285. 二叉搜索树中的顺序后继.md
+          - 'LeetCode-0286': problem/leetcode/LeetCode-286. 墙与门.md
           - 'LeetCode-0287': problem/leetcode/LeetCode-287. 寻找重复数.md
           - 'LeetCode-0289': problem/leetcode/LeetCode-289. 生命游戏.md
           - 'LeetCode-0290': problem/leetcode/LeetCode-290. 单词模式.md
