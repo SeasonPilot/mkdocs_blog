@@ -439,6 +439,7 @@ nav:
           - 'LeetCode-0290': problem/leetcode/LeetCode-290. 单词模式.md
           - 'LeetCode-0292': problem/leetcode/LeetCode-292.Nim游戏.md
           - 'LeetCode-0293': problem/leetcode/LeetCode-293. 翻转游戏.md
+          - 'LeetCode-0294': problem/leetcode/LeetCode-294. 翻转游戏II.md
           - 'LeetCode-0295': problem/leetcode/LeetCode-295. 数据流的中位数.md
           - 'LeetCode-0297': problem/leetcode/LeetCode-297. 二叉树的序列化与反序列化.md
           - 'LeetCode-0299': problem/leetcode/LeetCode-299. 猜数字游戏.md
