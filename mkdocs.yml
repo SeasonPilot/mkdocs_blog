@@ -309,6 +309,7 @@ nav:
           - 'LeetCode-0155': problem/leetcode/LeetCode-155. 最小栈.md
           - 'LeetCode-0156': problem/leetcode/LeetCode-156. 上下翻转二叉树.md
           - 'LeetCode-0157': problem/leetcode/LeetCode-157. 用 Read4 读取 N 个字符.md
+          - 'LeetCode-0159': problem/leetcode/LeetCode-159. 至多包含两个不同字符的最长子串.md
           - 'LeetCode-0160': problem/leetcode/LeetCode-160 . 相交链表.md
           - 'LeetCode-0161': problem/leetcode/LeetCode-161. 相隔为 1 的编辑距离.md
           - 'LeetCode-0162': problem/leetcode/LeetCode-162. 寻找峰值.md
