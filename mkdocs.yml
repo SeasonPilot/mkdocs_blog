@@ -460,6 +460,7 @@ nav:
           - 'LeetCode-0316': problem/leetcode/LeetCode-316. 去除重复字母.md
           - 'LeetCode-0318': problem/leetcode/LeetCode-318. 最大单词长度乘积.md
           - 'LeetCode-0319': problem/leetcode/LeetCode-319. 灯泡开关.md
+          - 'LeetCode-0320': problem/leetcode/LeetCode-320. 列举单词的全部缩写.md
           - 'LeetCode-0321': problem/leetcode/LeetCode-321. 拼接最大数.md
           - 'LeetCode-0322': problem/leetcode/LeetCode-322. 零钱兑换.md
           - 'LeetCode-0323': problem/leetcode/LeetCode-323. 无向图中连通分量的数目.md
