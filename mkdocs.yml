@@ -487,6 +487,7 @@ nav:
           - 'LeetCode-0345': problem/leetcode/LeetCode-345. 反转字符串中的元音字母.md
           - 'LeetCode-0346': problem/leetcode/LeetCode-346. 数据流中的移动平均值.md
           - 'LeetCode-0347': problem/leetcode/LeetCode-347. 前K个高频元素.md
+          - 'LeetCode-0348': problem/leetcode/LeetCode-348. 判定井字棋胜负.md
           - 'LeetCode-0349': problem/leetcode/LeetCode-349. 两个数组的交集.md
           - 'LeetCode-0350': problem/leetcode/LeetCode-350. 两个数组的交集 II.md
           - 'LeetCode-0351': problem/leetcode/LeetCode-351. 安卓系统手势解锁.md
