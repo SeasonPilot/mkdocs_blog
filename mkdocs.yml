@@ -452,6 +452,7 @@ nav:
           - 'LeetCode-0307': problem/leetcode/LeetCode-307. 区域和检索 - 数组可修改.md
           - 'LeetCode-0309': problem/leetcode/LeetCode-309. 最佳买卖股票时机含冷冻期.md
           - 'LeetCode-0310': problem/leetcode/LeetCode-310. 最小高度树.md
+          - 'LeetCode-0311': problem/leetcode/LeetCode-311. 稀疏矩阵的乘法.md
           - 'LeetCode-0312': problem/leetcode/LeetCode-312. 戳气球.md
           - 'LeetCode-0313': problem/leetcode/LeetCode-313. 超级丑数.md
           - 'LeetCode-0315': problem/leetcode/LeetCode-315. 计算右侧小于当前元素的个数.md
