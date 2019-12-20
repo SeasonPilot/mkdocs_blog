@@ -465,6 +465,7 @@ nav:
           - 'LeetCode-0322': problem/leetcode/LeetCode-322. 零钱兑换.md
           - 'LeetCode-0323': problem/leetcode/LeetCode-323. 无向图中连通分量的数目.md
           - 'LeetCode-0324': problem/leetcode/LeetCode-324. 摆动排序 II.md
+          - 'LeetCode-0325': problem/leetcode/LeetCode-325. 和等于 k 的最长子数组长度.md
           - 'LeetCode-0326': problem/leetcode/LeetCode-326. 3的幂.md
           - 'LeetCode-0327': problem/leetcode/LeetCode-327. 区间和的个数.md
           - 'LeetCode-0328': problem/leetcode/LeetCode-328. 奇偶链表.md
