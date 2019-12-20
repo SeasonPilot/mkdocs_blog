@@ -486,6 +486,7 @@ nav:
           - 'LeetCode-0347': problem/leetcode/LeetCode-347. 前K个高频元素.md
           - 'LeetCode-0349': problem/leetcode/LeetCode-349. 两个数组的交集.md
           - 'LeetCode-0350': problem/leetcode/LeetCode-350. 两个数组的交集 II.md
+          - 'LeetCode-0351': problem/leetcode/LeetCode-351. 安卓系统手势解锁.md
           - 'LeetCode-0352': problem/leetcode/LeetCode-352. 将数据流变为多个不相交区间.md
           - 'LeetCode-0355': problem/leetcode/LeetCode-355. 设计推特.md
           - 'LeetCode-0357': problem/leetcode/LeetCode-357. 计算各个位数不同的数字个数.md
