@@ -654,6 +654,7 @@ nav:
           - 'LeetCode-0576': problem/leetcode/LeetCode-576. 出界的路径数.md
           - 'LeetCode-0577': problem/leetcode/LeetCode-577. 员工奖金.md
           - 'LeetCode-0581': problem/leetcode/LeetCode-581. 最短无序连续子数组.md
+          - 'LeetCode-0582': problem/leetcode/LeetCode-582. 杀死进程.md
           - 'LeetCode-0583': problem/leetcode/LeetCode-583. 两个字符串的删除操作.md
           - 'LeetCode-0589': problem/leetcode/LeetCode-589. N叉树的前序遍历.md
           - 'LeetCode-0590': problem/leetcode/LeetCode-590. N叉树的后序遍历.md
