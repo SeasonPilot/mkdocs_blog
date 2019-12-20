@@ -494,6 +494,7 @@ nav:
           - 'LeetCode-0352': problem/leetcode/LeetCode-352. 将数据流变为多个不相交区间.md
           - 'LeetCode-0353': problem/leetcode/LeetCode-353. 贪吃蛇.md
           - 'LeetCode-0355': problem/leetcode/LeetCode-355. 设计推特.md
+          - 'LeetCode-0356': problem/leetcode/LeetCode-356. 直线镜像.md
           - 'LeetCode-0357': problem/leetcode/LeetCode-357. 计算各个位数不同的数字个数.md
           - 'LeetCode-0359': problem/leetcode/LeetCode-359. 日志速率限制器.md
           - 'LeetCode-0363': problem/leetcode/LeetCode-363. 矩形区域不超过 K 的最大数值和.md
