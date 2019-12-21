@@ -603,6 +603,7 @@ nav:
           - 'LeetCode-0485': problem/leetcode/LeetCode-485. 最大连续1的个数.md
           - 'LeetCode-0486': problem/leetcode/LeetCode-486. 预测赢家.md
           - 'LeetCode-0487': problem/leetcode/LeetCode-487. 最大连续1的个数II.md
+          - 'LeetCode-0490': problem/leetcode/LeetCode-490. 迷宫.md
           - 'LeetCode-0491': problem/leetcode/LeetCode-491. 递增子序列.md
           - 'LeetCode-0492': problem/leetcode/LeetCode-492. 构造矩形.md
           - 'LeetCode-0493': problem/leetcode/LeetCode-493. 翻转对.md
