@@ -501,6 +501,7 @@ nav:
           - 'LeetCode-0361': problem/leetcode/LeetCode-361. 轰炸敌人.md
           - 'LeetCode-0362': problem/leetcode/LeetCode-362. 敲击计数器.md
           - 'LeetCode-0363': problem/leetcode/LeetCode-363. 矩形区域不超过 K 的最大数值和.md
+          - 'LeetCode-0364': problem/leetcode/LeetCode-364. 加权嵌套序列和II.md
           - 'LeetCode-0365': problem/leetcode/LeetCode-365. 水壶问题.md
           - 'LeetCode-0367': problem/leetcode/LeetCode-367. 有效的完全平方数.md
           - 'LeetCode-0368': problem/leetcode/LeetCode-368. 最大整除子集.md
