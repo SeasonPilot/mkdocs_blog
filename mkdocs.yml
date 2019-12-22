@@ -503,6 +503,7 @@ nav:
           - 'LeetCode-0363': problem/leetcode/LeetCode-363. 矩形区域不超过 K 的最大数值和.md
           - 'LeetCode-0364': problem/leetcode/LeetCode-364. 加权嵌套序列和II.md
           - 'LeetCode-0365': problem/leetcode/LeetCode-365. 水壶问题.md
+          - 'LeetCode-0366': problem/leetcode/LeetCode-366. 寻找完全二叉树的叶子节点.md
           - 'LeetCode-0367': problem/leetcode/LeetCode-367. 有效的完全平方数.md
           - 'LeetCode-0368': problem/leetcode/LeetCode-368. 最大整除子集.md
           - 'LeetCode-0371': problem/leetcode/LeetCode-371.两整数之和.md
