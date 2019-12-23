@@ -153,6 +153,7 @@ nav:
           - design_pattern/creational_pattern/Singleton模式.md
           - design_pattern/creational_pattern/Prototype原型模式.md
           - design_pattern/creational_pattern/Factory工厂模式.md
+          - design_pattern/creational_pattern/Builder建造者模式.md
             #- "结构型模式":
             #- "行为型模式":
   - '算法题集':
