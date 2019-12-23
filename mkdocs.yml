@@ -554,6 +554,7 @@ nav:
           - 'LeetCode-0415': problem/leetcode/LeetCode-415. 字符串相加.md
           - 'LeetCode-0416': problem/leetcode/LeetCode-416. 分割等和子集.md
           - 'LeetCode-0417': problem/leetcode/LeetCode-417. 太平洋大西洋水流问题.md
+          - 'LeetCode-0418': problem/leetcode/LeetCode-418. 屏幕可显示句子的数量.md
           - 'LeetCode-0419': problem/leetcode/LeetCode-419. 甲板上的战舰.md
           - 'LeetCode-0421': problem/leetcode/LeetCode-421. 数组中两个数的最大异或值.md
           - 'LeetCode-0422': problem/leetcode/LeetCode-422. 有效的单词方块.md
