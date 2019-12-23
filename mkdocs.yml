@@ -506,6 +506,7 @@ nav:
           - 'LeetCode-0366': problem/leetcode/LeetCode-366. 寻找完全二叉树的叶子节点.md
           - 'LeetCode-0367': problem/leetcode/LeetCode-367. 有效的完全平方数.md
           - 'LeetCode-0368': problem/leetcode/LeetCode-368. 最大整除子集.md
+          - 'LeetCode-0369': problem/leetcode/LeetCode-369. 给单链表加一.md
           - 'LeetCode-0371': problem/leetcode/LeetCode-371.两整数之和.md
           - 'LeetCode-0372': problem/leetcode/LeetCode-372. 超级次方.md
           - 'LeetCode-0373': problem/leetcode/LeetCode-373. 查找和最小的K对数字.md
