@@ -571,6 +571,7 @@ nav:
           - 'LeetCode-0436': problem/leetcode/LeetCode-436. 寻找右区间.md
           - 'LeetCode-0437': problem/leetcode/LeetCode-437. 路径总和 III.md
           - 'LeetCode-0438': problem/leetcode/LeetCode-438 . 找到字符串中所有字母异位词.md
+          - 'LeetCode-0439': problem/leetcode/LeetCode-439. 三元表达式解析器.md
           - 'LeetCode-0441': problem/leetcode/LeetCode-441. 排列硬币.md
           - 'LeetCode-0442': problem/leetcode/LeetCode-442. 数组中重复的数据.md
           - 'LeetCode-0443': problem/leetcode/LeetCode-443. 压缩字符串.md
