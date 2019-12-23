@@ -1,28 +1,21 @@
-# 博客简介
+# 进击的技术
 
-
-
-​	本文博客主要是基于平时的积累，将一些笔记与想法记录下来。
-
-
+本站主要对一些技术做分享，类目如下
 
   - 编程语言
-  - 计算机基
-  - 数学基础
+  - 计算机
   - 机器学习
-  - 大数据
-  - 云计算
-  - 自然语言处理
   - 项目集锦
+  - 算法与数据结构
+  - 设计模式
   - 算法题集
   - 常用工具
-  - 作者简介
 
 
 
-## 博客工具
+## 工具
 
-​    博客工具主要是基于 [mkdocs.org](https://mkdocs.org)，详情参见具体链接.
+工具主要是基于 [mkdocs.org](https://mkdocs.org)，详情参见具体链接.
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
