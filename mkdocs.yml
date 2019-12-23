@@ -1190,6 +1190,7 @@ nav:
           - 'LeetCode-1293': problem/leetcode/LeetCode-1293. 网格中的最短路径.md
           - 'LeetCode-1295': problem/leetcode/LeetCode-1295. 统计位数为偶数的数字.md
           - 'LeetCode-1296': problem/leetcode/LeetCode-1296. 划分数组为连续数字的集合.md
+          - 'LeetCode-1297': problem/leetcode/LeetCode-1297. 子串的最大出现次数.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
