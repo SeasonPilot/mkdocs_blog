@@ -581,6 +581,7 @@ nav:
           - 'LeetCode-0441': problem/leetcode/LeetCode-441. 排列硬币.md
           - 'LeetCode-0442': problem/leetcode/LeetCode-442. 数组中重复的数据.md
           - 'LeetCode-0443': problem/leetcode/LeetCode-443. 压缩字符串.md
+          - 'LeetCode-0444': problem/leetcode/LeetCode-444. 序列重建.md
           - 'LeetCode-0445': problem/leetcode/LeetCode-445. 两数相加 II.md
           - 'LeetCode-0447': problem/leetcode/LeetCode-447. 回旋镖的数量.md
           - 'LeetCode-0448': problem/leetcode/LeetCode-448. 找到所有数组中消失的数字.md
