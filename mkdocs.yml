@@ -638,6 +638,7 @@ nav:
           - 'LeetCode-0507': problem/leetcode/LeetCode-507. 完美数.md
           - 'LeetCode-0508': problem/leetcode/LeetCode-508. 出现次数最多的子树元素和.md
           - 'LeetCode-0509': problem/leetcode/LeetCode-509. 斐波那契数.md
+          - 'LeetCode-0510': problem/leetcode/LeetCode-510. 二叉搜索树中的中序后继II.md
           - 'LeetCode-0513': problem/leetcode/LeetCode-513. 找树左下角的值.md
           - 'LeetCode-0515': problem/leetcode/LeetCode-515. 在每个树行中找最大值.md
           - 'LeetCode-0516': problem/leetcode/LeetCode-516. 最长回文子序列.md
