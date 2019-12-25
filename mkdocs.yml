@@ -604,6 +604,7 @@ nav:
           - 'LeetCode-0466': problem/leetcode/LeetCode-466. 统计重复个数.md
           - 'LeetCode-0467': problem/leetcode/LeetCode-467. 环绕字符串中唯一的子字符串.md
           - 'LeetCode-0468': problem/leetcode/LeetCode-468. 验证IP地址.md
+          - 'LeetCode-0469': problem/leetcode/LeetCode-469. 凸多边形.md
           - 'LeetCode-0470': problem/leetcode/LeetCode-470. 用 Rand7() 实现 Rand10().md
           - 'LeetCode-0472': problem/leetcode/LeetCode-472. 连接词.md
           - 'LeetCode-0473': problem/leetcode/LeetCode-473. 火柴拼正方形.md
