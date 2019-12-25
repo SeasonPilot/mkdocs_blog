@@ -654,6 +654,7 @@ nav:
           - 'LeetCode-0528': problem/leetcode/LeetCode-528. 按权重随机选择.md
           - 'LeetCode-0529': problem/leetcode/LeetCode-529. 扫雷游戏.md
           - 'LeetCode-0530': problem/leetcode/LeetCode-530. 二叉搜索树的最小绝对差.md
+          - 'LeetCode-0531': problem/leetcode/LeetCode-531. 孤独像素I.md
           - 'LeetCode-0532': problem/leetcode/LeetCode-532. 数组中的K-diff数对.md
           - 'LeetCode-0535': problem/leetcode/LeetCode-535. TinyURL 的加密与解密.md
           - 'LeetCode-0537': problem/leetcode/LeetCode-537. 复数乘法.md
