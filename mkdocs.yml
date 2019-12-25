@@ -669,6 +669,7 @@ nav:
           - 'LeetCode-0545': problem/leetcode/LeetCode-545. 二叉树的边界.md
           - 'LeetCode-0546': problem/leetcode/LeetCode-546. 移除盒子.md
           - 'LeetCode-0547': problem/leetcode/LeetCode-547. 朋友圈.md
+          - 'LeetCode-0549': problem/leetcode/LeetCode-549. 二叉树中最长的连续序列.md
           - 'LeetCode-0551': problem/leetcode/LeetCode-551. 学生出勤纪录 I.md
           - 'LeetCode-0553': problem/leetcode/LeetCode-553. 最优除法.md
           - 'LeetCode-0554': problem/leetcode/LeetCode-554. 砖墙.md
