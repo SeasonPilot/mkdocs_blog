@@ -658,6 +658,7 @@ nav:
           - 'LeetCode-0532': problem/leetcode/LeetCode-532. 数组中的K-diff数对.md
           - 'LeetCode-0533': problem/leetcode/LeetCode-533. 孤独像素II.md
           - 'LeetCode-0535': problem/leetcode/LeetCode-535. TinyURL 的加密与解密.md
+          - 'LeetCode-0536': problem/leetcode/LeetCode-536. 从字符串生成二叉树.md
           - 'LeetCode-0537': problem/leetcode/LeetCode-537. 复数乘法.md
           - 'LeetCode-0538': problem/leetcode/LeetCode-538. 把二叉搜索树转换为累加树.md
           - 'LeetCode-0539': problem/leetcode/LeetCode-539. 最小时间差.md
