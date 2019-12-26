@@ -675,6 +675,7 @@ nav:
           - 'LeetCode-0551': problem/leetcode/LeetCode-551. 学生出勤纪录 I.md
           - 'LeetCode-0553': problem/leetcode/LeetCode-553. 最优除法.md
           - 'LeetCode-0554': problem/leetcode/LeetCode-554. 砖墙.md
+          - 'LeetCode-0555': problem/leetcode/LeetCode-555. 分割连接字符串.md
           - 'LeetCode-0556': problem/leetcode/LeetCode-556. 下一个更大元素 III.md
           - 'LeetCode-0557': problem/leetcode/LeetCode-557. 反转字符串中的单词 III.md
           - 'LeetCode-0558': problem/leetcode/LeetCode-558. 四叉树交集.md
