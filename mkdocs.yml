@@ -803,6 +803,7 @@ nav:
           - 'LeetCode-0738': problem/leetcode/LeetCode-738. 单调递增的数字.md
           - 'LeetCode-0739': problem/leetcode/LeetCode-739. 每日温度.md
           - 'LeetCode-0740': problem/leetcode/LeetCode-740. 删除与获得点数.md
+          - 'LeetCode-0742': problem/leetcode/LeetCode-742. 二叉树最近的叶节点.md
           - 'LeetCode-0743': problem/leetcode/LeetCode-743. 网络延迟时间.md
           - 'LeetCode-0744': problem/leetcode/LeetCode-744. 寻找比目标字母大的最小字母.md
           - 'LeetCode-0745': problem/leetcode/LeetCode-745. 前缀和后缀搜索.md
