@@ -829,6 +829,7 @@ nav:
           - 'LeetCode-0771': problem/leetcode/LeetCode-771. 宝石与石头.md
           - 'LeetCode-0773': problem/leetcode/LeetCode-773. 滑动谜题.md
           - 'LeetCode-0775': problem/leetcode/LeetCode-775. 全局倒置与局部倒置.md
+          - 'LeetCode-0776': problem/leetcode/LeetCode-776. 拆分二叉搜索树.md
           - 'LeetCode-0777': problem/leetcode/LeetCode-777. 在LR字符串中交换相邻字符.md
           - 'LeetCode-0778': problem/leetcode/LeetCode-778. 水位上升的泳池中游泳.md
           - 'LeetCode-0779': problem/leetcode/LeetCode-779. 第K个语法符号.md
