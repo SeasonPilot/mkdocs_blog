@@ -744,6 +744,7 @@ nav:
           - 'LeetCode-0662': problem/leetcode/LeetCode-662. 二叉树最大宽度.md
           - 'LeetCode-0663': problem/leetcode/LeetCode-663. 均匀树划分.md
           - 'LeetCode-0665': problem/leetcode/LeetCode-665. 非递减数列.md
+          - 'LeetCode-0666': problem/leetcode/LeetCode-666. 路径和IV.md
           - 'LeetCode-0667': problem/leetcode/LeetCode-667. 优美的排列 II.md
           - 'LeetCode-0669': problem/leetcode/LeetCode-669. 修剪二叉搜索树.md
           - 'LeetCode-0670': problem/leetcode/LeetCode-670. 最大交换.md
