@@ -1135,6 +1135,7 @@ nav:
           - 'LeetCode-1162': problem/leetcode/LeetCode-1162. 地图分析.md
           - 'LeetCode-1165': problem/leetcode/LeetCode-1165. 单行键盘.md
           - 'LeetCode-1166': problem/leetcode/LeetCode-1166. 设计文件系统.md
+          - 'LeetCode-1168': problem/leetcode/LeetCode-1168. 水资源分配优化.md
           - 'LeetCode-1169': problem/leetcode/LeetCode-1169. 查询无效交易.md
           - 'LeetCode-1170': problem/leetcode/LeetCode-1170. 比较字符串最小字母出现频次.md
           - 'LeetCode-1171': problem/leetcode/LeetCode-1171. 从链表中删去总和值为零的连续节点.md
