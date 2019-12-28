@@ -454,6 +454,7 @@ nav:
           - 'LeetCode-0301': problem/leetcode/LeetCode-301. 删除无效的括号.md
           - 'LeetCode-0303': problem/leetcode/LeetCode-303. 区域和检索 - 数组不可变.md
           - 'LeetCode-0304': problem/leetcode/LeetCode-304. 二维区域和检索 - 矩阵不可变.md
+          - 'LeetCode-0305': problem/leetcode/LeetCode-305. 岛屿数量II.md
           - 'LeetCode-0306': problem/leetcode/LeetCode-306. 累加数.md
           - 'LeetCode-0307': problem/leetcode/LeetCode-307. 区域和检索 - 数组可修改.md
           - 'LeetCode-0309': problem/leetcode/LeetCode-309. 最佳买卖股票时机含冷冻期.md
