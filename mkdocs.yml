@@ -1231,6 +1231,7 @@ nav:
           - 'LeetCode-1297': problem/leetcode/LeetCode-1297. 子串的最大出现次数.md
           - 'LeetCode-1298': problem/leetcode/LeetCode-1298. 你能从盒子里获得的最大糖果数.md
           - 'LeetCode-1299': problem/leetcode/LeetCode-1299. 将每个元素替换为右侧最大元素.md
+          - 'LeetCode-1304': problem/leetcode/LeetCode-1304. 和为零的N个唯一整数.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
