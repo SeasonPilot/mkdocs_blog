@@ -425,6 +425,7 @@ nav:
           - 'LeetCode-0268': problem/leetcode/LeetCode-268.缺失数字 .md
           - 'LeetCode-0270': problem/leetcode/LeetCode-270. 最接近的二叉搜索树值.md
           - 'LeetCode-0271': problem/leetcode/LeetCode-271. 字符串的编码与解码.md
+          - 'LeetCode-0272': problem/leetcode/LeetCode-272. 最接近的二叉搜索树值II.md
           - 'LeetCode-0273': problem/leetcode/LeetCode-273. 整数转换英文表示.md
           - 'LeetCode-0274': problem/leetcode/LeetCode-274. H指数.md
           - 'LeetCode-0275': problem/leetcode/LeetCode-275. H指数 II.md
