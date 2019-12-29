@@ -771,6 +771,7 @@ nav:
           - 'LeetCode-0691': problem/leetcode/LeetCode-691. 贴纸拼词.md
           - 'LeetCode-0692': problem/leetcode/LeetCode-692. 前K个高频单词.md
           - 'LeetCode-0693': problem/leetcode/LeetCode-693. 交替位二进制数.md
+          - 'LeetCode-0694': problem/leetcode/LeetCode-694. 不同岛屿的数量.md
           - 'LeetCode-0695': problem/leetcode/LeetCode-695. 岛屿的最大面积.md
           - 'LeetCode-0696': problem/leetcode/LeetCode-696. 计数二进制子串.md
           - 'LeetCode-0697': problem/leetcode/LeetCode-697. 数组的度.md
