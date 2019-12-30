@@ -784,6 +784,7 @@ nav:
           - 'LeetCode-0705': problem/leetcode/LeetCode-705. 设计哈希集合.md
           - 'LeetCode-0706': problem/leetcode/LeetCode-706. 设计哈希映射.md
           - 'LeetCode-0707': problem/leetcode/LeetCode-707. 设计链表.md
+          - 'LeetCode-0708': problem/leetcode/LeetCode-708. 循环有序列表的插入.md
           - 'LeetCode-0709': problem/leetcode/LeetCode-709. 转换成小写字母.md
           - 'LeetCode-0710': problem/leetcode/LeetCode-710. 黑名单中的随机数.md
           - 'LeetCode-0712': problem/leetcode/LeetCode-712. 两个字符串的最小ASCII删除和.md
