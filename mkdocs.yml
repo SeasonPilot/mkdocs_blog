@@ -719,6 +719,7 @@ nav:
           - 'LeetCode-0622': problem/leetcode/LeetCode-622. 设计循环队列.md
           - 'LeetCode-0623': problem/leetcode/LeetCode-623. 在二叉树中增加一行.md
           - 'LeetCode-0624': problem/leetcode/LeetCode-624. 数组列表中的最大距离.md
+          - 'LeetCode-0625': problem/leetcode/LeetCode-625. 最小因式分解.md
           - 'LeetCode-0626': problem/leetcode/LeetCode-626. 换座位.md
           - 'LeetCode-0627': problem/leetcode/LeetCode-627. 交换工资.md
           - 'LeetCode-0628': problem/leetcode/LeetCode-628. 三个数的最大乘积.md
