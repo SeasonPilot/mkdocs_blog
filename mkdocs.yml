@@ -1245,6 +1245,7 @@ nav:
           - 'LeetCode-1302': problem/leetcode/LeetCode-1302. 层数最深叶子节点的和.md
           - 'LeetCode-1304': problem/leetcode/LeetCode-1304. 和为零的N个唯一整数.md
           - 'LeetCode-1305': problem/leetcode/LeetCode-1305. 两棵二叉搜索树中的所有元素.md
+          - 'LeetCode-1306': problem/leetcode/LeetCode-1306. 跳跃游戏III.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
