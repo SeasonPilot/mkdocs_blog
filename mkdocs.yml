@@ -1194,6 +1194,7 @@ nav:
           - 'LeetCode-1224': problem/leetcode/LeetCode-1224. 最大相等频率.md
           - 'LeetCode-1227': problem/leetcode/LeetCode-1227. 飞机座位分配概率.md
           - 'LeetCode-1228': problem/leetcode/LeetCode-1228. 等差数列中缺失的数字.md
+          - 'LeetCode-1229': problem/leetcode/LeetCode-1229. 安排会议日程.md
           - 'LeetCode-1232': problem/leetcode/LeetCode-1232. 缀点成线.md
           - 'LeetCode-1233': problem/leetcode/LeetCode-1233. 删除子文件夹.md
           - 'LeetCode-1234': problem/leetcode/LeetCode-1234. 替换子串得到平衡字符串.md
