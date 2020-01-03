@@ -1084,6 +1084,7 @@ nav:
           - 'LeetCode-1052': problem/leetcode/LeetCode-1052. 爱生气的书店老板.md
           - 'LeetCode-1053': problem/leetcode/LeetCode-1053. 交换一次的先前排列.md
           - 'LeetCode-1054': problem/leetcode/LeetCode-1054. 距离相等的条形码.md
+          - 'LeetCode-1055': problem/leetcode/LeetCode-1055. 形成字符串的最短路径.md
           - 'LeetCode-1056': problem/leetcode/LeetCode-1056. 易混淆数.md
           - 'LeetCode-1060': problem/leetcode/LeetCode-1060. 有序数组中的缺失元素.md
           - 'LeetCode-1061': problem/leetcode/LeetCode-1061. 按字典序排列最小的等效字符串.md
