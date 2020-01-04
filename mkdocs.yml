@@ -828,6 +828,7 @@ nav:
           - 'LeetCode-0752': problem/leetcode/LeetCode-752. 打开转盘锁.md
           - 'LeetCode-0753': problem/leetcode/LeetCode-753. 破解保险箱.md
           - 'LeetCode-0754': problem/leetcode/LeetCode-754. 到达终点数字.md
+          - 'LeetCode-0755': problem/leetcode/LeetCode-755. 倒水.md
           - 'LeetCode-0756': problem/leetcode/LeetCode-756. 金字塔转换矩阵.md
           - 'LeetCode-0758': problem/leetcode/LeetCode-758. 字符串中的加粗单词.md
           - 'LeetCode-0760': problem/leetcode/LeetCode-760. 找出变位映射.md
