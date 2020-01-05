@@ -1256,6 +1256,7 @@ nav:
           - 'LeetCode-1305': problem/leetcode/LeetCode-1305. 两棵二叉搜索树中的所有元素.md
           - 'LeetCode-1306': problem/leetcode/LeetCode-1306. 跳跃游戏III.md
           - 'LeetCode-1309': problem/leetcode/LeetCode-1309. 解码字母到整数映射.md
+          - 'LeetCode-1310': problem/leetcode/LeetCode-1310. 子数组异或查询.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
