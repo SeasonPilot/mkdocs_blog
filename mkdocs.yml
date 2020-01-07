@@ -729,6 +729,7 @@ nav:
           - 'LeetCode-0629': problem/leetcode/LeetCode-629. K个逆序对数组.md
           - 'LeetCode-0630': problem/leetcode/LeetCode-630. 课程表 III.md
           - 'LeetCode-0633': problem/leetcode/LeetCode-633. 平方数之和.md
+          - 'LeetCode-0634': problem/leetcode/LeetCode-634. 寻找数组的错位排列.md
           - 'LeetCode-0636': problem/leetcode/LeetCode-636. 函数的独占时间.md
           - 'LeetCode-0637': problem/leetcode/LeetCode-637. 二叉树的层平均值.md
           - 'LeetCode-0638': problem/leetcode/LeetCode-638. 大礼包.md
