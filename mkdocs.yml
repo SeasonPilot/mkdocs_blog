@@ -1101,6 +1101,7 @@ nav:
           - 'LeetCode-1081': problem/leetcode/LeetCode-1081. 不同字符的最小子序列.md
           - 'LeetCode-1085': problem/leetcode/LeetCode-1085. 最小元素各数位之和.md
           - 'LeetCode-1086': problem/leetcode/LeetCode-1086. 前五科的均分.md
+          - 'LeetCode-1087': problem/leetcode/LeetCode-1087. 字母切换.md
           - 'LeetCode-1089': problem/leetcode/LeetCode-1089. 复写零.md
           - 'LeetCode-1090': problem/leetcode/LeetCode-1090. 受标签影响的最大值.md
           - 'LeetCode-1091': problem/leetcode/LeetCode-1091. 二进制矩阵中的最短路径.md
