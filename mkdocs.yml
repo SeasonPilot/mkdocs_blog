@@ -766,6 +766,7 @@ nav:
           - 'LeetCode-0678': problem/leetcode/LeetCode-678. 有效的括号字符串.md
           - 'LeetCode-0679': problem/leetcode/LeetCode-679. 24 点游戏.md
           - 'LeetCode-0680': problem/leetcode/LeetCode-680. 验证回文字符串 Ⅱ.md
+          - 'LeetCode-0681': problem/leetcode/LeetCode-681. 最近时刻.md
           - 'LeetCode-0682': problem/leetcode/LeetCode-682. 棒球比赛.md
           - 'LeetCode-0684': problem/leetcode/LeetCode-684. 冗余连接.md
           - 'LeetCode-0685': problem/leetcode/LeetCode-685. 冗余连接 II.md
