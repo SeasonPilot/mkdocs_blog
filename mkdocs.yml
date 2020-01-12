@@ -1266,6 +1266,7 @@ nav:
           - 'LeetCode-1311': problem/leetcode/LeetCode-1311. 获取你好友已观看的视频.md
           - 'LeetCode-1312': problem/leetcode/LeetCode-1312. 让字符串成为回文串的最少插入次数.md
           - 'LeetCode-1313': problem/leetcode/LeetCode-1313. 解压缩编码列表.md
+          - 'LeetCode-1314': problem/leetcode/LeetCode-1314. 矩阵区域和.md
           - 'LeetCode-1315': problem/leetcode/LeetCode-1315. 祖父节点值为偶数的节点和.md
           - 'LeetCode-1317': problem/leetcode/LeetCode-1317. 将整数转换为两个无零整数的和.md
       - 'KickStart':
