@@ -1271,6 +1271,7 @@ nav:
           - 'LeetCode-1317': problem/leetcode/LeetCode-1317. 将整数转换为两个无零整数的和.md
           - 'LeetCode-1323': problem/leetcode/LeetCode-1323.6和9组成的最大数字.md
           - 'LeetCode-1331': problem/leetcode/LeetCode-1331. 数组序号转换.md
+          - 'LeetCode-1332': problem/leetcode/LeetCode-1332. 删除回文子序列.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
