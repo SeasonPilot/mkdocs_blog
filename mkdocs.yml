@@ -1273,6 +1273,7 @@ nav:
           - 'LeetCode-1331': problem/leetcode/LeetCode-1331. 数组序号转换.md
           - 'LeetCode-1332': problem/leetcode/LeetCode-1332. 删除回文子序列.md
           - 'LeetCode-1341': problem/leetcode/LeetCode-1341. 方阵中战斗力最弱的 K 行.md
+          - 'LeetCode-1346': problem/leetcode/LeetCode-1346. 检查整数及其两倍数是否存在.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
