@@ -1273,6 +1273,7 @@ nav:
           - 'LeetCode-1331': problem/leetcode/LeetCode-1331. 数组序号转换.md
           - 'LeetCode-1332': problem/leetcode/LeetCode-1332. 删除回文子序列.md
           - 'LeetCode-1341': problem/leetcode/LeetCode-1341. 方阵中战斗力最弱的 K 行.md
+          - 'LeetCode-1342': problem/leetcode/LeetCode-1342. 将数字变成 0 的操作次数.md
           - 'LeetCode-1346': problem/leetcode/LeetCode-1346. 检查整数及其两倍数是否存在.md
           - 'LeetCode-1347': problem/leetcode/LeetCode-1347. 制造字母异位词的最小步骤数.md
           - 'LeetCode-1348': problem/leetcode/LeetCode-1348. 推文计数.md
