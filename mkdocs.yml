@@ -1277,7 +1277,8 @@ nav:
           - "LeetCode-1348": problem/leetcode/LeetCode-1348. 推文计数.md
           - "LeetCode-1351": problem/leetcode/LeetCode-1351. 统计有序矩阵中的负数.md
           - "LeetCode-1356": problem/leetcode/LeetCode-1356. 根据数字二进制下1的数目排序.md
-          - "LeetCode-1356": problem/leetcode/LeetCode-1360. 日期之间隔几天.md
+          - "LeetCode-1360": problem/leetcode/LeetCode-1360. 日期之间隔几天.md
+          - "LeetCode-1365": problem/leetcode/LeetCode-1365. 有多少小于当前数字的数字.md
       - "KickStart":
           - "2018_Round_B":
               - "Problem A. No Nine": problem/kickstart/Problem A. No Nine.md
