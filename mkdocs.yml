@@ -1278,6 +1278,7 @@ nav:
           - 'LeetCode-1347': problem/leetcode/LeetCode-1347. 制造字母异位词的最小步骤数.md
           - 'LeetCode-1348': problem/leetcode/LeetCode-1348. 推文计数.md
           - 'LeetCode-1351': problem/leetcode/LeetCode-1351. 统计有序矩阵中的负数.md
+          - 'LeetCode-1356': problem/leetcode/LeetCode-1356. 根据数字二进制下1的数目排序.md
       - 'KickStart':
           - '2018_Round_B': 
               - 'Problem A. No Nine': problem/kickstart/Problem A. No Nine.md
