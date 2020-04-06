@@ -34,7 +34,7 @@ after_script:
   - touch CNAME
   - echo 'aisky.men' > CNAME
   - git init
-  - git config user.name "zhishengqianjun"
+  - git config user.name "zhanguohao"
   - git config user.email "zhishengqianjun@163.com"
   - git add .
   - git commit -m "Update docs By TravisCI With Build $TRAVIS_BUILD_NUMBER"
@@ -48,5 +48,5 @@ env:
   global:
     # Coding Pages
     - CO_REF: git.dev.tencent.com/zhishengqianjun/blog.git
-    - GH_REF: github.com/gaviners/mkdocs_blog.git
-    - GH_REF_IO: github.com/gaviners/gaviners.github.io.git
+    - GH_REF: github.com/zhanguohao/mkdocs_blog.git
+    - GH_REF_IO: github.com/zhanguohao/zhanguohao.github.io.git

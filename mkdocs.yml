@@ -5,8 +5,8 @@ site_author: "gavin"
 site_url: "https://aisky.men"
 
 # Repository
-repo_name: "gaviners/mkdocs_blog"
-repo_url: "https://github.com/gaviners/mkdocs_blog"
+repo_name: "zhanguohao/mkdocs_blog"
+repo_url: "https://github.com/zhanguohao/mkdocs_blog"
 edit_uri: "blob/mkdocs_blog/docs/"
 
 # Copyright
@@ -32,7 +32,7 @@ plugins:
 extra:
   social:
     - type: "github"
-      link: "https://github.com/gaviners"
+      link: "https://github.com/zhanguohao"
       #  disqus: 'gaviner'
 google_analytics:
   - "UA-145824041-1"
